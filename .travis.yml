@@ -1,0 +1,7 @@
+language: generic
+
+script: ./mirror.sh
+env:
+  global:
+    - ENCRYPTION_LABEL: "1645300b04d0"
+    - COMMIT_AUTHOR_EMAIL: "bot@favadi.com"
