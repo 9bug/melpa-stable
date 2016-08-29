@@ -5,6 +5,7 @@ set -euxo pipefail
 SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 MELPA_RSYNC_URL="rsync://stable.melpa.org/packages/"
+BUILD_DIR="$HOME"/gh-pages/
 
 # reduce git memory usage
 git config --global pack.windowMemory "100m"
@@ -23,26 +24,18 @@ REPO=$(git config remote.origin.url)
 SSH_REPO=${REPO/https:\/\/github.com\//git@github.com:}
 SHA=$(git rev-parse --verify HEAD)
 
-# Clone the existing gh-pages for this repo into out/
-# Create a new empty branch if gh-pages doesn't exist yet (should only happen on first deply)
-git clone "$REPO" out
-pushd out
-git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
-popd ..
-
-# Clean out existing contents
-rm -rf out/**/* || exit 0
-
 # Sync MELPA to output directory
-rsync -avz --delete "$MELPA_RSYNC_URL" out/
+mkdir "$BUILD_DIR"
+rsync -avz --delete "$MELPA_RSYNC_URL" "$BUILD_DIR"
 
-# Now let's go have some fun with the cloned repo
-pushd out
+# Commit the mirror
+pushd "$BUILD_DIR"
+git init
+git checkout -b "$TARGET_BRANCH"
 git config user.name "Travis CI"
 git config user.email "$COMMIT_AUTHOR_EMAIL"
-
-# Commit the "changes", i.e. the new version.
-# The delta will show diffs between new and old versions.
+git remote add origin "$SSH_REPO"
+cp "$TRAVIS_BUILD_DIR"/index.html .
 date > mirror-updated-date.txt
 git add .
 git commit -m "Deploy to GitHub Pages: ${SHA}"
@@ -59,6 +52,6 @@ eval "$(ssh-agent -s)"
 ssh-add deploy_key
 
 # Now that we're all set up, we can push.
-pushd out
-git push --force "$SSH_REPO" $TARGET_BRANCH
+pushd "$BUILD_DIR"
+git push --force origin $TARGET_BRANCH
 popd
