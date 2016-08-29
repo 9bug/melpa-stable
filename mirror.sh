@@ -6,6 +6,11 @@ SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 MELPA_RSYNC_URL="rsync://stable.melpa.org/packages/"
 
+# reduce git memory usage
+git config --global pack.windowMemory "100m"
+git config --global pack.packSizeLimit "100m"
+git config --global pack.threads 1
+
 # Pull requests and commits to other branches shouldn't try to deploy,
 # just build to verify
 if [[ "$TRAVIS_PULL_REQUEST" != "false" || "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]]; then
