@@ -36,7 +36,7 @@ for name in "${!RSYNC_URLS[@]}"; do
     build_dir="$HOME/$TARGET_BRANCH/$name"
 
     mkdir -p "$build_dir"
-    rsync -avz "$rsync_url" "$build_dir"
+    rsync -aqz "$rsync_url" "$build_dir"
 
     pushd "$build_dir"
     git init
