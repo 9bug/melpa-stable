@@ -1,13 +1,23 @@
 #!/bin/bash
 
-set -euxo pipefail
+set -euo pipefail
 
 SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
-MELPA_RSYNC_URL="rsync://stable.melpa.org/packages/"
-BUILD_DIR="$HOME"/gh-pages/
+declare -A RSYNC_URLS=(
+    [melpa]=rsync://melpa.org/packages/
+    [melpa_stable]=rsync://stable.melpa.org/packages/
+)
+declare -A GIT_REPOS=(
+    [melpa]=git@github.com:9bug/melpa.git
+    [melpa_stable]=git@github.com:9bug/melpa-stable.git
+)
+declare -A DEPLOY_KEYS=(
+    [melpa]=melpa
+    [melpa_stable]=melpa_stable
+)
 
-# reduce git memory usage
+# Reduce git memory usage
 git config --global pack.windowMemory "100m"
 git config --global pack.packSizeLimit "100m"
 git config --global pack.threads 1
@@ -19,39 +29,40 @@ if [[ "$TRAVIS_PULL_REQUEST" != "false" || "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" 
     exit 0
 fi
 
-# Save some useful information
-REPO=$(git config remote.origin.url)
-SSH_REPO=${REPO/https:\/\/github.com\//git@github.com:}
-SHA=$(git rev-parse --verify HEAD)
+for name in "${!RSYNC_URLS[@]}"; do
+    rsync_url="${RSYNC_URLS[$name]}"
+    git_repo="${GIT_REPOS[$name]}"
+    deploy_key="${DEPLOY_KEYS[$name]}"
+    build_dir="$HOME/$TARGET_BRANCH/$name"
 
-# Sync MELPA to output directory
-mkdir "$BUILD_DIR"
-rsync -avz --delete "$MELPA_RSYNC_URL" "$BUILD_DIR"
+    mkdir -p "$build_dir"
+    rsync -avz "$rsync_url" "$build_dir"
 
-# Commit the mirror
-pushd "$BUILD_DIR"
-git init
-git checkout -b "$TARGET_BRANCH"
-git config user.name "Travis CI"
-git config user.email "$COMMIT_AUTHOR_EMAIL"
-git remote add origin "$SSH_REPO"
-cp "$TRAVIS_BUILD_DIR"/index.html .
-date > mirror-updated-date.txt
-git add .
-git commit -m "Deploy to GitHub Pages: ${SHA}"
-popd
+    pushd "$build_dir"
+    git init
+    git checkout -b "$TARGET_BRANCH"
+    git config user.name "Travis CI"
+    git config user.email "$COMMIT_AUTHOR_EMAIL"
+    git remote add origin "$git_repo"
+    now="$(date)"
+    cp "$TRAVIS_BUILD_DIR"/index.html .
+    git add .
+    git commit -m "Mirror from $rsync_url to $git_repo at $now"
+    popd
 
-# Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
-ENCRYPTED_KEY_VAR="encrypted_${ENCRYPTION_LABEL}_key"
-ENCRYPTED_IV_VAR="encrypted_${ENCRYPTION_LABEL}_iv"
-ENCRYPTED_KEY=${!ENCRYPTED_KEY_VAR}
-ENCRYPTED_IV=${!ENCRYPTED_IV_VAR}
-openssl aes-256-cbc -K "$ENCRYPTED_KEY" -iv "$ENCRYPTED_IV" -in deploy_key.enc -out deploy_key -d
-chmod 600 deploy_key
-eval "$(ssh-agent -s)"
-ssh-add deploy_key
+    # Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
+    encrypted_key_var="encrypted_${ENCRYPTION_LABEL}_key"
+    encrypted_iv_var="encrypted_${ENCRYPTION_LABEL}_iv"
+    encrypted_key=${!encrypted_key_var}
+    encrypted_iv=${!encrypted_iv_var}
+    openssl aes-256-cbc -K "$encrypted_key" -iv "$encrypted_iv" \
+            -in "$deploy_key".enc -out "$deploy_key" -d
+    chmod 600 "$deploy_key"
+    eval "$(ssh-agent -s)"
+    ssh-add "$deploy_key"
 
-# Now that we're all set up, we can push.
-pushd "$BUILD_DIR"
-git push --force origin $TARGET_BRANCH
-popd
+    # Now that we're all set up, we can push.
+    pushd "$build_dir"
+    git push --force origin $TARGET_BRANCH
+    popd
+done
