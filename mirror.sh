@@ -61,7 +61,14 @@ for name in "${!RSYNC_URLS[@]}"; do
     git config user.email "$COMMIT_AUTHOR_EMAIL"
     git remote add origin "$git_repo"
     now="$(date)"
-    cp "$TRAVIS_BUILD_DIR"/index.html .
+    cat <<EOF > index.html
+Mirror: https://9bug.github.io/$name<br/>
+Upstream: $rsync_url<br/>
+Updated: $now<br/>
+<br/>
+Github: https://github.com/9bug/melpa-stable<br/>
+EOF
+
     git add . > /dev/null 2>&1
     git commit -m "Mirror from $rsync_url to $git_repo at $now" > /dev/null 2>&1
 
