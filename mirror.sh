@@ -4,6 +4,7 @@ set -euxo pipefail
 
 SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
+DEPLOY_KEYS_DIR="$HOME"/deploy_keys
 declare -A RSYNC_URLS=(
     [melpa]=rsync://melpa.org/packages/
     [melpa_stable]=rsync://stable.melpa.org/packages/
@@ -27,11 +28,11 @@ fi
 
 # Get the deploy key by using Travis's stored variables to decrypt
 # deploy_keys.tar.enc
-deploy_keys_dir="$HOME"/deploy_keys
-mkdir -p "$deploy_keys_dir"
-pushd "$deploy_keys_dir"
+
+mkdir -p "$DEPLOY_KEYS_DIR"
+pushd "$DEPLOY_KEYS_DIR"
 set +x
-echo "decrypt deploy keys"
+echo "decrypt deploy keys archive"
 encrypted_key_var="encrypted_${ENCRYPTION_LABEL}_key"
 encrypted_iv_var="encrypted_${ENCRYPTION_LABEL}_iv"
 encrypted_key=${!encrypted_key_var}
@@ -40,10 +41,8 @@ openssl aes-256-cbc -K "$encrypted_key" -iv "$encrypted_iv" \
         -in "$TRAVIS_BUILD_DIR"/deploy_keys.tar.enc -out deploy_keys.tar -d
 set -x
 tar xvf deploy_keys.tar
-chmod 600 melpa melpa_stable
+chmod 600 ./*
 eval "$(ssh-agent -s)"
-ssh-add melpa
-ssh-add melpa_stable
 popd
 
 
@@ -65,10 +64,10 @@ for name in "${!RSYNC_URLS[@]}"; do
     cp "$TRAVIS_BUILD_DIR"/index.html .
     git add . > /dev/null 2>&1
     git commit -m "Mirror from $rsync_url to $git_repo at $now" > /dev/null 2>&1
-    popd
 
-    # Now that we're all set up, we can push.
-    pushd "$build_dir"
+    ssh-add -D
+    ssh-add "$DEPLOY_KEYS_DIR/$name"
+
     git push --force origin $TARGET_BRANCH
     popd
 done
