@@ -46,8 +46,8 @@ for name in "${!RSYNC_URLS[@]}"; do
     git remote add origin "$git_repo"
     now="$(date)"
     cp "$TRAVIS_BUILD_DIR"/index.html .
-    git add .
-    git commit -m "Mirror from $rsync_url to $git_repo at $now"
+    git add . > /dev/null 2>&1
+    git commit -m "Mirror from $rsync_url to $git_repo at $now" > /dev/null 2>&1
     popd
 
     # Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
