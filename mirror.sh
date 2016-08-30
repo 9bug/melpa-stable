@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -euo pipefail
+set -euxo pipefail
 
 SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
@@ -11,10 +11,6 @@ declare -A RSYNC_URLS=(
 declare -A GIT_REPOS=(
     [melpa]=git@github.com:9bug/melpa.git
     [melpa_stable]=git@github.com:9bug/melpa-stable.git
-)
-declare -A DEPLOY_KEYS=(
-    [melpa]=melpa
-    [melpa_stable]=melpa_stable
 )
 
 # Reduce git memory usage
@@ -29,10 +25,31 @@ if [[ "$TRAVIS_PULL_REQUEST" != "false" || "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" 
     exit 0
 fi
 
+# Get the deploy key by using Travis's stored variables to decrypt
+# deploy_keys.tar.enc
+deploy_keys_dir="$HOME"/deploy_keys
+mkdir -p "$deploy_keys_dir"
+pushd "$deploy_keys_dir"
+set +x
+echo "decrypt deploy keys"
+encrypted_key_var="encrypted_${ENCRYPTION_LABEL}_key"
+encrypted_iv_var="encrypted_${ENCRYPTION_LABEL}_iv"
+encrypted_key=${!encrypted_key_var}
+encrypted_iv=${!encrypted_iv_var}
+openssl aes-256-cbc -K "$encrypted_key" -iv "$encrypted_iv" \
+        -in "$TRAVIS_BUILD_DIR"/deploy_keys.tar.enc -out deploy_keys.tar -d
+set -x
+tar xvf deploy_keys.tar
+chmod 600 melpa melpa_stable
+eval "$(ssh-agent -s)"
+ssh-add melpa
+ssh-add melpa_stable
+popd
+
+
 for name in "${!RSYNC_URLS[@]}"; do
     rsync_url="${RSYNC_URLS[$name]}"
     git_repo="${GIT_REPOS[$name]}"
-    deploy_key="${DEPLOY_KEYS[$name]}"
     build_dir="$HOME/$TARGET_BRANCH/$name"
 
     mkdir -p "$build_dir"
@@ -49,17 +66,6 @@ for name in "${!RSYNC_URLS[@]}"; do
     git add . > /dev/null 2>&1
     git commit -m "Mirror from $rsync_url to $git_repo at $now" > /dev/null 2>&1
     popd
-
-    # Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
-    encrypted_key_var="encrypted_${ENCRYPTION_LABEL}_key"
-    encrypted_iv_var="encrypted_${ENCRYPTION_LABEL}_iv"
-    encrypted_key=${!encrypted_key_var}
-    encrypted_iv=${!encrypted_iv_var}
-    openssl aes-256-cbc -K "$encrypted_key" -iv "$encrypted_iv" \
-            -in "$deploy_key".enc -out "$deploy_key" -d
-    chmod 600 "$deploy_key"
-    eval "$(ssh-agent -s)"
-    ssh-add "$deploy_key"
 
     # Now that we're all set up, we can push.
     pushd "$build_dir"
