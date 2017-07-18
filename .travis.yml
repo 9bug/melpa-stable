@@ -1,6 +1,6 @@
 language: generic
 
-script: ./mirror.sh
+script: travis_wait ./mirror.sh
 env:
   global:
     - ENCRYPTION_LABEL: "1645300b04d0"
