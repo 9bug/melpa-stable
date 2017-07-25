@@ -1,5 +1,6 @@
 language: generic
 
+# to prevent travis to kill the job because no output is printed out
 script: travis_wait ./mirror.sh
 env:
   global:
