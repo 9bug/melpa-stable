@@ -1,0 +1,11 @@
+Package: download-region
+Fetcher: github
+Source:  https://github.com/zk-phi/download-region.git
+
+Updating /mnt/store/melpa/working/download-region/
+Built download-region in 3.452s, finished at Sun Apr  4 16:28:29 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K Apr  4 16:28 packages/download-region-20210306.415.el
+4.0K -rw-r--r-- 1 root root  277 Apr  4 16:28 packages/download-region-20210306.415.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:28 packages/download-region-badge.svg
+4.0K -rw-r--r-- 1 root root  299 Apr  4 16:28 packages/download-region-readme.txt

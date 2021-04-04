@@ -1,0 +1,11 @@
+Package: helm-flymake
+Fetcher: github
+Source:  https://github.com/tam17aki/helm-flymake.git
+
+Updating /mnt/store/melpa/working/helm-flymake/
+Built helm-flymake in 3.910s, finished at Sun Apr  4 16:42:54 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.0K Apr  4 16:42 packages/helm-flymake-20160610.2.el
+4.0K -rw-r--r-- 1 root root  337 Apr  4 16:42 packages/helm-flymake-20160610.2.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:42 packages/helm-flymake-badge.svg
+4.0K -rw-r--r-- 1 root root  842 Apr  4 16:42 packages/helm-flymake-readme.txt

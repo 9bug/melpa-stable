@@ -1,0 +1,11 @@
+Package: ivy-bibtex
+Fetcher: github
+Source:  https://github.com/tmalsburg/helm-bibtex.git
+
+Updating /mnt/store/melpa/working/ivy-bibtex/
+Built ivy-bibtex in 4.248s, finished at Sun Apr  4 16:47:03 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K Apr  4 16:47 packages/ivy-bibtex-20201014.803.el
+4.0K -rw-r--r-- 1 root root  452 Apr  4 16:47 packages/ivy-bibtex-20201014.803.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:47 packages/ivy-bibtex-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Apr  4 16:47 packages/ivy-bibtex-readme.txt

@@ -1,0 +1,11 @@
+Package: cucumber-goto-step
+Fetcher: github
+Source:  https://github.com/gstamp/cucumber-goto-step.git
+
+Updating /mnt/store/melpa/working/cucumber-goto-step/
+Built cucumber-goto-step in 3.400s, finished at Sun Apr  4 16:25:47 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K Apr  4 16:25 packages/cucumber-goto-step-20131210.519.el
+4.0K -rw-r--r-- 1 root root  367 Apr  4 16:25 packages/cucumber-goto-step-20131210.519.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:25 packages/cucumber-goto-step-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Apr  4 16:25 packages/cucumber-goto-step-readme.txt

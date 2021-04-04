@@ -1,0 +1,11 @@
+Package: xml+
+Fetcher: github
+Source:  https://github.com/bddean/xml-plus.git
+
+Updating /mnt/store/melpa/working/xml+/
+Built xml+ in 3.186s, finished at Sun Apr  4 16:14:58 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K Apr  4 16:14 packages/xml+-20170727.2351.el
+4.0K -rw-r--r-- 1 root root  367 Apr  4 16:14 packages/xml+-20170727.2351.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:14 packages/xml+-badge.svg
+4.0K -rw-r--r-- 1 root root  230 Apr  4 16:14 packages/xml+-readme.txt

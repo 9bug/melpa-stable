@@ -1,0 +1,11 @@
+Package: eg
+Fetcher: github
+Source:  https://github.com/davep/eg.el.git
+
+Updating /mnt/store/melpa/working/eg/
+Built eg in 3.536s, finished at Sun Apr  4 16:29:40 2021
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  38K Apr  4 16:29 packages/eg-20170830.815.el
+4.0K -rw-r--r-- 1 root root  370 Apr  4 16:29 packages/eg-20170830.815.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:29 packages/eg-badge.svg
+4.0K -rw-r--r-- 1 root root  285 Apr  4 16:29 packages/eg-readme.txt

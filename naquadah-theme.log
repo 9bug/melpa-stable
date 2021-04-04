@@ -1,0 +1,10 @@
+Package: naquadah-theme
+Fetcher: github
+Source:  https://github.com/jd/naquadah-theme.git
+
+Updating /mnt/store/melpa/working/naquadah-theme/
+Built naquadah-theme in 3.531s, finished at Sun Apr  4 16:55:45 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  29K Apr  4 16:55 packages/naquadah-theme-20190225.1427.el
+4.0K -rw-r--r-- 1 root root  148 Apr  4 16:55 packages/naquadah-theme-20190225.1427.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:55 packages/naquadah-theme-badge.svg

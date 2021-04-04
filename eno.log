@@ -1,0 +1,11 @@
+Package: eno
+Fetcher: github
+Source:  https://github.com/emacsattic/eno.git
+
+Updating /mnt/store/melpa/working/eno/
+Built eno in 3.364s, finished at Sun Apr  4 16:31:57 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K Apr  4 16:31 packages/eno-20191013.1239.el
+4.0K -rw-r--r-- 1 root root  389 Apr  4 16:31 packages/eno-20191013.1239.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:31 packages/eno-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Apr  4 16:31 packages/eno-readme.txt

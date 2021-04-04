@@ -1,0 +1,5 @@
+(annotation .
+	    [(20200914 644)
+	     nil "Functions for annotating text with faces and help bubbles" single
+	     ((:commit . "937426d38b6459e62db9eb66e4c1d35db585082a")
+	      (:url . "https://github.com/agda/agda"))])

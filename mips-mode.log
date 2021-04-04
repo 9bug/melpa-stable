@@ -1,0 +1,11 @@
+Package: mips-mode
+Fetcher: github
+Source:  https://github.com/hlissner/emacs-mips-mode.git
+
+Updating /mnt/store/melpa/working/mips-mode/
+Built mips-mode in 3.411s, finished at Sun Apr  4 16:53:58 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Apr  4 16:53 packages/mips-mode-20180502.1457.el
+4.0K -rw-r--r-- 1 root root  382 Apr  4 16:53 packages/mips-mode-20180502.1457.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:53 packages/mips-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  199 Apr  4 16:53 packages/mips-mode-readme.txt

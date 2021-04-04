@@ -1,0 +1,16 @@
+Package: number
+Fetcher: github
+Source:  https://github.com/chrisdone/number.git
+
+Updating /mnt/store/melpa/working/number/
+Built number in 4.945s, finished at Sun Apr  4 16:57:46 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.3K Apr  4 16:57 packages/number-20170901.1312.el
+4.0K -rw-r--r-- 1 root root  135 Apr  4 16:57 packages/number-20170901.1312.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:57 packages/number-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K Apr  4 16:57 packages/number-lock-20160830.200.el
+4.0K -rw-r--r-- 1 root root  392 Apr  4 16:57 packages/number-lock-20160830.200.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:57 packages/number-lock-badge.svg
+4.0K -rw-r--r-- 1 root root  476 Apr  4 16:57 packages/number-lock-readme.txt
+4.0K -rw-r--r-- 1 root root  544 Apr  4 16:57 packages/number-lock.log
+4.0K -rw-r--r-- 1 root root  820 Apr  4 16:57 packages/number-readme.txt

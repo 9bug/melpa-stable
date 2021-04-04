@@ -1,0 +1,11 @@
+Package: ivy-omni-org
+Fetcher: github
+Source:  https://github.com/akirak/ivy-omni-org.git
+
+Updating /mnt/store/melpa/working/ivy-omni-org/
+Built ivy-omni-org in 4.091s, finished at Sun Apr  4 16:47:16 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K Apr  4 16:47 packages/ivy-omni-org-20200810.1050.el
+4.0K -rw-r--r-- 1 root root  420 Apr  4 16:47 packages/ivy-omni-org-20200810.1050.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:47 packages/ivy-omni-org-badge.svg
+4.0K -rw-r--r-- 1 root root  126 Apr  4 16:47 packages/ivy-omni-org-readme.txt

@@ -1,0 +1,37 @@
+Package: elfeed-score
+Fetcher: github
+Source:  https://github.com/sp1ff/elfeed-score.git
+
+Updating /mnt/store/melpa/working/elfeed-score/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elfeed-score/
+  to /tmp/elfeed-scoreiia2jm/elfeed-score-20210302.2051
+    elfeed-score-log.el -> elfeed-score-log.el
+    elfeed-score-maint.el -> elfeed-score-maint.el
+    elfeed-score-pkg.el -> elfeed-score-pkg.el
+    elfeed-score-rules.el -> elfeed-score-rules.el
+    elfeed-score-scoring.el -> elfeed-score-scoring.el
+    elfeed-score-serde.el -> elfeed-score-serde.el
+    elfeed-score.el -> elfeed-score.el
+  ! doc/elfeed-score.texi -> elfeed-score.texi
+  ! doc/version.texi -> version.texi
+Created /tmp/elfeed-scoreiia2jm/elfeed-score-20210302.2051/elfeed-score.info
+Created /tmp/elfeed-scoreiia2jm/elfeed-score-20210302.2051/version.info
+Created elfeed-score-20210302.2051.tar containing:
+  elfeed-score-20210302.2051/
+  elfeed-score-20210302.2051/dir
+  elfeed-score-20210302.2051/elfeed-score-log.el
+  elfeed-score-20210302.2051/elfeed-score-maint.el
+  elfeed-score-20210302.2051/elfeed-score-pkg.el
+  elfeed-score-20210302.2051/elfeed-score-rules.el
+  elfeed-score-20210302.2051/elfeed-score-scoring.el
+  elfeed-score-20210302.2051/elfeed-score-serde.el
+  elfeed-score-20210302.2051/elfeed-score.el
+  elfeed-score-20210302.2051/elfeed-score.info
+  elfeed-score-20210302.2051/version.info
+Built elfeed-score in 17.939s, finished at Sun Apr  4 16:30:54 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  385 Apr  4 16:30 packages/elfeed-score-20210302.2051.entry
+180K -rw-r--r-- 1 root root 180K Apr  4 16:30 packages/elfeed-score-20210302.2051.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:30 packages/elfeed-score-badge.svg
+4.0K -rw-r--r-- 1 root root  629 Apr  4 16:30 packages/elfeed-score-readme.txt

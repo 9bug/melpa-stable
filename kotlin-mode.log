@@ -1,0 +1,21 @@
+Package: kotlin-mode
+Fetcher: github
+Source:  https://github.com/Emacs-Kotlin-Mode-Maintainers/kotlin-mode.git
+
+Updating /mnt/store/melpa/working/kotlin-mode/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kotlin-mode/
+  to /tmp/kotlin-mode66b36R/kotlin-mode-20200925.1541
+    kotlin-mode-lexer.el -> kotlin-mode-lexer.el
+    kotlin-mode.el -> kotlin-mode.el
+Created kotlin-mode-20200925.1541.tar containing:
+  kotlin-mode-20200925.1541/
+  kotlin-mode-20200925.1541/kotlin-mode-lexer.el
+  kotlin-mode-20200925.1541/kotlin-mode-pkg.el
+  kotlin-mode-20200925.1541/kotlin-mode.el
+Built kotlin-mode in 2.517s, finished at Sun Apr  4 16:49:32 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  330 Apr  4 16:49 packages/kotlin-mode-20200925.1541.entry
+ 40K -rw-r--r-- 1 root root  40K Apr  4 16:49 packages/kotlin-mode-20200925.1541.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:49 packages/kotlin-mode-badge.svg
+   0 -rw-r--r-- 1 root root    0 Apr  4 16:49 packages/kotlin-mode-readme.txt

@@ -1,0 +1,11 @@
+Package: tabula-rasa
+Fetcher: github
+Source:  https://github.com/IdoMagal/Tabula-Rasa.git
+
+Updating /mnt/store/melpa/working/tabula-rasa/
+Built tabula-rasa in 3.458s, finished at Sun Apr  4 16:09:23 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.6K Apr  4 16:09 packages/tabula-rasa-20141216.547.el
+4.0K -rw-r--r-- 1 root root  425 Apr  4 16:09 packages/tabula-rasa-20141216.547.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:09 packages/tabula-rasa-badge.svg
+4.0K -rw-r--r-- 1 root root  753 Apr  4 16:09 packages/tabula-rasa-readme.txt

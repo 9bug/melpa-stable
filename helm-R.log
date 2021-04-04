@@ -1,0 +1,11 @@
+Package: helm-R
+Fetcher: github
+Source:  https://github.com/myuhe/helm-R.el.git
+
+Updating /mnt/store/melpa/working/helm-R/
+Built helm-R in 7.656s, finished at Sun Apr  4 16:42:05 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K Apr  4 16:42 packages/helm-R-20120820.14.el
+4.0K -rw-r--r-- 1 root root  349 Apr  4 16:42 packages/helm-R-20120820.14.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:42 packages/helm-R-badge.svg
+4.0K -rw-r--r-- 1 root root   88 Apr  4 16:42 packages/helm-R-readme.txt

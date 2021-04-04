@@ -1,0 +1,11 @@
+Package: ess-smart-equals
+Fetcher: github
+Source:  https://github.com/genovese/ess-smart-equals.git
+
+Updating /mnt/store/melpa/working/ess-smart-equals/
+Built ess-smart-equals in 3.294s, finished at Sun Apr  4 16:32:57 2021
+ ✓ Success:
+ 72K -rw-r--r-- 1 root root  72K Apr  4 16:32 packages/ess-smart-equals-20190204.449.el
+4.0K -rw-r--r-- 1 root root  473 Apr  4 16:32 packages/ess-smart-equals-20190204.449.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:32 packages/ess-smart-equals-badge.svg
+8.0K -rw-r--r-- 1 root root 7.1K Apr  4 16:32 packages/ess-smart-equals-readme.txt

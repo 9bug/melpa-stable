@@ -1,0 +1,11 @@
+Package: itail
+Fetcher: github
+Source:  https://github.com/re5et/itail.git
+
+Updating /mnt/store/melpa/working/itail/
+Built itail in 3.288s, finished at Sun Apr  4 16:46:57 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  4 16:46 packages/itail-20171112.804.el
+4.0K -rw-r--r-- 1 root root  256 Apr  4 16:46 packages/itail-20171112.804.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:46 packages/itail-badge.svg
+4.0K -rw-r--r-- 1 root root  169 Apr  4 16:46 packages/itail-readme.txt

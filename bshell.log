@@ -1,0 +1,11 @@
+Package: bshell
+Fetcher: github
+Source:  https://github.com/plandes/bshell.git
+
+Updating /mnt/store/melpa/working/bshell/
+Built bshell in 3.387s, finished at Sun Apr  4 16:20:56 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K Apr  4 16:20 packages/bshell-20201219.139.el
+4.0K -rw-r--r-- 1 root root  362 Apr  4 16:20 packages/bshell-20201219.139.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:20 packages/bshell-badge.svg
+4.0K -rw-r--r-- 1 root root  600 Apr  4 16:20 packages/bshell-readme.txt

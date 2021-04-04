@@ -1,0 +1,10 @@
+Package: mini-header-line
+Fetcher: github
+Source:  https://github.com/ksjogo/mini-header-line.git
+
+Updating /mnt/store/melpa/working/mini-header-line/
+Built mini-header-line in 3.214s, finished at Sun Apr  4 16:53:47 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.0K Apr  4 16:53 packages/mini-header-line-20170621.1221.el
+4.0K -rw-r--r-- 1 root root  356 Apr  4 16:53 packages/mini-header-line-20170621.1221.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:53 packages/mini-header-line-badge.svg

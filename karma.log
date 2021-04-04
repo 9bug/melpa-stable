@@ -1,0 +1,11 @@
+Package: karma
+Fetcher: github
+Source:  https://github.com/tonini/karma.el.git
+
+Updating /mnt/store/melpa/working/karma/
+Built karma in 2.942s, finished at Sun Apr  4 16:48:58 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K Apr  4 16:48 packages/karma-20160220.1245.el
+4.0K -rw-r--r-- 1 root root  354 Apr  4 16:48 packages/karma-20160220.1245.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:48 packages/karma-badge.svg
+4.0K -rw-r--r-- 1 root root  450 Apr  4 16:48 packages/karma-readme.txt

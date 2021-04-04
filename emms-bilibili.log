@@ -1,0 +1,11 @@
+Package: emms-bilibili
+Fetcher: github
+Source:  https://github.com/iBytePress/emms-bilibili.git
+
+Updating /mnt/store/melpa/working/emms-bilibili/
+Built emms-bilibili in 3.605s, finished at Sun Apr  4 16:31:36 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K Apr  4 16:31 packages/emms-bilibili-20180103.418.el
+4.0K -rw-r--r-- 1 root root  271 Apr  4 16:31 packages/emms-bilibili-20180103.418.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:31 packages/emms-bilibili-badge.svg
+4.0K -rw-r--r-- 1 root root  170 Apr  4 16:31 packages/emms-bilibili-readme.txt

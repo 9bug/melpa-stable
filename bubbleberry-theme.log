@@ -1,0 +1,11 @@
+Package: bubbleberry-theme
+Fetcher: github
+Source:  https://github.com/emacsfodder/emacs-bubbleberry-theme.git
+
+Updating /mnt/store/melpa/working/bubbleberry-theme/
+Built bubbleberry-theme in 3.204s, finished at Sun Apr  4 16:20:58 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K Apr  4 16:20 packages/bubbleberry-theme-20141017.944.el
+4.0K -rw-r--r-- 1 root root  431 Apr  4 16:20 packages/bubbleberry-theme-20141017.944.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:20 packages/bubbleberry-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   69 Apr  4 16:20 packages/bubbleberry-theme-readme.txt

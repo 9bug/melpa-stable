@@ -1,0 +1,11 @@
+Package: poly-R
+Fetcher: github
+Source:  https://github.com/polymode/poly-R.git
+
+Updating /mnt/store/melpa/working/poly-R/
+Built poly-R in 3.277s, finished at Sun Apr  4 15:58:49 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  29K Apr  4 15:58 packages/poly-R-20210210.1053.el
+4.0K -rw-r--r-- 1 root root  398 Apr  4 15:58 packages/poly-R-20210210.1053.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 15:58 packages/poly-R-badge.svg
+4.0K -rw-r--r-- 1 root root   70 Apr  4 15:58 packages/poly-R-readme.txt

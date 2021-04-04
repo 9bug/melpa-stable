@@ -1,0 +1,12 @@
+Package: evil-lion
+Fetcher: github
+Source:  https://github.com/edkolev/evil-lion.git
+
+Updating /mnt/store/melpa/working/evil-lion/
+Note: evil-lion :files spec is equivalent to the default.
+Built evil-lion in 4.455s, finished at Sun Apr  4 16:33:38 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.6K Apr  4 16:33 packages/evil-lion-20170811.614.el
+4.0K -rw-r--r-- 1 root root  415 Apr  4 16:33 packages/evil-lion-20170811.614.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:33 packages/evil-lion-badge.svg
+4.0K -rw-r--r-- 1 root root  275 Apr  4 16:33 packages/evil-lion-readme.txt

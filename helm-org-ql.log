@@ -1,0 +1,11 @@
+Package: helm-org-ql
+Fetcher: github
+Source:  https://github.com/alphapapa/org-ql.git
+
+Updating /mnt/store/melpa/working/helm-org-ql/
+Built helm-org-ql in 3.610s, finished at Sun Apr  4 16:43:35 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.7K Apr  4 16:43 packages/helm-org-ql-20201123.1102.el
+4.0K -rw-r--r-- 1 root root  448 Apr  4 16:43 packages/helm-org-ql-20201123.1102.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:43 packages/helm-org-ql-badge.svg
+4.0K -rw-r--r-- 1 root root  293 Apr  4 16:43 packages/helm-org-ql-readme.txt

@@ -1,0 +1,11 @@
+Package: tql-mode
+Fetcher: github
+Source:  https://github.com/tiros-dev/tql-mode.git
+
+Updating /mnt/store/melpa/working/tql-mode/
+Built tql-mode in 3.057s, finished at Sun Apr  4 16:10:40 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.4K Apr  4 16:10 packages/tql-mode-20170724.254.el
+4.0K -rw-r--r-- 1 root root  299 Apr  4 16:10 packages/tql-mode-20170724.254.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:10 packages/tql-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  114 Apr  4 16:10 packages/tql-mode-readme.txt

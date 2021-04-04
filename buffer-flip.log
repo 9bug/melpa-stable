@@ -1,0 +1,11 @@
+Package: buffer-flip
+Fetcher: github
+Source:  https://github.com/killdash9/buffer-flip.el.git
+
+Updating /mnt/store/melpa/working/buffer-flip/
+Built buffer-flip in 3.872s, finished at Sun Apr  4 16:21:01 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K Apr  4 16:21 packages/buffer-flip-20180307.2251.el
+4.0K -rw-r--r-- 1 root root  386 Apr  4 16:21 packages/buffer-flip-20180307.2251.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:21 packages/buffer-flip-badge.svg
+4.0K -rw-r--r-- 1 root root   66 Apr  4 16:21 packages/buffer-flip-readme.txt

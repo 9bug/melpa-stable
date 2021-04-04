@@ -1,0 +1,21 @@
+Package: flymd
+Fetcher: github
+Source:  https://github.com/mola-T/flymd.git
+
+Updating /mnt/store/melpa/working/flymd/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flymd/
+  to /tmp/flymdLq6OjY/flymd-20160617.1214
+    flymd.el -> flymd.el
+    flymd.html -> flymd.html
+Created flymd-20160617.1214.tar containing:
+  flymd-20160617.1214/
+  flymd-20160617.1214/flymd-pkg.el
+  flymd-20160617.1214/flymd.el
+  flymd-20160617.1214/flymd.html
+Built flymd in 2.972s, finished at Sun Apr  4 16:37:45 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  329 Apr  4 16:37 packages/flymd-20160617.1214.entry
+ 20K -rw-r--r-- 1 root root  20K Apr  4 16:37 packages/flymd-20160617.1214.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:37 packages/flymd-badge.svg
+4.0K -rw-r--r-- 1 root root  310 Apr  4 16:37 packages/flymd-readme.txt

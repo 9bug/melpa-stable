@@ -1,0 +1,11 @@
+Package: dart-server
+Fetcher: github
+Source:  https://github.com/bradyt/dart-server.git
+
+Updating /mnt/store/melpa/working/dart-server/
+Built dart-server in 3.915s, finished at Sun Apr  4 16:26:16 2021
+ ✓ Success:
+ 60K -rw-r--r-- 1 root root  58K Apr  4 16:26 packages/dart-server-20190817.1254.el
+4.0K -rw-r--r-- 1 root root  511 Apr  4 16:26 packages/dart-server-20190817.1254.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:26 packages/dart-server-badge.svg
+4.0K -rw-r--r-- 1 root root  112 Apr  4 16:26 packages/dart-server-readme.txt

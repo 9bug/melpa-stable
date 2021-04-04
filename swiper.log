@@ -1,0 +1,16 @@
+Package: swiper
+Fetcher: github
+Source:  https://github.com/abo-abo/swiper.git
+
+Updating /mnt/store/melpa/working/swiper/
+Built swiper in 3.255s, finished at Sun Apr  4 16:08:58 2021
+ ✓ Success:
+ 64K -rw-r--r-- 1 root root  61K Apr  4 16:08 packages/swiper-20210404.1302.el
+4.0K -rw-r--r-- 1 root root  367 Apr  4 16:08 packages/swiper-20210404.1302.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:08 packages/swiper-badge.svg
+ 12K -rw-r--r-- 1 root root 8.4K Apr  4 16:08 packages/swiper-helm-20180131.1744.el
+4.0K -rw-r--r-- 1 root root  432 Apr  4 15:04 packages/swiper-helm-20180131.1744.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 15:04 packages/swiper-helm-badge.svg
+4.0K -rw-r--r-- 1 root root  300 Apr  4 15:04 packages/swiper-helm-readme.txt
+4.0K -rw-r--r-- 1 root root  137 Apr  4 16:08 packages/swiper-helm.log
+4.0K -rw-r--r-- 1 root root  265 Apr  4 16:08 packages/swiper-readme.txt

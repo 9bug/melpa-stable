@@ -1,0 +1,8 @@
+(flycheck-pony .
+	       [(20210118 1326)
+		((flycheck
+		  (0 25 1)))
+		"Pony support in Flycheck" single
+		((:commit . "039a6c9d0324208d4f4b006693c16248fcf5519b")
+		 (:keywords "tools" "convenience")
+		 (:url . "https://github.com/seantallen/flycheck-pony"))])

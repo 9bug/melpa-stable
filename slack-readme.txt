@@ -1,0 +1,2 @@
+Slack client in Emacs.
+

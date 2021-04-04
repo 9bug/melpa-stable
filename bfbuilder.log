@@ -1,0 +1,11 @@
+Package: bfbuilder
+Fetcher: github
+Source:  https://github.com/zk-phi/bfbuilder.git
+
+Updating /mnt/store/melpa/working/bfbuilder/
+Built bfbuilder in 3.262s, finished at Sun Apr  4 16:20:10 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.6K Apr  4 16:20 packages/bfbuilder-20210228.1740.el
+4.0K -rw-r--r-- 1 root root  336 Apr  4 16:20 packages/bfbuilder-20210228.1740.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:20 packages/bfbuilder-badge.svg
+4.0K -rw-r--r-- 1 root root  234 Apr  4 16:20 packages/bfbuilder-readme.txt

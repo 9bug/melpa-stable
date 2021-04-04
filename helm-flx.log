@@ -1,0 +1,11 @@
+Package: helm-flx
+Fetcher: github
+Source:  https://github.com/PythonNut/helm-flx.git
+
+Updating /mnt/store/melpa/working/helm-flx/
+Built helm-flx in 3.846s, finished at Sun Apr  4 16:42:54 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  4 16:42 packages/helm-flx-20180103.516.el
+4.0K -rw-r--r-- 1 root root  446 Apr  4 16:42 packages/helm-flx-20180103.516.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:42 packages/helm-flx-badge.svg
+4.0K -rw-r--r-- 1 root root  313 Apr  4 16:42 packages/helm-flx-readme.txt

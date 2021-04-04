@@ -1,0 +1,11 @@
+Package: fullframe
+Fetcher: git
+Source:  https://git.sr.ht/~tomterl/fullframe
+
+Updating /mnt/store/melpa/working/fullframe/
+Built fullframe in 3.586s, finished at Sun Apr  4 16:38:32 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K Apr  4 16:38 packages/fullframe-20210226.1057.el
+4.0K -rw-r--r-- 1 root root  334 Apr  4 16:38 packages/fullframe-20210226.1057.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:38 packages/fullframe-badge.svg
+4.0K -rw-r--r-- 1 root root  560 Apr  4 16:38 packages/fullframe-readme.txt

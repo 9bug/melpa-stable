@@ -1,0 +1,25 @@
+Package: apropospriate-theme
+Fetcher: github
+Source:  https://github.com/waymondo/apropospriate-theme.git
+
+Updating /mnt/store/melpa/working/apropospriate-theme/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/apropospriate-theme/
+  to /tmp/apropospriate-theme55GMqc/apropospriate-theme-20210316.2156
+    apropospriate-dark-theme.el -> apropospriate-dark-theme.el
+    apropospriate-light-theme.el -> apropospriate-light-theme.el
+    apropospriate-theme-pkg.el -> apropospriate-theme-pkg.el
+    apropospriate-theme.el -> apropospriate-theme.el
+    apropospriate.el -> apropospriate.el
+Created apropospriate-theme-20210316.2156.tar containing:
+  apropospriate-theme-20210316.2156/
+  apropospriate-theme-20210316.2156/apropospriate-dark-theme.el
+  apropospriate-theme-20210316.2156/apropospriate-light-theme.el
+  apropospriate-theme-20210316.2156/apropospriate-theme-pkg.el
+  apropospriate-theme-20210316.2156/apropospriate-theme.el
+  apropospriate-theme-20210316.2156/apropospriate.el
+Built apropospriate-theme in 2.854s, finished at Sun Apr  4 16:18:08 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  208 Apr  4 16:18 packages/apropospriate-theme-20210316.2156.entry
+ 60K -rw-r--r-- 1 root root  60K Apr  4 16:18 packages/apropospriate-theme-20210316.2156.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:18 packages/apropospriate-theme-badge.svg

@@ -1,0 +1,11 @@
+Package: launchctl
+Fetcher: github
+Source:  https://github.com/pekingduck/launchctl-el.git
+
+Updating /mnt/store/melpa/working/launchctl/
+Built launchctl in 4.266s, finished at Sun Apr  4 16:49:57 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Apr  4 16:49 packages/launchctl-20210309.1113.el
+4.0K -rw-r--r-- 1 root root  398 Apr  4 16:49 packages/launchctl-20210309.1113.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:49 packages/launchctl-badge.svg
+4.0K -rw-r--r-- 1 root root  279 Apr  4 16:49 packages/launchctl-readme.txt

@@ -1,0 +1,11 @@
+Package: cycbuf
+Fetcher: github
+Source:  https://github.com/martinp26/cycbuf.git
+
+Updating /mnt/store/melpa/working/cycbuf/
+Built cycbuf in 3.426s, finished at Sun Apr  4 16:25:55 2021
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  31K Apr  4 16:25 packages/cycbuf-20131203.2037.el
+4.0K -rw-r--r-- 1 root root  382 Apr  4 16:25 packages/cycbuf-20131203.2037.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:25 packages/cycbuf-badge.svg
+4.0K -rw-r--r-- 1 root root  499 Apr  4 16:25 packages/cycbuf-readme.txt

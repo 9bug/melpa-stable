@@ -1,0 +1,11 @@
+Package: korean-holidays
+Fetcher: github
+Source:  https://github.com/tttuuu888/korean-holidays.git
+
+Updating /mnt/store/melpa/working/korean-holidays/
+Built korean-holidays in 3.169s, finished at Sun Apr  4 16:49:31 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.8K Apr  4 16:49 packages/korean-holidays-20190102.1558.el
+4.0K -rw-r--r-- 1 root root  357 Apr  4 16:49 packages/korean-holidays-20190102.1558.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:49 packages/korean-holidays-badge.svg
+4.0K -rw-r--r-- 1 root root  222 Apr  4 16:49 packages/korean-holidays-readme.txt

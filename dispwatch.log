@@ -1,0 +1,11 @@
+Package: dispwatch
+Fetcher: github
+Source:  https://github.com/mnp/dispwatch.git
+
+Updating /mnt/store/melpa/working/dispwatch/
+Built dispwatch in 3.465s, finished at Sun Apr  4 16:27:56 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K Apr  4 16:27 packages/dispwatch-20210305.342.el
+4.0K -rw-r--r-- 1 root root  416 Apr  4 16:27 packages/dispwatch-20210305.342.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:27 packages/dispwatch-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Apr  4 16:27 packages/dispwatch-readme.txt

@@ -1,0 +1,10 @@
+Package: helm-w3m
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm-w3m.git
+
+Updating /mnt/store/melpa/working/helm-w3m/
+Built helm-w3m in 2.932s, finished at Sun Apr  4 16:44:12 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K Apr  4 16:44 packages/helm-w3m-20210315.723.el
+4.0K -rw-r--r-- 1 root root  238 Apr  4 16:44 packages/helm-w3m-20210315.723.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:44 packages/helm-w3m-badge.svg

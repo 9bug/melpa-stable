@@ -1,0 +1,12 @@
+Package: elmine
+Fetcher: github
+Source:  https://github.com/leoc/elmine.git
+
+Updating /mnt/store/melpa/working/elmine/
+Note: elmine :files spec is equivalent to the default.
+Built elmine in 3.294s, finished at Sun Apr  4 16:31:01 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K Apr  4 16:31 packages/elmine-20200520.1237.el
+4.0K -rw-r--r-- 1 root root  337 Apr  4 16:31 packages/elmine-20200520.1237.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:31 packages/elmine-badge.svg
+4.0K -rw-r--r-- 1 root root  227 Apr  4 16:31 packages/elmine-readme.txt

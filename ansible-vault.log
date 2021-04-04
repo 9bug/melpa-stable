@@ -1,0 +1,11 @@
+Package: ansible-vault
+Fetcher: github
+Source:  https://github.com/zellio/ansible-vault-mode.git
+
+Updating /mnt/store/melpa/working/ansible-vault/
+Built ansible-vault in 3.472s, finished at Sun Apr  4 16:17:56 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Apr  4 16:17 packages/ansible-vault-20200305.2240.el
+4.0K -rw-r--r-- 1 root root  362 Apr  4 16:17 packages/ansible-vault-20200305.2240.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:17 packages/ansible-vault-badge.svg
+   0 -rw-r--r-- 1 root root    0 Apr  4 16:17 packages/ansible-vault-readme.txt

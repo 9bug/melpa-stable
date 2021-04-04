@@ -1,0 +1,11 @@
+Package: projekt
+Fetcher: github
+Source:  https://github.com/tekai/projekt.git
+
+Updating /mnt/store/melpa/working/projekt/
+Built projekt in 3.159s, finished at Sun Apr  4 15:59:45 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  4 15:59 packages/projekt-20150324.848.el
+4.0K -rw-r--r-- 1 root root  265 Apr  4 15:59 packages/projekt-20150324.848.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 15:59 packages/projekt-badge.svg
+4.0K -rw-r--r-- 1 root root  409 Apr  4 15:59 packages/projekt-readme.txt

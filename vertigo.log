@@ -1,0 +1,11 @@
+Package: vertigo
+Fetcher: github
+Source:  https://github.com/noctuid/vertigo.el.git
+
+Updating /mnt/store/melpa/working/vertigo/
+Built vertigo in 3.126s, finished at Sun Apr  4 16:12:25 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 8.0K Apr  4 16:12 packages/vertigo-20180829.2230.el
+4.0K -rw-r--r-- 1 root root  361 Apr  4 16:12 packages/vertigo-20180829.2230.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:12 packages/vertigo-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Apr  4 16:12 packages/vertigo-readme.txt

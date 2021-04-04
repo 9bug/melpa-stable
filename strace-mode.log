@@ -1,0 +1,11 @@
+Package: strace-mode
+Fetcher: github
+Source:  https://github.com/pkmoore/strace-mode.git
+
+Updating /mnt/store/melpa/working/strace-mode/
+Built strace-mode in 3.981s, finished at Sun Apr  4 16:08:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.7K Apr  4 16:08 packages/strace-mode-20171116.2039.el
+4.0K -rw-r--r-- 1 root root  323 Apr  4 16:08 packages/strace-mode-20171116.2039.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:08 packages/strace-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   79 Apr  4 16:08 packages/strace-mode-readme.txt

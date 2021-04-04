@@ -1,0 +1,11 @@
+Package: ob-prolog
+Fetcher: github
+Source:  https://github.com/ljos/ob-prolog.git
+
+Updating /mnt/store/melpa/working/ob-prolog/
+Built ob-prolog in 2.773s, finished at Sun Apr  4 16:58:12 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.9K Apr  4 16:58 packages/ob-prolog-20190410.2130.el
+4.0K -rw-r--r-- 1 root root  357 Apr  4 16:58 packages/ob-prolog-20190410.2130.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:58 packages/ob-prolog-badge.svg
+4.0K -rw-r--r-- 1 root root  542 Apr  4 16:58 packages/ob-prolog-readme.txt

@@ -1,0 +1,11 @@
+Package: dropbox
+Fetcher: github
+Source:  https://github.com/pavpanchekha/dropbox.el.git
+
+Updating /mnt/store/melpa/working/dropbox/
+Built dropbox in 3.204s, finished at Sun Apr  4 16:28:39 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  35K Apr  4 16:28 packages/dropbox-20190918.1629.el
+4.0K -rw-r--r-- 1 root root  355 Apr  4 16:28 packages/dropbox-20190918.1629.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:28 packages/dropbox-badge.svg
+4.0K -rw-r--r-- 1 root root  114 Apr  4 16:28 packages/dropbox-readme.txt

@@ -1,0 +1,11 @@
+Package: wdl-mode
+Fetcher: github
+Source:  https://github.com/zhanxw/wdl-mode.git
+
+Updating /mnt/store/melpa/working/wdl-mode/
+Built wdl-mode in 7.318s, finished at Sun Apr  4 16:13:18 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.4K Apr  4 16:13 packages/wdl-mode-20180831.1946.el
+4.0K -rw-r--r-- 1 root root  352 Apr  4 16:13 packages/wdl-mode-20180831.1946.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:13 packages/wdl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  990 Apr  4 16:13 packages/wdl-mode-readme.txt

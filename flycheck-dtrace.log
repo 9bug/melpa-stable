@@ -1,0 +1,11 @@
+Package: flycheck-dtrace
+Fetcher: github
+Source:  https://github.com/juergenhoetzel/flycheck-dtrace.git
+
+Updating /mnt/store/melpa/working/flycheck-dtrace/
+Built flycheck-dtrace in 7.487s, finished at Sun Apr  4 16:36:22 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.7K Apr  4 16:36 packages/flycheck-dtrace-20180903.1630.el
+4.0K -rw-r--r-- 1 root root  376 Apr  4 16:36 packages/flycheck-dtrace-20180903.1630.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:36 packages/flycheck-dtrace-badge.svg
+   0 -rw-r--r-- 1 root root    0 Apr  4 16:36 packages/flycheck-dtrace-readme.txt

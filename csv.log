@@ -1,0 +1,11 @@
+Package: csv
+Fetcher: gitlab
+Source:  https://gitlab.com/u11/csv.el.git
+
+Updating /mnt/store/melpa/working/csv/
+Built csv in 3.538s, finished at Sun Apr  4 16:25:40 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Apr  4 16:25 packages/csv-20161113.1510.el
+4.0K -rw-r--r-- 1 root root  315 Apr  4 16:25 packages/csv-20161113.1510.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:25 packages/csv-badge.svg
+4.0K -rw-r--r-- 1 root root 1005 Apr  4 16:25 packages/csv-readme.txt

@@ -1,0 +1,11 @@
+Package: terraform-doc
+Fetcher: github
+Source:  https://github.com/TxGVNN/terraform-doc.git
+
+Updating /mnt/store/melpa/working/terraform-doc/
+Built terraform-doc in 3.743s, finished at Sun Apr  4 16:09:50 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.5K Apr  4 16:09 packages/terraform-doc-20210322.837.el
+4.0K -rw-r--r-- 1 root root  358 Apr  4 16:09 packages/terraform-doc-20210322.837.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:09 packages/terraform-doc-badge.svg
+4.0K -rw-r--r-- 1 root root   18 Apr  4 16:09 packages/terraform-doc-readme.txt

@@ -1,0 +1,11 @@
+Package: emmet-mode
+Fetcher: github
+Source:  https://github.com/smihica/emmet-mode.git
+
+Updating /mnt/store/melpa/working/emmet-mode/
+Built emmet-mode in 3.605s, finished at Sun Apr  4 16:31:35 2021
+ ✓ Success:
+144K -rw-r--r-- 1 root root 144K Apr  4 16:31 packages/emmet-mode-20180613.341.el
+4.0K -rw-r--r-- 1 root root  366 Apr  4 16:31 packages/emmet-mode-20180613.341.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:31 packages/emmet-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  852 Apr  4 16:31 packages/emmet-mode-readme.txt

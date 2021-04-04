@@ -1,0 +1,11 @@
+Package: grizzl
+Fetcher: github
+Source:  https://github.com/grizzl/grizzl.git
+
+Updating /mnt/store/melpa/working/grizzl/
+Built grizzl in 4.284s, finished at Sun Apr  4 16:41:05 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K Apr  4 16:41 packages/grizzl-20160818.737.el
+4.0K -rw-r--r-- 1 root root  385 Apr  4 16:41 packages/grizzl-20160818.737.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:41 packages/grizzl-badge.svg
+4.0K -rw-r--r-- 1 root root 1.7K Apr  4 16:41 packages/grizzl-readme.txt

@@ -1,0 +1,11 @@
+Package: org-appear
+Fetcher: github
+Source:  https://github.com/awth13/org-appear.git
+
+Updating /mnt/store/melpa/working/org-appear/
+Built org-appear in 9.972s, finished at Sun Apr  4 16:59:17 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K Apr  4 16:59 packages/org-appear-20210401.2114.el
+4.0K -rw-r--r-- 1 root root  381 Apr  4 16:59 packages/org-appear-20210401.2114.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:59 packages/org-appear-badge.svg
+4.0K -rw-r--r-- 1 root root  527 Apr  4 16:59 packages/org-appear-readme.txt

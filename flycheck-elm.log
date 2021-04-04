@@ -1,0 +1,11 @@
+Package: flycheck-elm
+Fetcher: github
+Source:  https://github.com/bsermons/flycheck-elm.git
+
+Updating /mnt/store/melpa/working/flycheck-elm/
+Built flycheck-elm in 6.554s, finished at Sun Apr  4 16:36:22 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.1K Apr  4 16:36 packages/flycheck-elm-20181107.146.el
+4.0K -rw-r--r-- 1 root root  381 Apr  4 16:36 packages/flycheck-elm-20181107.146.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:36 packages/flycheck-elm-badge.svg
+4.0K -rw-r--r-- 1 root root  152 Apr  4 16:36 packages/flycheck-elm-readme.txt

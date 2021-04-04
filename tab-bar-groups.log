@@ -1,0 +1,11 @@
+Package: tab-bar-groups
+Fetcher: github
+Source:  https://github.com/fritzgrabo/tab-bar-groups.git
+
+Updating /mnt/store/melpa/working/tab-bar-groups/
+Built tab-bar-groups in 3.497s, finished at Sun Apr  4 16:09:18 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K Apr  4 16:09 packages/tab-bar-groups-20210321.2129.el
+4.0K -rw-r--r-- 1 root root  387 Apr  4 16:09 packages/tab-bar-groups-20210321.2129.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:09 packages/tab-bar-groups-badge.svg
+4.0K -rw-r--r-- 1 root root  111 Apr  4 16:09 packages/tab-bar-groups-readme.txt

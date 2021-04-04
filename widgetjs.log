@@ -1,0 +1,11 @@
+Package: widgetjs
+Fetcher: github
+Source:  https://github.com/foretagsplatsen/emacs-js.git
+
+Updating /mnt/store/melpa/working/widgetjs/
+Built widgetjs in 4.126s, finished at Sun Apr  4 16:14:03 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K Apr  4 16:14 packages/widgetjs-20160719.1504.el
+4.0K -rw-r--r-- 1 root root  397 Apr  4 16:14 packages/widgetjs-20160719.1504.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:14 packages/widgetjs-badge.svg
+4.0K -rw-r--r-- 1 root root   25 Apr  4 16:14 packages/widgetjs-readme.txt

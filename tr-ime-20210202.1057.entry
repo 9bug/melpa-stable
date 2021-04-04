@@ -1,0 +1,12 @@
+(tr-ime .
+	[(20210202 1057)
+	 ((emacs
+	   (27 1))
+	  (w32-ime
+	   (0 0 1)))
+	 "Emulator of IME patch for Windows" tar
+	 ((:commit . "809215eccfe8ff33d461c7ff980ed64c621a84bb")
+	  (:authors
+	   ("Masamichi Hosoda" . "trueroad@trueroad.jp"))
+	  (:maintainer "Masamichi Hosoda" . "trueroad@trueroad.jp")
+	  (:url . "https://github.com/trueroad/tr-emacs-ime-module"))])

@@ -1,0 +1,11 @@
+Package: fireplace
+Fetcher: github
+Source:  https://github.com/johanvts/emacs-fireplace.git
+
+Updating /mnt/store/melpa/working/fireplace/
+Built fireplace in 3.344s, finished at Sun Apr  4 16:35:13 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K Apr  4 16:35 packages/fireplace-20200402.2206.el
+4.0K -rw-r--r-- 1 root root  358 Apr  4 16:35 packages/fireplace-20200402.2206.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:35 packages/fireplace-badge.svg
+4.0K -rw-r--r-- 1 root root   71 Apr  4 16:35 packages/fireplace-readme.txt

@@ -1,0 +1,8 @@
+(tracking .
+	  [(20201101 1045)
+	   nil "Buffer modification tracking" tar
+	   ((:commit . "e67e2d1149ebf3e79cd2162e78802af3ed5f82da")
+	    (:authors
+	     ("Jorgen Schaefer" . "forcer@forcix.cx"))
+	    (:maintainer "Jorgen Schaefer" . "forcer@forcix.cx")
+	    (:url . "https://github.com/jorgenschaefer/circe/wiki/Tracking"))])

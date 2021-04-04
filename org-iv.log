@@ -1,0 +1,29 @@
+Package: org-iv
+Fetcher: github
+Source:  https://github.com/kuangdash/org-iv.git
+
+Updating /mnt/store/melpa/working/org-iv/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-iv/
+  to /tmp/org-ivvRGdIA/org-iv-20171001.1022
+    org-iv-config.el -> org-iv-config.el
+    org-iv-pkg.el -> org-iv-pkg.el
+    org-iv.el -> org-iv.el
+    default/css/.gitkeep -> default/css/.gitkeep
+    default/js/.gitkeep -> default/js/.gitkeep
+Created org-iv-20171001.1022.tar containing:
+  org-iv-20171001.1022/
+  org-iv-20171001.1022/default/
+  org-iv-20171001.1022/default/css/
+  org-iv-20171001.1022/default/css/.gitkeep
+  org-iv-20171001.1022/default/js/
+  org-iv-20171001.1022/default/js/.gitkeep
+  org-iv-20171001.1022/org-iv-config.el
+  org-iv-20171001.1022/org-iv-pkg.el
+  org-iv-20171001.1022/org-iv.el
+Built org-iv in 3.135s, finished at Sun Apr  4 15:53:59 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  412 Apr  4 15:53 packages/org-iv-20171001.1022.entry
+ 20K -rw-r--r-- 1 root root  20K Apr  4 15:53 packages/org-iv-20171001.1022.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 15:53 packages/org-iv-badge.svg
+4.0K -rw-r--r-- 1 root root  162 Apr  4 15:53 packages/org-iv-readme.txt

@@ -1,0 +1,11 @@
+Package: xref-js2
+Fetcher: github
+Source:  https://github.com/js-emacs/xref-js2.git
+
+Updating /mnt/store/melpa/working/xref-js2/
+Built xref-js2 in 3.489s, finished at Sun Apr  4 16:15:05 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  4 16:15 packages/xref-js2-20210310.1238.el
+4.0K -rw-r--r-- 1 root root  456 Apr  4 16:15 packages/xref-js2-20210310.1238.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:15 packages/xref-js2-badge.svg
+4.0K -rw-r--r-- 1 root root  568 Apr  4 16:15 packages/xref-js2-readme.txt

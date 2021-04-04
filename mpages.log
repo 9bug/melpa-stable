@@ -1,0 +1,11 @@
+Package: mpages
+Fetcher: github
+Source:  https://github.com/slevin/mpages.git
+
+Updating /mnt/store/melpa/working/mpages/
+Built mpages in 4.020s, finished at Sun Apr  4 16:54:51 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K Apr  4 16:54 packages/mpages-20150710.1404.el
+4.0K -rw-r--r-- 1 root root  269 Apr  4 16:54 packages/mpages-20150710.1404.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:54 packages/mpages-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:54 packages/mpages-readme.txt

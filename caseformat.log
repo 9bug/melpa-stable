@@ -1,0 +1,11 @@
+Package: caseformat
+Fetcher: github
+Source:  https://github.com/HKey/caseformat.git
+
+Updating /mnt/store/melpa/working/caseformat/
+Built caseformat in 3.224s, finished at Sun Apr  4 16:21:38 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K Apr  4 16:21 packages/caseformat-20160115.1615.el
+4.0K -rw-r--r-- 1 root root  482 Apr  4 16:21 packages/caseformat-20160115.1615.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:21 packages/caseformat-badge.svg
+4.0K -rw-r--r-- 1 root root  171 Apr  4 16:21 packages/caseformat-readme.txt

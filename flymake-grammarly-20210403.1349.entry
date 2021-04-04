@@ -1,0 +1,12 @@
+(flymake-grammarly .
+		   [(20210403 1349)
+		    ((emacs
+		      (26 1))
+		     (grammarly
+		      (0 3 0)))
+		    "Flymake support for Grammarly" single
+		    ((:commit . "f09caa56254e6c639993afba29f5a4b8b9f9c73e")
+		     (:authors
+		      ("Shen, Jen-Chieh" . "jcs090218@gmail.com"))
+		     (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com")
+		     (:url . "https://github.com/emacs-grammarly/flymake-grammarly"))])

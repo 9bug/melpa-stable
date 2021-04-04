@@ -1,0 +1,11 @@
+Package: firestarter
+Fetcher: git
+Source:  https://depp.brause.cc/firestarter.git
+
+Updating /mnt/store/melpa/working/firestarter/
+Built firestarter in 4.612s, finished at Sun Apr  4 16:35:15 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K Apr  4 16:35 packages/firestarter-20200506.1311.el
+4.0K -rw-r--r-- 1 root root  378 Apr  4 16:35 packages/firestarter-20200506.1311.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:35 packages/firestarter-badge.svg
+4.0K -rw-r--r-- 1 root root  133 Apr  4 16:35 packages/firestarter-readme.txt

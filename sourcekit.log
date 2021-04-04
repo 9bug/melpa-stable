@@ -1,0 +1,11 @@
+Package: sourcekit
+Fetcher: github
+Source:  https://github.com/nathankot/company-sourcekit.git
+
+Updating /mnt/store/melpa/working/sourcekit/
+Built sourcekit in 4.140s, finished at Sun Apr  4 16:07:04 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.8K Apr  4 16:07 packages/sourcekit-20180101.834.el
+4.0K -rw-r--r-- 1 root root  499 Apr  4 16:07 packages/sourcekit-20180101.834.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:07 packages/sourcekit-badge.svg
+4.0K -rw-r--r-- 1 root root  287 Apr  4 16:07 packages/sourcekit-readme.txt

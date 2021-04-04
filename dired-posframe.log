@@ -1,0 +1,11 @@
+Package: dired-posframe
+Fetcher: github
+Source:  https://github.com/conao3/dired-posframe.el.git
+
+Updating /mnt/store/melpa/working/dired-posframe/
+Built dired-posframe in 3.531s, finished at Sun Apr  4 16:27:32 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Apr  4 16:27 packages/dired-posframe-20200817.420.el
+4.0K -rw-r--r-- 1 root root  400 Apr  4 16:27 packages/dired-posframe-20200817.420.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:27 packages/dired-posframe-badge.svg
+4.0K -rw-r--r-- 1 root root  266 Apr  4 16:27 packages/dired-posframe-readme.txt

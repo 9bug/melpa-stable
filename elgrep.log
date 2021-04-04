@@ -1,0 +1,11 @@
+Package: elgrep
+Fetcher: github
+Source:  https://github.com/TobiasZawada/elgrep.git
+
+Updating /mnt/store/melpa/working/elgrep/
+Built elgrep in 8.266s, finished at Sun Apr  4 16:30:45 2021
+ ✓ Success:
+ 96K -rw-r--r-- 1 root root  96K Apr  4 16:30 packages/elgrep-20210205.733.el
+4.0K -rw-r--r-- 1 root root  388 Apr  4 16:30 packages/elgrep-20210205.733.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:30 packages/elgrep-badge.svg
+4.0K -rw-r--r-- 1 root root  439 Apr  4 16:30 packages/elgrep-readme.txt

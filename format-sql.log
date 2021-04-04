@@ -1,0 +1,11 @@
+Package: format-sql
+Fetcher: github
+Source:  https://github.com/paetzke/format-sql.el.git
+
+Updating /mnt/store/melpa/working/format-sql/
+Built format-sql in 3.533s, finished at Sun Apr  4 16:38:07 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.7K Apr  4 16:38 packages/format-sql-20150422.1333.el
+4.0K -rw-r--r-- 1 root root  376 Apr  4 16:38 packages/format-sql-20150422.1333.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:38 packages/format-sql-badge.svg
+4.0K -rw-r--r-- 1 root root  259 Apr  4 16:38 packages/format-sql-readme.txt

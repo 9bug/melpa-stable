@@ -1,0 +1,11 @@
+Package: minions
+Fetcher: github
+Source:  https://github.com/tarsius/minions.git
+
+Updating /mnt/store/melpa/working/minions/
+Built minions in 4.002s, finished at Sun Apr  4 16:53:55 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  4 16:53 packages/minions-20201204.1051.el
+4.0K -rw-r--r-- 1 root root  358 Apr  4 16:53 packages/minions-20201204.1051.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:53 packages/minions-badge.svg
+4.0K -rw-r--r-- 1 root root  552 Apr  4 16:53 packages/minions-readme.txt

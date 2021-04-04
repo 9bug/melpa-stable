@@ -1,0 +1,11 @@
+Package: lively
+Fetcher: github
+Source:  https://github.com/purcell/lively.git
+
+Updating /mnt/store/melpa/working/lively/
+Built lively in 3.538s, finished at Sun Apr  4 16:50:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.5K Apr  4 16:50 packages/lively-20171005.754.el
+4.0K -rw-r--r-- 1 root root  241 Apr  4 16:50 packages/lively-20171005.754.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:50 packages/lively-badge.svg
+4.0K -rw-r--r-- 1 root root  451 Apr  4 16:50 packages/lively-readme.txt

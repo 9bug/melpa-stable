@@ -1,0 +1,25 @@
+Package: systemd
+Fetcher: github
+Source:  https://github.com/holomorph/systemd-mode.git
+
+Updating /mnt/store/melpa/working/systemd/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/systemd/
+  to /tmp/systemdyntAqk/systemd-20210209.2052
+    systemd.el -> systemd.el
+    network-directives.txt -> network-directives.txt
+    nspawn-directives.txt -> nspawn-directives.txt
+    unit-directives.txt -> unit-directives.txt
+Created systemd-20210209.2052.tar containing:
+  systemd-20210209.2052/
+  systemd-20210209.2052/network-directives.txt
+  systemd-20210209.2052/nspawn-directives.txt
+  systemd-20210209.2052/systemd-pkg.el
+  systemd-20210209.2052/systemd.el
+  systemd-20210209.2052/unit-directives.txt
+Built systemd in 3.387s, finished at Sun Apr  4 16:09:17 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  306 Apr  4 16:09 packages/systemd-20210209.2052.entry
+ 40K -rw-r--r-- 1 root root  40K Apr  4 16:09 packages/systemd-20210209.2052.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:09 packages/systemd-badge.svg
+4.0K -rw-r--r-- 1 root root  544 Apr  4 16:09 packages/systemd-readme.txt

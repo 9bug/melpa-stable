@@ -1,0 +1,11 @@
+Package: wttrin
+Fetcher: github
+Source:  https://github.com/bcbcarl/emacs-wttrin.git
+
+Updating /mnt/store/melpa/working/wttrin/
+Built wttrin in 3.409s, finished at Sun Apr  4 16:14:41 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.7K Apr  4 16:14 packages/wttrin-20170614.1206.el
+4.0K -rw-r--r-- 1 root root  453 Apr  4 16:14 packages/wttrin-20170614.1206.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:14 packages/wttrin-badge.svg
+4.0K -rw-r--r-- 1 root root   77 Apr  4 16:14 packages/wttrin-readme.txt

@@ -1,0 +1,11 @@
+Package: tray
+Fetcher: git
+Source:  https://git.sr.ht/~tarsius/tray
+
+Updating /mnt/store/melpa/working/tray/
+Built tray in 3.724s, finished at Sun Apr  4 16:10:52 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.4K Apr  4 16:10 packages/tray-20210214.1119.el
+4.0K -rw-r--r-- 1 root root  383 Apr  4 16:10 packages/tray-20210214.1119.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:10 packages/tray-badge.svg
+4.0K -rw-r--r-- 1 root root  251 Apr  4 16:10 packages/tray-readme.txt

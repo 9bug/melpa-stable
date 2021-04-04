@@ -1,0 +1,10 @@
+Package: soft-morning-theme
+Fetcher: github
+Source:  https://github.com/mswift42/soft-morning-theme.git
+
+Updating /mnt/store/melpa/working/soft-morning-theme/
+Built soft-morning-theme in 3.195s, finished at Sun Apr  4 16:06:50 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.8K Apr  4 16:06 packages/soft-morning-theme-20150918.2041.el
+4.0K -rw-r--r-- 1 root root  321 Apr  4 16:06 packages/soft-morning-theme-20150918.2041.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:06 packages/soft-morning-theme-badge.svg

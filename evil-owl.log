@@ -1,0 +1,11 @@
+Package: evil-owl
+Fetcher: github
+Source:  https://github.com/mamapanda/evil-owl.git
+
+Updating /mnt/store/melpa/working/evil-owl/
+Built evil-owl in 3.310s, finished at Sun Apr  4 16:33:48 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K Apr  4 16:33 packages/evil-owl-20201115.130.el
+4.0K -rw-r--r-- 1 root root  439 Apr  4 16:33 packages/evil-owl-20201115.130.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:33 packages/evil-owl-badge.svg
+4.0K -rw-r--r-- 1 root root  121 Apr  4 16:33 packages/evil-owl-readme.txt

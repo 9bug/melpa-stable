@@ -1,0 +1,11 @@
+(aggressive-fill-paragraph .
+			   [(20180910 816)
+			    ((dash
+			      (2 10 0)))
+			    "A mode to automatically keep paragraphs filled" single
+			    ((:commit . "4a620e62b5e645a48b0a818bf4eb19daea4977df")
+			     (:authors
+			      ("David Shepherd" . "davidshepherd7@gmail.com"))
+			     (:maintainer "David Shepherd" . "davidshepherd7@gmail.com")
+			     (:keywords "fill-paragraph" "automatic" "comments")
+			     (:url . "https://github.com/davidshepherd7/aggressive-fill-paragraph-mode"))])

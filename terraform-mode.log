@@ -1,0 +1,11 @@
+Package: terraform-mode
+Fetcher: github
+Source:  https://github.com/emacsorphanage/terraform-mode.git
+
+Updating /mnt/store/melpa/working/terraform-mode/
+Built terraform-mode in 3.528s, finished at Sun Apr  4 16:09:51 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.4K Apr  4 16:09 packages/terraform-mode-20201208.1827.el
+4.0K -rw-r--r-- 1 root root  409 Apr  4 16:09 packages/terraform-mode-20201208.1827.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:09 packages/terraform-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  302 Apr  4 16:09 packages/terraform-mode-readme.txt

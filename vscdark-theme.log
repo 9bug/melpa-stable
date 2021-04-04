@@ -1,0 +1,11 @@
+Package: vscdark-theme
+Fetcher: github
+Source:  https://github.com/abelikoff/vscdark-theme.git
+
+Updating /mnt/store/melpa/working/vscdark-theme/
+Built vscdark-theme in 3.211s, finished at Sun Apr  4 16:12:44 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  16K Apr  4 16:12 packages/vscdark-theme-20191212.107.el
+4.0K -rw-r--r-- 1 root root  303 Apr  4 16:12 packages/vscdark-theme-20191212.107.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:12 packages/vscdark-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   50 Apr  4 16:12 packages/vscdark-theme-readme.txt

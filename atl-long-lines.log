@@ -1,0 +1,11 @@
+Package: atl-long-lines
+Fetcher: github
+Source:  https://github.com/jcs-elpa/atl-long-lines.git
+
+Updating /mnt/store/melpa/working/atl-long-lines/
+Built atl-long-lines in 3.388s, finished at Sun Apr  4 16:18:23 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.9K Apr  4 16:18 packages/atl-long-lines-20201026.339.el
+4.0K -rw-r--r-- 1 root root  363 Apr  4 16:18 packages/atl-long-lines-20201026.339.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:18 packages/atl-long-lines-badge.svg
+4.0K -rw-r--r-- 1 root root  279 Apr  4 16:18 packages/atl-long-lines-readme.txt

@@ -1,0 +1,11 @@
+Package: equake
+Fetcher: gitlab
+Source:  https://gitlab.com/emacsomancer/equake.git
+
+Updating /mnt/store/melpa/working/equake/
+Built equake in 3.868s, finished at Sun Apr  4 16:32:06 2021
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  36K Apr  4 16:32 packages/equake-20200824.1549.el
+4.0K -rw-r--r-- 1 root root  438 Apr  4 16:32 packages/equake-20200824.1549.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:32 packages/equake-badge.svg
+4.0K -rw-r--r-- 1 root root  581 Apr  4 16:32 packages/equake-readme.txt

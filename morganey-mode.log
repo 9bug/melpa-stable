@@ -1,0 +1,11 @@
+Package: morganey-mode
+Fetcher: github
+Source:  https://github.com/morganey-lang/morganey-mode.git
+
+Updating /mnt/store/melpa/working/morganey-mode/
+Built morganey-mode in 4.164s, finished at Sun Apr  4 16:54:38 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.7K Apr  4 16:54 packages/morganey-mode-20170118.934.el
+4.0K -rw-r--r-- 1 root root  352 Apr  4 16:54 packages/morganey-mode-20170118.934.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:54 packages/morganey-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  120 Apr  4 16:54 packages/morganey-mode-readme.txt

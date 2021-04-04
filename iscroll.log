@@ -1,0 +1,11 @@
+Package: iscroll
+Fetcher: github
+Source:  https://github.com/casouri/iscroll.git
+
+Updating /mnt/store/melpa/working/iscroll/
+Built iscroll in 3.661s, finished at Sun Apr  4 16:46:51 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K Apr  4 16:46 packages/iscroll-20210128.1938.el
+4.0K -rw-r--r-- 1 root root  350 Apr  4 16:46 packages/iscroll-20210128.1938.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:46 packages/iscroll-badge.svg
+4.0K -rw-r--r-- 1 root root  879 Apr  4 16:46 packages/iscroll-readme.txt

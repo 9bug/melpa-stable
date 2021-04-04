@@ -1,0 +1,11 @@
+Package: hardhat
+Fetcher: github
+Source:  https://github.com/rolandwalker/hardhat.git
+
+Updating /mnt/store/melpa/working/hardhat/
+Built hardhat in 4.566s, finished at Sun Apr  4 16:41:34 2021
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  44K Apr  4 16:41 packages/hardhat-20160414.1413.el
+4.0K -rw-r--r-- 1 root root  379 Apr  4 16:41 packages/hardhat-20160414.1413.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:41 packages/hardhat-badge.svg
+8.0K -rw-r--r-- 1 root root 4.7K Apr  4 16:41 packages/hardhat-readme.txt

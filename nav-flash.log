@@ -1,0 +1,11 @@
+Package: nav-flash
+Fetcher: github
+Source:  https://github.com/rolandwalker/nav-flash.git
+
+Updating /mnt/store/melpa/working/nav-flash/
+Built nav-flash in 4.578s, finished at Sun Apr  4 16:55:52 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K Apr  4 16:55 packages/nav-flash-20191204.1427.el
+4.0K -rw-r--r-- 1 root root  385 Apr  4 16:55 packages/nav-flash-20191204.1427.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:55 packages/nav-flash-badge.svg
+4.0K -rw-r--r-- 1 root root 3.3K Apr  4 16:55 packages/nav-flash-readme.txt

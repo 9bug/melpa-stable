@@ -1,0 +1,11 @@
+Package: bang
+Fetcher: git
+Source:  https://git.sr.ht/~zge/bang
+
+Updating /mnt/store/melpa/working/bang/
+Built bang in 3.257s, finished at Sun Apr  4 16:19:43 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.8K Apr  4 16:19 packages/bang-20200924.1601.el
+4.0K -rw-r--r-- 1 root root  353 Apr  4 16:19 packages/bang-20200924.1601.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:19 packages/bang-badge.svg
+4.0K -rw-r--r-- 1 root root  371 Apr  4 16:19 packages/bang-readme.txt

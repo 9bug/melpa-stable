@@ -1,0 +1,11 @@
+Package: universal-emotions-emoticons
+Fetcher: github
+Source:  https://github.com/grettke/universal-emotions-emoticons.git
+
+Updating /mnt/store/melpa/working/universal-emotions-emoticons/
+Built universal-emotions-emoticons in 3.689s, finished at Sun Apr  4 16:11:47 2021
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Apr  4 16:11 packages/universal-emotions-emoticons-20180729.1941.el
+4.0K -rw-r--r-- 1 root root  459 Apr  4 16:11 packages/universal-emotions-emoticons-20180729.1941.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:11 packages/universal-emotions-emoticons-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:11 packages/universal-emotions-emoticons-readme.txt

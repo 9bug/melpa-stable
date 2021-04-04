@@ -1,0 +1,11 @@
+Package: numpydoc
+Fetcher: github
+Source:  https://github.com/douglasdavis/numpydoc.el.git
+
+Updating /mnt/store/melpa/working/numpydoc/
+Built numpydoc in 2.399s, finished at Sun Apr  4 16:57:45 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K Apr  4 16:57 packages/numpydoc-20210305.2006.el
+4.0K -rw-r--r-- 1 root root  420 Apr  4 16:57 packages/numpydoc-20210305.2006.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:57 packages/numpydoc-badge.svg
+4.0K -rw-r--r-- 1 root root  623 Apr  4 16:57 packages/numpydoc-readme.txt

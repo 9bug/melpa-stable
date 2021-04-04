@@ -1,0 +1,11 @@
+Package: gandalf-theme
+Fetcher: github
+Source:  https://github.com/ptrv/gandalf-theme-emacs.git
+
+Updating /mnt/store/melpa/working/gandalf-theme/
+Built gandalf-theme in 3.364s, finished at Sun Apr  4 16:38:43 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.7K Apr  4 16:38 packages/gandalf-theme-20130809.947.el
+4.0K -rw-r--r-- 1 root root  281 Apr  4 16:38 packages/gandalf-theme-20130809.947.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:38 packages/gandalf-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  255 Apr  4 16:38 packages/gandalf-theme-readme.txt

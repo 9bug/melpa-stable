@@ -1,0 +1,11 @@
+Package: indent-control
+Fetcher: github
+Source:  https://github.com/jcs-elpa/indent-control.git
+
+Updating /mnt/store/melpa/working/indent-control/
+Built indent-control in 2.964s, finished at Sun Apr  4 16:46:12 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  4 16:46 packages/indent-control-20210404.727.el
+4.0K -rw-r--r-- 1 root root  350 Apr  4 16:46 packages/indent-control-20210404.727.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:46 packages/indent-control-badge.svg
+4.0K -rw-r--r-- 1 root root  495 Apr  4 16:46 packages/indent-control-readme.txt

@@ -1,0 +1,11 @@
+Package: github-stars
+Fetcher: github
+Source:  https://github.com/xuchunyang/github-stars.el.git
+
+Updating /mnt/store/melpa/working/github-stars/
+Built github-stars in 3.244s, finished at Sun Apr  4 16:39:42 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K Apr  4 16:39 packages/github-stars-20190517.1319.el
+4.0K -rw-r--r-- 1 root root  386 Apr  4 16:39 packages/github-stars-20190517.1319.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:39 packages/github-stars-badge.svg
+4.0K -rw-r--r-- 1 root root   26 Apr  4 16:39 packages/github-stars-readme.txt

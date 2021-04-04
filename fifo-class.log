@@ -1,0 +1,11 @@
+Package: fifo-class
+Fetcher: github
+Source:  https://github.com/mola-T/fifo-class.git
+
+Updating /mnt/store/melpa/working/fifo-class/
+Built fifo-class in 3.209s, finished at Sun Apr  4 16:34:57 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.5K Apr  4 16:34 packages/fifo-class-20160425.558.el
+4.0K -rw-r--r-- 1 root root  345 Apr  4 16:34 packages/fifo-class-20160425.558.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:34 packages/fifo-class-badge.svg
+4.0K -rw-r--r-- 1 root root   51 Apr  4 16:34 packages/fifo-class-readme.txt

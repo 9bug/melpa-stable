@@ -1,0 +1,11 @@
+Package: eldoc-eval
+Fetcher: github
+Source:  https://github.com/thierryvolpiatto/eldoc-eval.git
+
+Updating /mnt/store/melpa/working/eldoc-eval/
+Built eldoc-eval in 7.113s, finished at Sun Apr  4 16:30:19 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  4 16:30 packages/eldoc-eval-20200902.1339.el
+4.0K -rw-r--r-- 1 root root  321 Apr  4 16:30 packages/eldoc-eval-20200902.1339.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:30 packages/eldoc-eval-badge.svg
+4.0K -rw-r--r-- 1 root root  739 Apr  4 16:30 packages/eldoc-eval-readme.txt

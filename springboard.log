@@ -1,0 +1,11 @@
+Package: springboard
+Fetcher: github
+Source:  https://github.com/jwiegley/springboard.git
+
+Updating /mnt/store/melpa/working/springboard/
+Built springboard in 6.497s, finished at Sun Apr  4 16:07:40 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.2K Apr  4 16:07 packages/springboard-20170106.755.el
+4.0K -rw-r--r-- 1 root root  405 Apr  4 16:07 packages/springboard-20170106.755.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:07 packages/springboard-badge.svg
+4.0K -rw-r--r-- 1 root root  944 Apr  4 16:07 packages/springboard-readme.txt

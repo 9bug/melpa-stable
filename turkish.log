@@ -1,0 +1,11 @@
+Package: turkish
+Fetcher: github
+Source:  https://github.com/emres/turkish-mode.git
+
+Updating /mnt/store/melpa/working/turkish/
+Built turkish in 3.720s, finished at Sun Apr  4 16:11:15 2021
+ ✓ Success:
+176K -rw-r--r-- 1 root root 176K Apr  4 16:11 packages/turkish-20170910.1511.el
+4.0K -rw-r--r-- 1 root root  381 Apr  4 16:11 packages/turkish-20170910.1511.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:11 packages/turkish-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K Apr  4 16:11 packages/turkish-readme.txt

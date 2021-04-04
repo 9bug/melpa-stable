@@ -1,0 +1,11 @@
+Package: flycheck-ini-pyinilint
+Fetcher: gitlab
+Source:  https://gitlab.com/danieljrmay/flycheck-ini-pyinilint.git
+
+Updating /mnt/store/melpa/working/flycheck-ini-pyinilint/
+Built flycheck-ini-pyinilint in 3.203s, finished at Sun Apr  4 16:36:38 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.4K Apr  4 16:36 packages/flycheck-ini-pyinilint-20190312.1931.el
+4.0K -rw-r--r-- 1 root root  445 Apr  4 16:36 packages/flycheck-ini-pyinilint-20190312.1931.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:36 packages/flycheck-ini-pyinilint-badge.svg
+4.0K -rw-r--r-- 1 root root  462 Apr  4 16:36 packages/flycheck-ini-pyinilint-readme.txt

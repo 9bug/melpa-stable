@@ -1,0 +1,37 @@
+Package: epkg
+Fetcher: github
+Source:  https://github.com/emacscollective/epkg.git
+
+Updating /mnt/store/melpa/working/epkg/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/epkg/
+  to /tmp/epkgjVfAgY/epkg-20210227.1459
+    epkg-desc.el -> epkg-desc.el
+    epkg-gelpa.el -> epkg-gelpa.el
+    epkg-list.el -> epkg-list.el
+    epkg-melpa.el -> epkg-melpa.el
+    epkg-org.el -> epkg-org.el
+    epkg-schemata.el -> epkg-schemata.el
+    epkg-utils.el -> epkg-utils.el
+    epkg.el -> epkg.el
+    epkg.texi -> epkg.texi
+Created /tmp/epkgjVfAgY/epkg-20210227.1459/epkg.info
+Created epkg-20210227.1459.tar containing:
+  epkg-20210227.1459/
+  epkg-20210227.1459/dir
+  epkg-20210227.1459/epkg-desc.el
+  epkg-20210227.1459/epkg-gelpa.el
+  epkg-20210227.1459/epkg-list.el
+  epkg-20210227.1459/epkg-melpa.el
+  epkg-20210227.1459/epkg-org.el
+  epkg-20210227.1459/epkg-pkg.el
+  epkg-20210227.1459/epkg-schemata.el
+  epkg-20210227.1459/epkg-utils.el
+  epkg-20210227.1459/epkg.el
+  epkg-20210227.1459/epkg.info
+Built epkg in 9.760s, finished at Sun Apr  4 16:32:07 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  378 Apr  4 16:32 packages/epkg-20210227.1459.entry
+112K -rw-r--r-- 1 root root 110K Apr  4 16:32 packages/epkg-20210227.1459.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:32 packages/epkg-badge.svg
+4.0K -rw-r--r-- 1 root root  341 Apr  4 16:32 packages/epkg-readme.txt

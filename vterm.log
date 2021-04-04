@@ -1,0 +1,52 @@
+Package: vterm
+Fetcher: github
+Source:  https://github.com/akermu/emacs-libvterm.git
+
+Updating /mnt/store/melpa/working/vterm/
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vterm/
+  to /tmp/vtermSDHtYb/vterm-20210326.1458
+    .git => .git
+    .gitmodules -> .gitmodules
+    CMakeLists.txt -> CMakeLists.txt
+    LICENSE -> LICENSE
+    README.md -> README.md
+    elisp.c -> elisp.c
+    elisp.h -> elisp.h
+    emacs-module.h -> emacs-module.h
+    etc => etc
+    utf8.c -> utf8.c
+    utf8.h -> utf8.h
+    vterm-module.c -> vterm-module.c
+    vterm-module.h -> vterm-module.h
+    vterm.el -> vterm.el
+Created vterm-20210326.1458.tar containing:
+  vterm-20210326.1458/
+  vterm-20210326.1458/.gitmodules
+  vterm-20210326.1458/CMakeLists.txt
+  vterm-20210326.1458/LICENSE
+  vterm-20210326.1458/README.md
+  vterm-20210326.1458/elisp.c
+  vterm-20210326.1458/elisp.h
+  vterm-20210326.1458/emacs-module.h
+  vterm-20210326.1458/etc/
+  vterm-20210326.1458/etc/emacs-vterm-bash.sh
+  vterm-20210326.1458/etc/emacs-vterm-zsh.sh
+  vterm-20210326.1458/etc/emacs-vterm.fish
+  vterm-20210326.1458/utf8.c
+  vterm-20210326.1458/utf8.h
+  vterm-20210326.1458/vterm-module.c
+  vterm-20210326.1458/vterm-module.h
+  vterm-20210326.1458/vterm-pkg.el
+  vterm-20210326.1458/vterm.el
+Built vterm in 6.159s, finished at Sun Apr  4 16:12:48 2021
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  352 Apr  4 16:12 packages/vterm-20210326.1458.entry
+232K -rw-r--r-- 1 root root 230K Apr  4 16:12 packages/vterm-20210326.1458.tar
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:12 packages/vterm-badge.svg
+4.0K -rw-r--r-- 1 root root  977 Apr  4 16:12 packages/vterm-readme.txt
+ 20K -rw-r--r-- 1 root root  20K Apr  4 16:12 packages/vterm-toggle-20210313.305.el
+4.0K -rw-r--r-- 1 root root  404 Apr  4 16:12 packages/vterm-toggle-20210313.305.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:12 packages/vterm-toggle-badge.svg
+4.0K -rw-r--r-- 1 root root  582 Apr  4 16:12 packages/vterm-toggle-readme.txt
+4.0K -rw-r--r-- 1 root root  548 Apr  4 16:12 packages/vterm-toggle.log

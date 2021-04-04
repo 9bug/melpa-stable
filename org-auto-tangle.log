@@ -1,0 +1,11 @@
+Package: org-auto-tangle
+Fetcher: github
+Source:  https://github.com/yilkalargaw/org-auto-tangle.git
+
+Updating /mnt/store/melpa/working/org-auto-tangle/
+Built org-auto-tangle in 10.624s, finished at Sun Apr  4 16:59:27 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.4K Apr  4 16:59 packages/org-auto-tangle-20210214.917.el
+4.0K -rw-r--r-- 1 root root  391 Apr  4 16:59 packages/org-auto-tangle-20210214.917.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:59 packages/org-auto-tangle-badge.svg
+4.0K -rw-r--r-- 1 root root  277 Apr  4 16:59 packages/org-auto-tangle-readme.txt

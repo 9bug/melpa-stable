@@ -1,0 +1,11 @@
+Package: geoip
+Fetcher: github
+Source:  https://github.com/xuchunyang/geoip.el.git
+
+Updating /mnt/store/melpa/working/geoip/
+Built geoip in 3.282s, finished at Sun Apr  4 16:38:58 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  10K Apr  4 16:38 packages/geoip-20200310.911.el
+4.0K -rw-r--r-- 1 root root  310 Apr  4 16:38 packages/geoip-20200310.911.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:38 packages/geoip-badge.svg
+4.0K -rw-r--r-- 1 root root  166 Apr  4 16:38 packages/geoip-readme.txt

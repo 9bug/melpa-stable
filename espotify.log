@@ -1,0 +1,11 @@
+Package: espotify
+Fetcher: git
+Source:  https://codeberg.org/jao/espotify
+
+Updating /mnt/store/melpa/working/espotify/
+Built espotify in 4.316s, finished at Sun Apr  4 16:32:51 2021
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Apr  4 16:32 packages/espotify-20210224.126.el
+4.0K -rw-r--r-- 1 root root  338 Apr  4 16:32 packages/espotify-20210224.126.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:32 packages/espotify-badge.svg
+4.0K -rw-r--r-- 1 root root  654 Apr  4 16:32 packages/espotify-readme.txt

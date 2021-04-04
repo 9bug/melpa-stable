@@ -1,0 +1,10 @@
+Package: sos
+Fetcher: github
+Source:  https://github.com/emacsattic/sos.git
+
+Updating /mnt/store/melpa/working/sos/
+Built sos in 4.122s, finished at Sun Apr  4 16:06:59 2021
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.8K Apr  4 16:06 packages/sos-20141215.403.el
+4.0K -rw-r--r-- 1 root root  320 Apr  4 16:06 packages/sos-20141215.403.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:06 packages/sos-badge.svg

@@ -1,0 +1,11 @@
+Package: jeison
+Fetcher: github
+Source:  https://github.com/SavchenkoValeriy/jeison.git
+
+Updating /mnt/store/melpa/working/jeison/
+Built jeison in 3.220s, finished at Sun Apr  4 16:48:06 2021
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  17K Apr  4 16:48 packages/jeison-20190721.1651.el
+4.0K -rw-r--r-- 1 root root  283 Apr  4 16:48 packages/jeison-20190721.1651.entry
+4.0K -rw-r--r-- 1 root root 1.2K Apr  4 16:48 packages/jeison-badge.svg
+4.0K -rw-r--r-- 1 root root   84 Apr  4 16:48 packages/jeison-readme.txt
