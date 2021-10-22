@@ -1,0 +1,25 @@
+Package: sketch-themes
+Fetcher: github
+Source:  https://github.com/dawranliou/sketch-themes.git
+
+Updating /mnt/store/melpa/working/sketch-themes/
+Checking out origin/HEAD
+Checking out 50fd9fe9caf24f42dc481560e1f41addc3a06dbb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sketch-themes/
+  to /tmp/sketch-themesjx5YFP/sketch-themes-20210826.1816
+    sketch-black-theme.el -> sketch-black-theme.el
+    sketch-themes.el -> sketch-themes.el
+    sketch-white-theme.el -> sketch-white-theme.el
+Created sketch-themes-20210826.1816.tar containing:
+  sketch-themes-20210826.1816/
+  sketch-themes-20210826.1816/sketch-black-theme.el
+  sketch-themes-20210826.1816/sketch-themes-pkg.el
+  sketch-themes-20210826.1816/sketch-themes.el
+  sketch-themes-20210826.1816/sketch-white-theme.el
+Built sketch-themes in 5.408s, finished at 2021-10-22T16:21:48+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  347 Oct 22 16:21 packages/sketch-themes-20210826.1816.entry
+ 20K -rw-r--r-- 1 root root  20K Oct 22 16:21 packages/sketch-themes-20210826.1816.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:21 packages/sketch-themes-badge.svg
+4.0K -rw-r--r-- 1 root root  291 Oct 22 16:21 packages/sketch-themes-readme.txt

@@ -1,0 +1,12 @@
+Package: term+mux
+Fetcher: github
+Source:  https://github.com/tarao/term-plus-mux-el.git
+
+Updating /mnt/store/melpa/working/term+mux/
+Checking out origin/HEAD
+Checking out 81b60e80cf008472bfd7fad9233af2ef722c208a
+Built term+mux in 13.636s, finished at 2021-10-22T16:27:12+0000
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  39K Oct 22 16:27 packages/term+mux-20140211.749.el
+4.0K -rw-r--r-- 1 root root  422 Oct 22 16:27 packages/term+mux-20140211.749.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:27 packages/term+mux-badge.svg

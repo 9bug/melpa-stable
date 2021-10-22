@@ -1,0 +1,13 @@
+Package: revert-buffer-all
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-revert-buffer-all.git
+
+Updating /mnt/store/melpa/working/revert-buffer-all/
+Checking out origin/HEAD
+Checking out 947f2471acaf1b9d5162f8a886aed6a211dd8fca
+Built revert-buffer-all in 5.842s, finished at 2021-10-22T16:17:47+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.5K Oct 22 16:17 packages/revert-buffer-all-20211004.1321.el
+4.0K -rw-r--r-- 1 root root  385 Oct 22 16:17 packages/revert-buffer-all-20211004.1321.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:17 packages/revert-buffer-all-badge.svg
+4.0K -rw-r--r-- 1 root root  144 Oct 22 16:17 packages/revert-buffer-all-readme.txt

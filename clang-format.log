@@ -1,0 +1,13 @@
+Package: clang-format
+Fetcher: github
+Source:  https://github.com/emacsmirror/clang-format.git
+
+Updating /mnt/store/melpa/working/clang-format/
+Checking out origin/HEAD
+Checking out e48ff8ae18dc7ab6118c1f6752deb48cb1fc83ac
+Built clang-format in 14.385s, finished at 2021-10-22T18:59:21+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K Oct 22 18:59 packages/clang-format-20191106.950.el
+4.0K -rw-r--r-- 1 root root  208 Oct 22 18:59 packages/clang-format-20191106.950.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:59 packages/clang-format-badge.svg
+4.0K -rw-r--r-- 1 root root  713 Oct 22 18:59 packages/clang-format-readme.txt

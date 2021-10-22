@@ -1,0 +1,11 @@
+(pine-script-mode .
+		  [(20210629 1257)
+		   ((emacs
+		     (24)))
+		   "Trading View Pine Script major mode" single
+		   ((:commit . "1959d2d5e09fde5244f9f945fec043cdffd5d37e")
+		    (:authors
+		     ("Eric Crosson" . "eric.s.crosson@utexas.edu"))
+		    (:maintainer "Eric Crosson" . "eric.s.crosson@utexas.edu")
+		    (:keywords "extensions")
+		    (:url . "https://github.com/ericcrosson/pine-script-mode"))])

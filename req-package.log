@@ -1,0 +1,27 @@
+Package: req-package
+Fetcher: github
+Source:  https://github.com/edvorg/req-package.git
+
+Updating /mnt/store/melpa/working/req-package/
+Checking out origin/HEAD
+Checking out a77da72931914ac5f3f64dc61fe9dc3522b2817e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/req-package/
+  to /tmp/req-package9wCT7M/req-package-20180605.1141
+    req-package-args.el -> req-package-args.el
+    req-package-cycles.el -> req-package-cycles.el
+    req-package-hooks.el -> req-package-hooks.el
+    req-package.el -> req-package.el
+Created req-package-20180605.1141.tar containing:
+  req-package-20180605.1141/
+  req-package-20180605.1141/req-package-args.el
+  req-package-20180605.1141/req-package-cycles.el
+  req-package-20180605.1141/req-package-hooks.el
+  req-package-20180605.1141/req-package-pkg.el
+  req-package-20180605.1141/req-package.el
+Built req-package in 4.926s, finished at 2021-10-22T16:17:28+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  530 Oct 22 16:17 packages/req-package-20180605.1141.entry
+ 32K -rw-r--r-- 1 root root  30K Oct 22 16:17 packages/req-package-20180605.1141.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:17 packages/req-package-badge.svg
+8.0K -rw-r--r-- 1 root root 7.5K Oct 22 16:17 packages/req-package-readme.txt

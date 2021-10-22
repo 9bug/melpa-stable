@@ -1,0 +1,13 @@
+Package: rats
+Fetcher: github
+Source:  https://github.com/ane/rats.el.git
+
+Updating /mnt/store/melpa/working/rats/
+Checking out origin/HEAD
+Checking out a6d55aebcc54f669c6c6ffedf84364c4097903cc
+Built rats in 5.663s, finished at 2021-10-22T16:16:12+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K Oct 22 16:16 packages/rats-20170818.1013.el
+4.0K -rw-r--r-- 1 root root  320 Oct 22 16:16 packages/rats-20170818.1013.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:16 packages/rats-badge.svg
+4.0K -rw-r--r-- 1 root root  113 Oct 22 16:16 packages/rats-readme.txt

@@ -1,0 +1,13 @@
+Package: eprime-mode
+Fetcher: github
+Source:  https://github.com/VioletHynes/eprime-mode.git
+
+Updating /mnt/store/melpa/working/eprime-mode/
+Checking out origin/HEAD
+Checking out 17a481af26496be91c07139a9bfc05cfe722506f
+Built eprime-mode in 14.381s, finished at 2021-10-22T19:16:28+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.2K Oct 22 19:16 packages/eprime-mode-20140513.1816.el
+4.0K -rw-r--r-- 1 root root  410 Oct 22 19:16 packages/eprime-mode-20140513.1816.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:16 packages/eprime-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  668 Oct 22 19:16 packages/eprime-mode-readme.txt

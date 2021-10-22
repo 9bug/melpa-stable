@@ -1,0 +1,23 @@
+Package: ssh-config-mode
+Fetcher: github
+Source:  https://github.com/jhgorrell/ssh-config-mode-el.git
+
+Updating /mnt/store/melpa/working/ssh-config-mode/
+Checking out origin/HEAD
+Checking out d560a0876a93ad4130baf33dae1b9405ad37a405
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ssh-config-mode/
+  to /tmp/ssh-config-modeklS7Ok/ssh-config-mode-20211003.2330
+    ssh-config-mode.el -> ssh-config-mode.el
+    ssh-config-keywords.txt -> ssh-config-keywords.txt
+Created ssh-config-mode-20211003.2330.tar containing:
+  ssh-config-mode-20211003.2330/
+  ssh-config-mode-20211003.2330/ssh-config-keywords.txt
+  ssh-config-mode-20211003.2330/ssh-config-mode-pkg.el
+  ssh-config-mode-20211003.2330/ssh-config-mode.el
+Built ssh-config-mode in 5.012s, finished at 2021-10-22T16:24:30+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  379 Oct 22 16:24 packages/ssh-config-mode-20211003.2330.entry
+ 20K -rw-r--r-- 1 root root  20K Oct 22 16:24 packages/ssh-config-mode-20211003.2330.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:24 packages/ssh-config-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  597 Oct 22 16:24 packages/ssh-config-mode-readme.txt

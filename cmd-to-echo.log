@@ -1,0 +1,13 @@
+Package: cmd-to-echo
+Fetcher: github
+Source:  https://github.com/mallt/cmd-to-echo.git
+
+Updating /mnt/store/melpa/working/cmd-to-echo/
+Checking out origin/HEAD
+Checking out e0e874fc0e1ad6d291e39ed76023445297ad438a
+Built cmd-to-echo in 8.190s, finished at 2021-10-22T19:00:16+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.7K Oct 22 19:00 packages/cmd-to-echo-20161203.2133.el
+4.0K -rw-r--r-- 1 root root  410 Oct 22 19:00 packages/cmd-to-echo-20161203.2133.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:00 packages/cmd-to-echo-badge.svg
+4.0K -rw-r--r-- 1 root root   84 Oct 22 19:00 packages/cmd-to-echo-readme.txt

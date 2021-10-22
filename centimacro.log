@@ -1,0 +1,13 @@
+Package: centimacro
+Fetcher: github
+Source:  https://github.com/abo-abo/centimacro.git
+
+Updating /mnt/store/melpa/working/centimacro/
+Checking out origin/HEAD
+Checking out 0149877584b333c4f1953f0767f0cae23881b0df
+Built centimacro in 6.609s, finished at 2021-10-22T18:57:52+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.2K Oct 22 18:57 packages/centimacro-20201225.1132.el
+4.0K -rw-r--r-- 1 root root  375 Oct 22 18:57 packages/centimacro-20201225.1132.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:57 packages/centimacro-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Oct 22 18:57 packages/centimacro-readme.txt

@@ -1,0 +1,13 @@
+Package: rigid-tabs
+Fetcher: gitlab
+Source:  https://gitlab.com/wavexx/rigid-tabs.el.git
+
+Updating /mnt/store/melpa/working/rigid-tabs/
+Checking out origin/HEAD
+Checking out eba84ceaba2e57e76ad2dfbb7a7154238a25d956
+Built rigid-tabs in 5.490s, finished at 2021-10-22T16:17:55+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.7K Oct 22 16:17 packages/rigid-tabs-20170903.1559.el
+4.0K -rw-r--r-- 1 root root  425 Oct 22 16:17 packages/rigid-tabs-20170903.1559.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:17 packages/rigid-tabs-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:17 packages/rigid-tabs-readme.txt

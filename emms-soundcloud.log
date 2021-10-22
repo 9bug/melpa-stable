@@ -1,0 +1,13 @@
+Package: emms-soundcloud
+Fetcher: github
+Source:  https://github.com/osener/emms-soundcloud.git
+
+Updating /mnt/store/melpa/working/emms-soundcloud/
+Checking out origin/HEAD
+Checking out 87e5cbf9609d1f26c24dc834fdeb78b33d453c2b
+Built emms-soundcloud in 14.089s, finished at 2021-10-22T19:15:14+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.4K Oct 22 19:15 packages/emms-soundcloud-20131221.1145.el
+4.0K -rw-r--r-- 1 root root  428 Oct 22 19:15 packages/emms-soundcloud-20131221.1145.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:15 packages/emms-soundcloud-badge.svg
+4.0K -rw-r--r-- 1 root root  242 Oct 22 19:15 packages/emms-soundcloud-readme.txt

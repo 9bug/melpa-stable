@@ -1,0 +1,13 @@
+Package: dogears
+Fetcher: github
+Source:  https://github.com/alphapapa/dogears.el.git
+
+Updating /mnt/store/melpa/working/dogears/
+Checking out origin/HEAD
+Checking out c05b69e504a538c9e00fbb0ea86934fafe191d0c
+Built dogears in 7.118s, finished at 2021-10-22T19:09:28+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K Oct 22 19:09 packages/dogears-20210913.1259.el
+4.0K -rw-r--r-- 1 root root  377 Oct 22 19:09 packages/dogears-20210913.1259.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:09 packages/dogears-badge.svg
+4.0K -rw-r--r-- 1 root root  296 Oct 22 19:09 packages/dogears-readme.txt

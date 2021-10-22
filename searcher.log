@@ -1,0 +1,13 @@
+Package: searcher
+Fetcher: github
+Source:  https://github.com/jcs-elpa/searcher.git
+
+Updating /mnt/store/melpa/working/searcher/
+Checking out origin/HEAD
+Checking out 137c5791fb5a307192138a6d7c62340253bb4521
+Built searcher in 5.636s, finished at 2021-10-22T16:19:44+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.9K Oct 22 16:19 packages/searcher-20210124.1524.el
+4.0K -rw-r--r-- 1 root root  387 Oct 22 16:19 packages/searcher-20210124.1524.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:19 packages/searcher-badge.svg
+4.0K -rw-r--r-- 1 root root   24 Oct 22 16:19 packages/searcher-readme.txt

@@ -1,0 +1,13 @@
+Package: boxquote
+Fetcher: github
+Source:  https://github.com/davep/boxquote.el.git
+
+Updating /mnt/store/melpa/working/boxquote/
+Checking out origin/HEAD
+Checking out bdc6c84b9274b228dbc383a14abf9694157e869c
+Built boxquote in 6.028s, finished at 2021-10-22T18:55:49+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K Oct 22 18:55 packages/boxquote-20200727.1203.el
+4.0K -rw-r--r-- 1 root root  356 Oct 22 18:55 packages/boxquote-20200727.1203.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:55 packages/boxquote-badge.svg
+4.0K -rw-r--r-- 1 root root  613 Oct 22 18:55 packages/boxquote-readme.txt

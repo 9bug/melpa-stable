@@ -1,0 +1,13 @@
+Package: vale-mode
+Fetcher: github
+Source:  https://github.com/jaybosamiya/vale-mode.el.git
+
+Updating /mnt/store/melpa/working/vale-mode/
+Checking out origin/HEAD
+Checking out 48bbc4b4ee5bf0b1b73e52705c0fbc112b255cd0
+Built vale-mode in 6.253s, finished at 2021-10-22T16:31:02+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.3K Oct 22 16:31 packages/vale-mode-20190725.125.el
+4.0K -rw-r--r-- 1 root root  409 Oct 22 16:31 packages/vale-mode-20190725.125.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:31 packages/vale-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  268 Oct 22 16:31 packages/vale-mode-readme.txt

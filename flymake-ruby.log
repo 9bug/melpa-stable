@@ -1,0 +1,13 @@
+Package: flymake-ruby
+Fetcher: github
+Source:  https://github.com/purcell/flymake-ruby.git
+
+Updating /mnt/store/melpa/working/flymake-ruby/
+Checking out origin/HEAD
+Checking out 6c320c6fb686c5223bf975cc35178ad6b195e073
+Built flymake-ruby in 6.954s, finished at 2021-10-22T15:31:07+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.0K Oct 22 15:31 packages/flymake-ruby-20170723.146.el
+4.0K -rw-r--r-- 1 root root  362 Oct 22 15:31 packages/flymake-ruby-20170723.146.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:31 packages/flymake-ruby-badge.svg
+4.0K -rw-r--r-- 1 root root  146 Oct 22 15:31 packages/flymake-ruby-readme.txt

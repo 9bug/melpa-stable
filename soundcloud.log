@@ -1,0 +1,13 @@
+Package: soundcloud
+Fetcher: github
+Source:  https://github.com/thieman/soundcloud.el.git
+
+Updating /mnt/store/melpa/working/soundcloud/
+Checking out origin/HEAD
+Checking out f998d4276ea90258909c698f6a5a51fccb667c08
+Built soundcloud in 5.402s, finished at 2021-10-22T16:23:31+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K Oct 22 16:23 packages/soundcloud-20150502.326.el
+4.0K -rw-r--r-- 1 root root  552 Oct 22 16:23 packages/soundcloud-20150502.326.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:23 packages/soundcloud-badge.svg
+4.0K -rw-r--r-- 1 root root  272 Oct 22 16:23 packages/soundcloud-readme.txt

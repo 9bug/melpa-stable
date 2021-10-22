@@ -1,0 +1,10 @@
+(project-abbrev .
+		[(20210715 1213)
+		 ((emacs
+		   (25 1)))
+		 "Customize abbreviation expansion in the project" single
+		 ((:commit . "4b059ff6ce8cc2ca817247fcc251994bee2090e4")
+		  (:authors
+		   ("Shen, Jen-Chieh" . "jcs090218@gmail.com"))
+		  (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com")
+		  (:url . "https://github.com/jcs-elpa/project-abbrev"))])

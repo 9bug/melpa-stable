@@ -1,0 +1,10 @@
+(smart-semicolon .
+		 [(20200909 1412)
+		  ((emacs
+		    (26)))
+		  "Insert semicolon smartly" single
+		  ((:commit . "2c140accd576062f69dbe7db1d43ba038b347b9b")
+		   (:authors
+		    ("Iku Iwasa" . "iku.iwasa@gmail.com"))
+		   (:maintainer "Iku Iwasa" . "iku.iwasa@gmail.com")
+		   (:url . "https://github.com/iquiw/smart-semicolon"))])

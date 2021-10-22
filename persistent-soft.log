@@ -1,0 +1,13 @@
+Package: persistent-soft
+Fetcher: github
+Source:  https://github.com/rolandwalker/persistent-soft.git
+
+Updating /mnt/store/melpa/working/persistent-soft/
+Checking out origin/HEAD
+Checking out a1e0ddf2a12a6f18cab565dee250f070384cbe02
+Built persistent-soft in 5.410s, finished at 2021-10-22T16:10:36+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Oct 22 16:10 packages/persistent-soft-20150223.1853.el
+4.0K -rw-r--r-- 1 root root  438 Oct 22 16:10 packages/persistent-soft-20150223.1853.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:10 packages/persistent-soft-badge.svg
+4.0K -rw-r--r-- 1 root root 3.6K Oct 22 16:10 packages/persistent-soft-readme.txt

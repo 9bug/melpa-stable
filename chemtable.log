@@ -1,0 +1,13 @@
+Package: chemtable
+Fetcher: github
+Source:  https://github.com/sergiruiztrepat/chemtable.git
+
+Updating /mnt/store/melpa/working/chemtable/
+Checking out origin/HEAD
+Checking out 05fc1449db497e715b33b8e08359fa17c3148c7b
+Built chemtable in 7.206s, finished at 2021-10-22T18:58:20+0000
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  40K Oct 22 18:58 packages/chemtable-20210713.1551.el
+4.0K -rw-r--r-- 1 root root  364 Oct 22 18:58 packages/chemtable-20210713.1551.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:58 packages/chemtable-badge.svg
+4.0K -rw-r--r-- 1 root root  301 Oct 22 18:58 packages/chemtable-readme.txt

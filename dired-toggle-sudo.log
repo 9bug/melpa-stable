@@ -1,0 +1,13 @@
+Package: dired-toggle-sudo
+Fetcher: github
+Source:  https://github.com/renard/dired-toggle-sudo.git
+
+Updating /mnt/store/melpa/working/dired-toggle-sudo/
+Checking out origin/HEAD
+Checking out 13bbe52c54893f5aa3e56228450ffdd0c9e1d169
+Built dired-toggle-sudo in 6.996s, finished at 2021-10-22T19:08:22+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.2K Oct 22 19:08 packages/dired-toggle-sudo-20200401.1353.el
+4.0K -rw-r--r-- 1 root root  362 Oct 22 19:08 packages/dired-toggle-sudo-20200401.1353.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:08 packages/dired-toggle-sudo-badge.svg
+4.0K -rw-r--r-- 1 root root  395 Oct 22 19:08 packages/dired-toggle-sudo-readme.txt

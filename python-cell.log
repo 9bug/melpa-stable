@@ -1,0 +1,13 @@
+Package: python-cell
+Fetcher: github
+Source:  https://github.com/thisch/python-cell.el.git
+
+Updating /mnt/store/melpa/working/python-cell/
+Checking out origin/HEAD
+Checking out 4f0778b05bfb936861449bcb998ed620cd9b31ad
+Built python-cell in 5.519s, finished at 2021-10-22T16:14:57+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.8K Oct 22 16:14 packages/python-cell-20200314.1147.el
+4.0K -rw-r--r-- 1 root root  428 Oct 22 16:14 packages/python-cell-20200314.1147.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:14 packages/python-cell-badge.svg
+4.0K -rw-r--r-- 1 root root   70 Oct 22 16:14 packages/python-cell-readme.txt

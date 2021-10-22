@@ -1,0 +1,23 @@
+Package: electric-operator
+Fetcher: github
+Source:  https://github.com/davidshepherd7/electric-operator.git
+
+Updating /mnt/store/melpa/working/electric-operator/
+Checking out origin/HEAD
+Checking out 14def81d88bf4344a335e68007324e3f3ef5c435
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/electric-operator/
+  to /tmp/electric-operatorD6H35w/electric-operator-20210906.1235
+    electric-operator-benchmark.el -> electric-operator-benchmark.el
+    electric-operator.el -> electric-operator.el
+Created electric-operator-20210906.1235.tar containing:
+  electric-operator-20210906.1235/
+  electric-operator-20210906.1235/electric-operator-benchmark.el
+  electric-operator-20210906.1235/electric-operator-pkg.el
+  electric-operator-20210906.1235/electric-operator.el
+Built electric-operator in 5.695s, finished at 2021-10-22T19:12:56+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  465 Oct 22 19:12 packages/electric-operator-20210906.1235.entry
+ 72K -rw-r--r-- 1 root root  70K Oct 22 19:12 packages/electric-operator-20210906.1235.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:12 packages/electric-operator-badge.svg
+4.0K -rw-r--r-- 1 root root  126 Oct 22 19:12 packages/electric-operator-readme.txt

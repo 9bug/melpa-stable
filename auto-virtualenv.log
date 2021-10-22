@@ -1,0 +1,13 @@
+Package: auto-virtualenv
+Fetcher: github
+Source:  https://github.com/marcwebbie/auto-virtualenv.git
+
+Updating /mnt/store/melpa/working/auto-virtualenv/
+Checking out origin/HEAD
+Checking out 214604ebd3366078d03814a344c3249268d1f15a
+Built auto-virtualenv in 5.827s, finished at 2021-10-22T18:52:42+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.9K Oct 22 18:52 packages/auto-virtualenv-20200729.2204.el
+4.0K -rw-r--r-- 1 root root  452 Oct 22 18:52 packages/auto-virtualenv-20200729.2204.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:52 packages/auto-virtualenv-badge.svg
+4.0K -rw-r--r-- 1 root root  317 Oct 22 18:52 packages/auto-virtualenv-readme.txt

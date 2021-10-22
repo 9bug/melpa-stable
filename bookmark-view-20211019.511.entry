@@ -1,0 +1,10 @@
+(bookmark-view .
+	       [(20211019 511)
+		((emacs
+		  (26)))
+		"Bookmark views" single
+		((:commit . "06e41de8ed7050e70627203c93b6132fec7e88d8")
+		 (:authors
+		  ("Daniel Mendler"))
+		 (:maintainer "Daniel Mendler")
+		 (:url . "https://github.com/minad/bookmark-view"))])

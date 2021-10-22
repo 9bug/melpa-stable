@@ -1,0 +1,13 @@
+Package: ah
+Fetcher: github
+Source:  https://github.com/takaxp/ah.git
+
+Updating /mnt/store/melpa/working/ah/
+Checking out origin/HEAD
+Checking out 869219e7853510aeb00af3580aede0e5d49b324a
+Built ah in 7.779s, finished at 2021-10-22T18:49:47+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K Oct 22 18:49 packages/ah-20201213.218.el
+4.0K -rw-r--r-- 1 root root  362 Oct 22 18:49 packages/ah-20201213.218.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:49 packages/ah-badge.svg
+4.0K -rw-r--r-- 1 root root  206 Oct 22 18:49 packages/ah-readme.txt

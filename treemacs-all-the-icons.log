@@ -1,0 +1,13 @@
+Package: treemacs-all-the-icons
+Fetcher: github
+Source:  https://github.com/Alexander-Miller/treemacs.git
+
+Updating /mnt/store/melpa/working/treemacs-all-the-icons/
+Checking out origin/HEAD
+Checking out 4fb0480ae6c110a74b7365fb59b84d31ca38ded2
+Built treemacs-all-the-icons in 5.824s, finished at 2021-10-22T16:29:11+0000
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  34K Oct 22 16:29 packages/treemacs-all-the-icons-20211006.1837.el
+4.0K -rw-r--r-- 1 root root  431 Oct 22 16:29 packages/treemacs-all-the-icons-20211006.1837.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:29 packages/treemacs-all-the-icons-badge.svg
+4.0K -rw-r--r-- 1 root root   29 Oct 22 16:29 packages/treemacs-all-the-icons-readme.txt

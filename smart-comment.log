@@ -1,0 +1,13 @@
+Package: smart-comment
+Fetcher: github
+Source:  https://github.com/paldepind/smart-comment.git
+
+Updating /mnt/store/melpa/working/smart-comment/
+Checking out origin/HEAD
+Checking out 17ddbd83205818763e6d68aa7a1aa9aaf414cbd4
+Built smart-comment in 6.096s, finished at 2021-10-22T16:22:24+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.1K Oct 22 16:22 packages/smart-comment-20160322.1839.el
+4.0K -rw-r--r-- 1 root root  278 Oct 22 16:22 packages/smart-comment-20160322.1839.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:22 packages/smart-comment-badge.svg
+4.0K -rw-r--r-- 1 root root  710 Oct 22 16:22 packages/smart-comment-readme.txt

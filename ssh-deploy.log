@@ -1,0 +1,25 @@
+Package: ssh-deploy
+Fetcher: github
+Source:  https://github.com/cjohansson/emacs-ssh-deploy.git
+
+Updating /mnt/store/melpa/working/ssh-deploy/
+Checking out origin/HEAD
+Checking out 7c5fe8af2d62d8f6d32ebe2d3bfc53051a9432d1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ssh-deploy/
+  to /tmp/ssh-deploy6voCgN/ssh-deploy-20210626.2228
+    ssh-deploy-diff-mode.el -> ssh-deploy-diff-mode.el
+    ssh-deploy-hydra.el -> ssh-deploy-hydra.el
+    ssh-deploy.el -> ssh-deploy.el
+Created ssh-deploy-20210626.2228.tar containing:
+  ssh-deploy-20210626.2228/
+  ssh-deploy-20210626.2228/ssh-deploy-diff-mode.el
+  ssh-deploy-20210626.2228/ssh-deploy-hydra.el
+  ssh-deploy-20210626.2228/ssh-deploy-pkg.el
+  ssh-deploy-20210626.2228/ssh-deploy.el
+Built ssh-deploy in 5.312s, finished at 2021-10-22T16:24:34+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  430 Oct 22 16:24 packages/ssh-deploy-20210626.2228.entry
+100K -rw-r--r-- 1 root root 100K Oct 22 16:24 packages/ssh-deploy-20210626.2228.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:24 packages/ssh-deploy-badge.svg
+8.0K -rw-r--r-- 1 root root 5.4K Oct 22 16:24 packages/ssh-deploy-readme.txt

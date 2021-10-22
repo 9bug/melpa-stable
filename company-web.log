@@ -1,0 +1,27 @@
+Package: company-web
+Fetcher: github
+Source:  https://github.com/osv/company-web.git
+
+Updating /mnt/store/melpa/working/company-web/
+Checking out origin/HEAD
+Checking out f0cc9187c9c34f72ad71f5649a69c74f996bae9a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-web/
+  to /tmp/company-webUn5fof/company-web-20180402.1155
+    company-web-html.el -> company-web-html.el
+    company-web-jade.el -> company-web-jade.el
+    company-web-slim.el -> company-web-slim.el
+    company-web.el -> company-web.el
+Created company-web-20180402.1155.tar containing:
+  company-web-20180402.1155/
+  company-web-20180402.1155/company-web-html.el
+  company-web-20180402.1155/company-web-jade.el
+  company-web-20180402.1155/company-web-pkg.el
+  company-web-20180402.1155/company-web-slim.el
+  company-web-20180402.1155/company-web.el
+Built company-web in 6.045s, finished at 2021-10-22T19:02:32+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  542 Oct 22 19:02 packages/company-web-20180402.1155.entry
+ 52K -rw-r--r-- 1 root root  50K Oct 22 19:02 packages/company-web-20180402.1155.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:02 packages/company-web-badge.svg
+4.0K -rw-r--r-- 1 root root  904 Oct 22 19:02 packages/company-web-readme.txt

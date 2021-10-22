@@ -1,0 +1,14 @@
+Package: scribble-mode
+Fetcher: github
+Source:  https://github.com/emacs-pe/scribble-mode.git
+
+Updating /mnt/store/melpa/working/scribble-mode/
+Checking out origin/HEAD
+Checking out 5c3ea3cc9bbad585476eee41ea76dc056c2012bb
+Note: scribble-mode :files spec is equivalent to the default.
+Built scribble-mode in 5.468s, finished at 2021-10-22T16:19:33+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.2K Oct 22 16:19 packages/scribble-mode-20190912.200.el
+4.0K -rw-r--r-- 1 root root  398 Oct 22 16:19 packages/scribble-mode-20190912.200.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:19 packages/scribble-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  226 Oct 22 16:19 packages/scribble-mode-readme.txt

@@ -1,0 +1,9 @@
+(jade-mode .
+	   [(20210908 2121)
+	    nil "Major mode for editing .jade files" single
+	    ((:commit . "1ad7c51f3c6a6ae64550d9510c5e4e8470014375")
+	     (:authors
+	      ("Brian M. Carlson and other contributors"))
+	     (:maintainer "Brian M. Carlson and other contributors")
+	     (:keywords "languages")
+	     (:url . "https://github.com/brianc/jade-mode"))])

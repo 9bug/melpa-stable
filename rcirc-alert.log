@@ -1,0 +1,25 @@
+Package: rcirc-alert
+Fetcher: github
+Source:  https://github.com/csantosb/rcirc-alert.git
+
+Updating /mnt/store/melpa/working/rcirc-alert/
+Checking out origin/HEAD
+Checking out 0adf8ff9c47023fec578f678424be62b0f49057f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rcirc-alert/
+  to /tmp/rcirc-alertC6xX4V/rcirc-alert-20141127.1047
+    rcirc-alert.el -> rcirc-alert.el
+    xfrp_find_replace_pairs.el -> xfrp_find_replace_pairs.el
+    rcirc-alert.sh -> rcirc-alert.sh
+Created rcirc-alert-20141127.1047.tar containing:
+  rcirc-alert-20141127.1047/
+  rcirc-alert-20141127.1047/rcirc-alert-pkg.el
+  rcirc-alert-20141127.1047/rcirc-alert.el
+  rcirc-alert-20141127.1047/rcirc-alert.sh
+  rcirc-alert-20141127.1047/xfrp_find_replace_pairs.el
+Built rcirc-alert in 5.499s, finished at 2021-10-22T16:16:18+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  264 Oct 22 16:16 packages/rcirc-alert-20141127.1047.entry
+ 32K -rw-r--r-- 1 root root  30K Oct 22 16:16 packages/rcirc-alert-20141127.1047.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:16 packages/rcirc-alert-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Oct 22 16:16 packages/rcirc-alert-readme.txt

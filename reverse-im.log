@@ -1,0 +1,13 @@
+Package: reverse-im
+Fetcher: github
+Source:  https://github.com/a13/reverse-im.el.git
+
+Updating /mnt/store/melpa/working/reverse-im/
+Checking out origin/HEAD
+Checking out 380cce8deb1ea7ad79a8b1aaec4a753bd300b6fa
+Built reverse-im in 5.453s, finished at 2021-10-22T16:17:43+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K Oct 22 16:17 packages/reverse-im-20211005.2158.el
+4.0K -rw-r--r-- 1 root root  303 Oct 22 16:17 packages/reverse-im-20211005.2158.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:17 packages/reverse-im-badge.svg
+4.0K -rw-r--r-- 1 root root  477 Oct 22 16:17 packages/reverse-im-readme.txt

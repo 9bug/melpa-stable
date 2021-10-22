@@ -1,0 +1,13 @@
+Package: reaper
+Fetcher: github
+Source:  https://github.com/xendk/reaper.git
+
+Updating /mnt/store/melpa/working/reaper/
+Checking out origin/HEAD
+Checking out 93d21a26ca022d3929749a82498891054092094b
+Built reaper in 5.487s, finished at 2021-10-22T16:16:41+0000
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  28K Oct 22 16:16 packages/reaper-20201121.2302.el
+4.0K -rw-r--r-- 1 root root  341 Oct 22 16:16 packages/reaper-20201121.2302.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:16 packages/reaper-badge.svg
+4.0K -rw-r--r-- 1 root root   49 Oct 22 16:16 packages/reaper-readme.txt

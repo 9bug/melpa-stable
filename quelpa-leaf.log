@@ -1,0 +1,13 @@
+Package: quelpa-leaf
+Fetcher: github
+Source:  https://github.com/quelpa/quelpa-leaf.git
+
+Updating /mnt/store/melpa/working/quelpa-leaf/
+Checking out origin/HEAD
+Checking out cc13df4a6c6cdf1dea558be5b6e99b6e8d8b4065
+Built quelpa-leaf in 9.564s, finished at 2021-10-22T16:15:20+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K Oct 22 16:15 packages/quelpa-leaf-20210124.348.el
+4.0K -rw-r--r-- 1 root root  405 Oct 22 16:15 packages/quelpa-leaf-20210124.348.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:15 packages/quelpa-leaf-badge.svg
+4.0K -rw-r--r-- 1 root root  105 Oct 22 16:15 packages/quelpa-leaf-readme.txt

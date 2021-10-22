@@ -1,0 +1,13 @@
+Package: twittering-mode
+Fetcher: github
+Source:  https://github.com/hayamiz/twittering-mode.git
+
+Updating /mnt/store/melpa/working/twittering-mode/
+Checking out origin/HEAD
+Checking out 114891e8fdb4f06b1326a6cf795e49c205cf9e29
+Built twittering-mode in 6.374s, finished at 2021-10-22T16:29:46+0000
+ ✓ Success:
+480K -rw-r--r-- 1 root root 477K Oct 22 16:29 packages/twittering-mode-20181121.1402.el
+4.0K -rw-r--r-- 1 root root  544 Oct 22 16:29 packages/twittering-mode-20181121.1402.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:29 packages/twittering-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  311 Oct 22 16:29 packages/twittering-mode-readme.txt

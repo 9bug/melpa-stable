@@ -1,0 +1,43 @@
+Package: zmq
+Fetcher: github
+Source:  https://github.com/nnicandro/emacs-zmq.git
+
+Updating /mnt/store/melpa/working/zmq/
+Checking out origin/HEAD
+Checking out 38dc6c4119aee57666caf8f97c8a3d7f678823e0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/zmq/
+  to /tmp/zmqKLiSzs/zmq-20210613.343
+    zmq.el -> zmq.el
+    Makefile -> Makefile
+    src => src
+Created zmq-20210613.343.tar containing:
+  zmq-20210613.343/
+  zmq-20210613.343/Makefile
+  zmq-20210613.343/src/
+  zmq-20210613.343/src/Makefile.am
+  zmq-20210613.343/src/configure.ac
+  zmq-20210613.343/src/constants.c
+  zmq-20210613.343/src/context.c
+  zmq-20210613.343/src/context.h
+  zmq-20210613.343/src/core.c
+  zmq-20210613.343/src/core.h
+  zmq-20210613.343/src/emacs-module.h
+  zmq-20210613.343/src/emacs-zmq.c
+  zmq-20210613.343/src/emacs-zmq.h
+  zmq-20210613.343/src/msg.c
+  zmq-20210613.343/src/msg.h
+  zmq-20210613.343/src/poll.c
+  zmq-20210613.343/src/poll.h
+  zmq-20210613.343/src/socket.c
+  zmq-20210613.343/src/socket.h
+  zmq-20210613.343/src/util.c
+  zmq-20210613.343/src/util.h
+  zmq-20210613.343/zmq-pkg.el
+  zmq-20210613.343/zmq.el
+Built zmq in 5.180s, finished at 2021-10-22T16:36:25+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  403 Oct 22 16:36 packages/zmq-20210613.343.entry
+152K -rw-r--r-- 1 root root 150K Oct 22 16:36 packages/zmq-20210613.343.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:36 packages/zmq-badge.svg
+4.0K -rw-r--r-- 1 root root   60 Oct 22 16:36 packages/zmq-readme.txt

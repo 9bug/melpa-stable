@@ -1,0 +1,27 @@
+Package: typit
+Fetcher: github
+Source:  https://github.com/mrkkrp/typit.git
+
+Updating /mnt/store/melpa/working/typit/
+Checking out origin/HEAD
+Checking out d08ed004bfc13f8d0bdfc13fc54e8f7402876903
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/typit/
+  to /tmp/typitEnPKoN/typit-20210318.1747
+    typit.el -> typit.el
+    dict => dict
+Created typit-20210318.1747.tar containing:
+  typit-20210318.1747/
+  typit-20210318.1747/dict/
+  typit-20210318.1747/dict/english.txt
+  typit-20210318.1747/dict/french.txt
+  typit-20210318.1747/dict/german.txt
+  typit-20210318.1747/dict/russian.txt
+  typit-20210318.1747/typit-pkg.el
+  typit-20210318.1747/typit.el
+Built typit in 5.283s, finished at 2021-10-22T16:29:50+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  387 Oct 22 16:29 packages/typit-20210318.1747.entry
+140K -rw-r--r-- 1 root root 140K Oct 22 16:29 packages/typit-20210318.1747.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:29 packages/typit-badge.svg
+4.0K -rw-r--r-- 1 root root  335 Oct 22 16:29 packages/typit-readme.txt

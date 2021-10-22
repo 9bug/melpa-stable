@@ -1,0 +1,15 @@
+(company-rtags .
+	       [(20191222 920)
+		((emacs
+		  (24 3))
+		 (company
+		  (0 8 1))
+		 (rtags
+		  (2 10)))
+		"RTags back-end for company" single
+		((:commit . "cdff9b47fc17710aad7815652490c3c620b5e792")
+		 (:authors
+		  ("Jan Erik Hanssen" . "jhanssen@gmail.com")
+		  ("Anders Bakken" . "agbakken@gmail.com"))
+		 (:maintainer "Jan Erik Hanssen" . "jhanssen@gmail.com")
+		 (:url . "https://github.com/Andersbakken/rtags"))])

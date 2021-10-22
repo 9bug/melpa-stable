@@ -1,0 +1,13 @@
+Package: idle-highlight-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-idle-highlight-mode.git
+
+Updating /mnt/store/melpa/working/idle-highlight-mode/
+Checking out origin/HEAD
+Checking out 0916be7075e792773440c3bdb5cf9c153691846b
+Built idle-highlight-mode in 5.703s, finished at 2021-10-22T15:43:33+0000
+ ✓ Success:
+ 20K -rwxr-xr-x 1 root root  17K Oct 22 15:43 packages/idle-highlight-mode-20211011.557.el
+4.0K -rw-r--r-- 1 root root  448 Oct 22 15:43 packages/idle-highlight-mode-20211011.557.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:43 packages/idle-highlight-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  525 Oct 22 15:43 packages/idle-highlight-mode-readme.txt

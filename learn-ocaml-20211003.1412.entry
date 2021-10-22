@@ -1,0 +1,7 @@
+(learn-ocaml .
+	     [(20211003 1412)
+	      ((emacs
+		(25 1)))
+	      "Emacs frontend for learn-ocaml" single
+	      ((:commit . "ac6ef9cbd39f7d9ac0019e28da09aad5bc2cfae5")
+	       (:url . "https://github.com/pfitaxel/learn-ocaml.el"))])

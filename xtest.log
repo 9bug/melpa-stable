@@ -1,0 +1,13 @@
+Package: xtest
+Fetcher: github
+Source:  https://github.com/promethial/xtest.git
+
+Updating /mnt/store/melpa/working/xtest/
+Checking out origin/HEAD
+Checking out 2c2bdf32667506dd9ddf6eb311832add616bdf1c
+Built xtest in 6.456s, finished at 2021-10-22T16:35:16+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.1K Oct 22 16:35 packages/xtest-20141214.1706.el
+4.0K -rw-r--r-- 1 root root  305 Oct 22 16:35 packages/xtest-20141214.1706.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:35 packages/xtest-badge.svg
+4.0K -rw-r--r-- 1 root root  101 Oct 22 16:35 packages/xtest-readme.txt

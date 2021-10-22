@@ -1,0 +1,11 @@
+(fix-input .
+	   [(20210320 1244)
+	    ((emacs
+	      (24 4)))
+	    "Make input methods play nicely with alternative keyboard layout on OS level" single
+	    ((:commit . "b611a8b269d28d226ed1e78fcc7a3120df20f74c")
+	     (:authors
+	      ("Mark Karpov" . "markkarpov92@gmail.com"))
+	     (:maintainer "Mark Karpov" . "markkarpov92@gmail.com")
+	     (:keywords "input" "method")
+	     (:url . "https://github.com/mrkkrp/fix-input"))])

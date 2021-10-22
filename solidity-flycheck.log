@@ -1,0 +1,13 @@
+Package: solidity-flycheck
+Fetcher: github
+Source:  https://github.com/ethereum/emacs-solidity.git
+
+Updating /mnt/store/melpa/working/solidity-flycheck/
+Checking out origin/HEAD
+Checking out 9c77b390eab999e5e54dc5c1068f57201e6628bf
+Built solidity-flycheck in 5.746s, finished at 2021-10-22T16:23:20+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K Oct 22 16:23 packages/solidity-flycheck-20210411.758.el
+4.0K -rw-r--r-- 1 root root  462 Oct 22 16:23 packages/solidity-flycheck-20210411.758.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:23 packages/solidity-flycheck-badge.svg
+4.0K -rw-r--r-- 1 root root  121 Oct 22 16:23 packages/solidity-flycheck-readme.txt

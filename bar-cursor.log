@@ -1,0 +1,13 @@
+Package: bar-cursor
+Fetcher: github
+Source:  https://github.com/ajsquared/bar-cursor.git
+
+Updating /mnt/store/melpa/working/bar-cursor/
+Checking out origin/HEAD
+Checking out 78f195b6db63459033c4f1c7e7add5d82f3ce424
+Built bar-cursor in 6.525s, finished at 2021-10-22T18:53:57+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 4.0K Oct 22 18:53 packages/bar-cursor-20201204.2244.el
+4.0K -rw-r--r-- 1 root root  397 Oct 22 18:53 packages/bar-cursor-20201204.2244.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:53 packages/bar-cursor-badge.svg
+4.0K -rw-r--r-- 1 root root  507 Oct 22 18:53 packages/bar-cursor-readme.txt

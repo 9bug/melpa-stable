@@ -1,0 +1,13 @@
+Package: define-word
+Fetcher: github
+Source:  https://github.com/abo-abo/define-word.git
+
+Updating /mnt/store/melpa/working/define-word/
+Checking out origin/HEAD
+Checking out 6e4a427503aef096484f88332962c346cdd10847
+Built define-word in 6.482s, finished at 2021-10-22T19:06:44+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Oct 22 19:06 packages/define-word-20210103.1812.el
+4.0K -rw-r--r-- 1 root root  387 Oct 22 19:06 packages/define-word-20210103.1812.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:06 packages/define-word-badge.svg
+4.0K -rw-r--r-- 1 root root  440 Oct 22 19:06 packages/define-word-readme.txt

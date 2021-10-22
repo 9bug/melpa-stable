@@ -1,0 +1,27 @@
+Package: centaur-tabs
+Fetcher: github
+Source:  https://github.com/ema2159/centaur-tabs.git
+
+Updating /mnt/store/melpa/working/centaur-tabs/
+Checking out origin/HEAD
+Checking out 8b4249c40581368faf7bb8e06f86b9eee199c3c6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/centaur-tabs/
+  to /tmp/centaur-tabsf394wy/centaur-tabs-20210507.1633
+    centaur-tabs-elements.el -> centaur-tabs-elements.el
+    centaur-tabs-functions.el -> centaur-tabs-functions.el
+    centaur-tabs-interactive.el -> centaur-tabs-interactive.el
+    centaur-tabs.el -> centaur-tabs.el
+Created centaur-tabs-20210507.1633.tar containing:
+  centaur-tabs-20210507.1633/
+  centaur-tabs-20210507.1633/centaur-tabs-elements.el
+  centaur-tabs-20210507.1633/centaur-tabs-functions.el
+  centaur-tabs-20210507.1633/centaur-tabs-interactive.el
+  centaur-tabs-20210507.1633/centaur-tabs-pkg.el
+  centaur-tabs-20210507.1633/centaur-tabs.el
+Built centaur-tabs in 5.871s, finished at 2021-10-22T18:57:46+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  410 Oct 22 18:57 packages/centaur-tabs-20210507.1633.entry
+112K -rw-r--r-- 1 root root 110K Oct 22 18:57 packages/centaur-tabs-20210507.1633.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:57 packages/centaur-tabs-badge.svg
+4.0K -rw-r--r-- 1 root root  617 Oct 22 18:57 packages/centaur-tabs-readme.txt

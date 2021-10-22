@@ -1,0 +1,13 @@
+Package: company-stan
+Fetcher: github
+Source:  https://github.com/stan-dev/stan-mode.git
+
+Updating /mnt/store/melpa/working/company-stan/
+Checking out origin/HEAD
+Checking out 9bb858b9f1314dcf1a5df23e39f9af522098276b
+Built company-stan in 9.721s, finished at 2021-10-22T19:02:28+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.3K Oct 22 19:02 packages/company-stan-20210130.1325.el
+4.0K -rw-r--r-- 1 root root  485 Oct 22 19:02 packages/company-stan-20210130.1325.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:02 packages/company-stan-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Oct 22 19:02 packages/company-stan-readme.txt

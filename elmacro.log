@@ -1,0 +1,13 @@
+Package: elmacro
+Fetcher: github
+Source:  https://github.com/Silex/elmacro.git
+
+Updating /mnt/store/melpa/working/elmacro/
+Checking out origin/HEAD
+Checking out d2e05012cee4f54fab6d8d8d6aced6e5eeef4f31
+Built elmacro in 6.267s, finished at 2021-10-22T19:13:37+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Oct 22 19:13 packages/elmacro-20210716.639.el
+4.0K -rw-r--r-- 1 root root  423 Oct 22 19:13 packages/elmacro-20210716.639.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:13 packages/elmacro-badge.svg
+   0 -rw-r--r-- 1 root root    0 Oct 22 19:13 packages/elmacro-readme.txt

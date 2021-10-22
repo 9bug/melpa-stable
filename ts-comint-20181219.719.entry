@@ -1,0 +1,9 @@
+(ts-comint .
+	   [(20181219 719)
+	    nil "Run a Typescript interpreter in an inferior process window." single
+	    ((:commit . "786b88fffc553e122868a1c4883f14136a040df6")
+	     (:authors
+	      ("Paul Huff" . "paul.huff@gmail.com"))
+	     (:maintainer "Paul Huff" . "paul.huff@gmail.com")
+	     (:keywords "typescript" "node" "inferior-mode" "convenience")
+	     (:url . "https://github.com/josteink/ts-comint"))])

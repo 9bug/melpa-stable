@@ -1,0 +1,13 @@
+Package: remind-bindings
+Fetcher: gitlab
+Source:  https://gitlab.com/mtekman/remind-bindings.el.git
+
+Updating /mnt/store/melpa/working/remind-bindings/
+Checking out origin/HEAD
+Checking out c9a327bfd3c68a0c41b5b64df491bdee4c73ca39
+Built remind-bindings in 6.597s, finished at 2021-10-22T16:17:19+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Oct 22 16:17 packages/remind-bindings-20200820.1723.el
+4.0K -rw-r--r-- 1 root root  420 Oct 22 16:17 packages/remind-bindings-20200820.1723.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:17 packages/remind-bindings-badge.svg
+4.0K -rw-r--r-- 1 root root  251 Oct 22 16:17 packages/remind-bindings-readme.txt

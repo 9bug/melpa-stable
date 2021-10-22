@@ -1,0 +1,10 @@
+(vs-light-theme .
+		[(20210627 2121)
+		 ((emacs
+		   (24 1)))
+		 "Visual Studio IDE light theme" single
+		 ((:commit . "1211f09ec83f3f375b2e38e4d704bd102bf3f6e3")
+		  (:authors
+		   ("Jen-Chieh Shen"))
+		  (:maintainer "Jen-Chieh Shen")
+		  (:url . "https://github.com/emacs-vs/vs-light-theme"))])

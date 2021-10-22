@@ -1,0 +1,13 @@
+Package: xkcd
+Fetcher: github
+Source:  https://github.com/vibhavp/emacs-xkcd.git
+
+Updating /mnt/store/melpa/working/xkcd/
+Checking out origin/HEAD
+Checking out 66e928706fd660cfdab204c98a347b49c4267bdf
+Built xkcd in 5.204s, finished at 2021-10-22T16:34:57+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.2K Oct 22 16:34 packages/xkcd-20160419.1130.el
+4.0K -rw-r--r-- 1 root root  342 Oct 22 16:34 packages/xkcd-20160419.1130.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:34 packages/xkcd-badge.svg
+4.0K -rw-r--r-- 1 root root  270 Oct 22 16:34 packages/xkcd-readme.txt

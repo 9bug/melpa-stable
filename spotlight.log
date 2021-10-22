@@ -1,0 +1,13 @@
+Package: spotlight
+Fetcher: github
+Source:  https://github.com/benmaughan/spotlight.el.git
+
+Updating /mnt/store/melpa/working/spotlight/
+Checking out origin/HEAD
+Checking out ea71f4fd380c51e50c47bb25855af4f40e4d8da0
+Built spotlight in 7.017s, finished at 2021-10-22T16:24:06+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K Oct 22 16:24 packages/spotlight-20200109.2137.el
+4.0K -rw-r--r-- 1 root root  448 Oct 22 16:24 packages/spotlight-20200109.2137.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:24 packages/spotlight-badge.svg
+4.0K -rw-r--r-- 1 root root 1.9K Oct 22 16:24 packages/spotlight-readme.txt

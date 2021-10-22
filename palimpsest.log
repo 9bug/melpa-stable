@@ -1,0 +1,13 @@
+Package: palimpsest
+Fetcher: github
+Source:  https://github.com/danielsz/Palimpsest.git
+
+Updating /mnt/store/melpa/working/palimpsest/
+Checking out origin/HEAD
+Checking out f474b3ad706373d9953abdc401d683a2a023d28e
+Built palimpsest in 5.346s, finished at 2021-10-22T16:09:00+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.6K Oct 22 16:08 packages/palimpsest-20200804.2308.el
+4.0K -rw-r--r-- 1 root root  314 Oct 22 16:08 packages/palimpsest-20200804.2308.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:09 packages/palimpsest-badge.svg
+4.0K -rw-r--r-- 1 root root  261 Oct 22 16:08 packages/palimpsest-readme.txt

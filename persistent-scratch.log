@@ -1,0 +1,13 @@
+Package: persistent-scratch
+Fetcher: github
+Source:  https://github.com/Fanael/persistent-scratch.git
+
+Updating /mnt/store/melpa/working/persistent-scratch/
+Checking out origin/HEAD
+Checking out 57221e5fdff22985c0ea2f3e7c282ce823ea5932
+Built persistent-scratch in 5.384s, finished at 2021-10-22T16:10:36+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K Oct 22 16:10 packages/persistent-scratch-20200921.2309.el
+4.0K -rw-r--r-- 1 root root  406 Oct 22 16:10 packages/persistent-scratch-20200921.2309.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:10 packages/persistent-scratch-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:10 packages/persistent-scratch-readme.txt

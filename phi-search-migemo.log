@@ -1,0 +1,13 @@
+Package: phi-search-migemo
+Fetcher: github
+Source:  https://github.com/zk-phi/phi-search-migemo.git
+
+Updating /mnt/store/melpa/working/phi-search-migemo/
+Checking out origin/HEAD
+Checking out 308909ebfc8003d16673f97ca9eb26a667b72969
+Built phi-search-migemo in 5.901s, finished at 2021-10-22T16:11:01+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.9K Oct 22 16:11 packages/phi-search-migemo-20170618.921.el
+4.0K -rw-r--r-- 1 root root  335 Oct 22 16:11 packages/phi-search-migemo-20170618.921.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:11 packages/phi-search-migemo-badge.svg
+4.0K -rw-r--r-- 1 root root  934 Oct 22 16:11 packages/phi-search-migemo-readme.txt

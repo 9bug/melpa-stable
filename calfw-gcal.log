@@ -1,0 +1,23 @@
+Package: calfw-gcal
+Fetcher: github
+Source:  https://github.com/myuhe/calfw-gcal.el.git
+
+Updating /mnt/store/melpa/working/calfw-gcal/
+Checking out origin/HEAD
+Checking out 14aab20687d6cc9e6c5ddb9e11984c4e14c3d870
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/calfw-gcal/
+  to /tmp/calfw-gcaltheb3J/calfw-gcal-20120111.1000
+    calfw-gcal.el -> calfw-gcal.el
+    insertEvent.py -> insertEvent.py
+Created calfw-gcal-20120111.1000.tar containing:
+  calfw-gcal-20120111.1000/
+  calfw-gcal-20120111.1000/calfw-gcal-pkg.el
+  calfw-gcal-20120111.1000/calfw-gcal.el
+  calfw-gcal-20120111.1000/insertEvent.py
+Built calfw-gcal in 5.496s, finished at 2021-10-22T18:57:09+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  356 Oct 22 18:57 packages/calfw-gcal-20120111.1000.entry
+ 20K -rw-r--r-- 1 root root  20K Oct 22 18:57 packages/calfw-gcal-20120111.1000.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:57 packages/calfw-gcal-badge.svg
+4.0K -rw-r--r-- 1 root root  186 Oct 22 18:57 packages/calfw-gcal-readme.txt

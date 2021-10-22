@@ -1,0 +1,25 @@
+Package: brutal-theme
+Fetcher: github
+Source:  https://github.com/topikettunen/brutal-emacs.git
+
+Updating /mnt/store/melpa/working/brutal-theme/
+Checking out origin/HEAD
+Checking out 5ec10f0614978c376df95ed9da05f2227cd7cd62
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/brutal-theme/
+  to /tmp/brutal-thememHLelh/brutal-theme-20211018.2212
+    brutal-dark-theme.el -> brutal-dark-theme.el
+    brutal-light-theme.el -> brutal-light-theme.el
+    brutal-theme.el -> brutal-theme.el
+Created brutal-theme-20211018.2212.tar containing:
+  brutal-theme-20211018.2212/
+  brutal-theme-20211018.2212/brutal-dark-theme.el
+  brutal-theme-20211018.2212/brutal-light-theme.el
+  brutal-theme-20211018.2212/brutal-theme-pkg.el
+  brutal-theme-20211018.2212/brutal-theme.el
+Built brutal-theme in 6.627s, finished at 2021-10-22T18:56:05+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  331 Oct 22 18:56 packages/brutal-theme-20211018.2212.entry
+ 32K -rw-r--r-- 1 root root  30K Oct 22 18:56 packages/brutal-theme-20211018.2212.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:56 packages/brutal-theme-badge.svg
+4.0K -rw-r--r-- 1 root root   73 Oct 22 18:56 packages/brutal-theme-readme.txt

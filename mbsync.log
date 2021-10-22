@@ -1,0 +1,13 @@
+Package: mbsync
+Fetcher: github
+Source:  https://github.com/dimitri/mbsync-el.git
+
+Updating /mnt/store/melpa/working/mbsync/
+Checking out origin/HEAD
+Checking out d3c81da81ce5b154c0d048047a47277338721a70
+Built mbsync in 5.670s, finished at 2021-10-22T15:55:12+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.6K Oct 22 15:55 packages/mbsync-20200128.1053.el
+4.0K -rw-r--r-- 1 root root  296 Oct 22 15:55 packages/mbsync-20200128.1053.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:55 packages/mbsync-badge.svg
+4.0K -rw-r--r-- 1 root root   27 Oct 22 15:55 packages/mbsync-readme.txt

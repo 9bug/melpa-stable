@@ -1,0 +1,76 @@
+Package: expand-region
+Fetcher: github
+Source:  https://github.com/magnars/expand-region.el.git
+
+Updating /mnt/store/melpa/working/expand-region/
+Checking out origin/HEAD
+Checking out 95a773bd8f557cbd43d3b2dab2fa4417ec5927ab
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/expand-region/
+  to /tmp/expand-region7eNc6C/expand-region-20210708.1952
+    cc-mode-expansions.el -> cc-mode-expansions.el
+    clojure-mode-expansions.el -> clojure-mode-expansions.el
+    cperl-mode-expansions.el -> cperl-mode-expansions.el
+    css-mode-expansions.el -> css-mode-expansions.el
+    enh-ruby-mode-expansions.el -> enh-ruby-mode-expansions.el
+    er-basic-expansions.el -> er-basic-expansions.el
+    erlang-mode-expansions.el -> erlang-mode-expansions.el
+    expand-region-core.el -> expand-region-core.el
+    expand-region-custom.el -> expand-region-custom.el
+    expand-region-pkg.el -> expand-region-pkg.el
+    expand-region.el -> expand-region.el
+    feature-mode-expansions.el -> feature-mode-expansions.el
+    html-mode-expansions.el -> html-mode-expansions.el
+    js-mode-expansions.el -> js-mode-expansions.el
+    js2-mode-expansions.el -> js2-mode-expansions.el
+    jsp-expansions.el -> jsp-expansions.el
+    latex-mode-expansions.el -> latex-mode-expansions.el
+    nxml-mode-expansions.el -> nxml-mode-expansions.el
+    octave-expansions.el -> octave-expansions.el
+    python-el-expansions.el -> python-el-expansions.el
+    python-el-fgallina-expansions.el -> python-el-fgallina-expansions.el
+    python-mode-expansions.el -> python-mode-expansions.el
+    ruby-mode-expansions.el -> ruby-mode-expansions.el
+    sml-mode-expansions.el -> sml-mode-expansions.el
+    subword-mode-expansions.el -> subword-mode-expansions.el
+    text-mode-expansions.el -> text-mode-expansions.el
+    the-org-mode-expansions.el -> the-org-mode-expansions.el
+    web-mode-expansions.el -> web-mode-expansions.el
+    yaml-mode-expansions.el -> yaml-mode-expansions.el
+Created expand-region-20210708.1952.tar containing:
+  expand-region-20210708.1952/
+  expand-region-20210708.1952/cc-mode-expansions.el
+  expand-region-20210708.1952/clojure-mode-expansions.el
+  expand-region-20210708.1952/cperl-mode-expansions.el
+  expand-region-20210708.1952/css-mode-expansions.el
+  expand-region-20210708.1952/enh-ruby-mode-expansions.el
+  expand-region-20210708.1952/er-basic-expansions.el
+  expand-region-20210708.1952/erlang-mode-expansions.el
+  expand-region-20210708.1952/expand-region-core.el
+  expand-region-20210708.1952/expand-region-custom.el
+  expand-region-20210708.1952/expand-region-pkg.el
+  expand-region-20210708.1952/expand-region.el
+  expand-region-20210708.1952/feature-mode-expansions.el
+  expand-region-20210708.1952/html-mode-expansions.el
+  expand-region-20210708.1952/js-mode-expansions.el
+  expand-region-20210708.1952/js2-mode-expansions.el
+  expand-region-20210708.1952/jsp-expansions.el
+  expand-region-20210708.1952/latex-mode-expansions.el
+  expand-region-20210708.1952/nxml-mode-expansions.el
+  expand-region-20210708.1952/octave-expansions.el
+  expand-region-20210708.1952/python-el-expansions.el
+  expand-region-20210708.1952/python-el-fgallina-expansions.el
+  expand-region-20210708.1952/python-mode-expansions.el
+  expand-region-20210708.1952/ruby-mode-expansions.el
+  expand-region-20210708.1952/sml-mode-expansions.el
+  expand-region-20210708.1952/subword-mode-expansions.el
+  expand-region-20210708.1952/text-mode-expansions.el
+  expand-region-20210708.1952/the-org-mode-expansions.el
+  expand-region-20210708.1952/web-mode-expansions.el
+  expand-region-20210708.1952/yaml-mode-expansions.el
+Built expand-region in 5.435s, finished at 2021-10-22T15:25:58+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  304 Oct 22 15:25 packages/expand-region-20210708.1952.entry
+152K -rw-r--r-- 1 root root 150K Oct 22 15:25 packages/expand-region-20210708.1952.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:25 packages/expand-region-badge.svg
+8.0K -rw-r--r-- 1 root root 4.2K Oct 22 15:25 packages/expand-region-readme.txt

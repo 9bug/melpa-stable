@@ -1,0 +1,13 @@
+Package: xml-format
+Fetcher: github
+Source:  https://github.com/wbolster/emacs-xml-format.git
+
+Updating /mnt/store/melpa/working/xml-format/
+Checking out origin/HEAD
+Checking out 2861c4e33e18b077112efa072316b031bca4236c
+Built xml-format in 5.365s, finished at 2021-10-22T16:35:00+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 1.3K Oct 22 16:34 packages/xml-format-20191011.1148.el
+4.0K -rw-r--r-- 1 root root  439 Oct 22 16:35 packages/xml-format-20191011.1148.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:35 packages/xml-format-badge.svg
+4.0K -rw-r--r-- 1 root root   35 Oct 22 16:35 packages/xml-format-readme.txt

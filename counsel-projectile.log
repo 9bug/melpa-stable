@@ -1,0 +1,13 @@
+Package: counsel-projectile
+Fetcher: github
+Source:  https://github.com/ericdanan/counsel-projectile.git
+
+Updating /mnt/store/melpa/working/counsel-projectile/
+Checking out origin/HEAD
+Checking out e30150792a96968f55f34638cbfe63eaa30839cc
+Built counsel-projectile in 6.251s, finished at 2021-10-22T19:03:45+0000
+ ✓ Success:
+ 76K -rw-r--r-- 1 root root  73K Oct 22 19:03 packages/counsel-projectile-20211004.2003.el
+4.0K -rw-r--r-- 1 root root  422 Oct 22 19:03 packages/counsel-projectile-20211004.2003.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:03 packages/counsel-projectile-badge.svg
+4.0K -rw-r--r-- 1 root root  538 Oct 22 19:03 packages/counsel-projectile-readme.txt

@@ -1,0 +1,13 @@
+Package: simple-call-tree
+Fetcher: github
+Source:  https://github.com/vapniks/simple-call-tree.git
+
+Updating /mnt/store/melpa/working/simple-call-tree/
+Checking out origin/HEAD
+Checking out 26de24bcde0eae911a0185bb5a6b74b9864fcfc3
+Built simple-call-tree in 11.743s, finished at 2021-10-22T16:21:35+0000
+ ✓ Success:
+140K -rw-r--r-- 1 root root 137K Oct 22 16:21 packages/simple-call-tree-20210625.2001.el
+4.0K -rw-r--r-- 1 root root  460 Oct 22 16:21 packages/simple-call-tree-20210625.2001.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:21 packages/simple-call-tree-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K Oct 22 16:21 packages/simple-call-tree-readme.txt

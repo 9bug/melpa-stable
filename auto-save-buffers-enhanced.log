@@ -1,0 +1,13 @@
+Package: auto-save-buffers-enhanced
+Fetcher: github
+Source:  https://github.com/kentaro/auto-save-buffers-enhanced.git
+
+Updating /mnt/store/melpa/working/auto-save-buffers-enhanced/
+Checking out origin/HEAD
+Checking out 461e8c816c1b7c650be5f209078b381fe55da8c6
+Built auto-save-buffers-enhanced in 6.357s, finished at 2021-10-22T18:52:37+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Oct 22 18:52 packages/auto-save-buffers-enhanced-20161109.710.el
+4.0K -rw-r--r-- 1 root root  329 Oct 22 18:52 packages/auto-save-buffers-enhanced-20161109.710.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:52 packages/auto-save-buffers-enhanced-badge.svg
+4.0K -rw-r--r-- 1 root root 2.1K Oct 22 18:52 packages/auto-save-buffers-enhanced-readme.txt

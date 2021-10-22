@@ -1,0 +1,13 @@
+Package: epresent
+Fetcher: github
+Source:  https://github.com/dakrone/epresent.git
+
+Updating /mnt/store/melpa/working/epresent/
+Checking out origin/HEAD
+Checking out 6c8abedcf46ff08091fa2bba52eb905c6290057d
+Built epresent in 15.820s, finished at 2021-10-22T19:16:21+0000
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K Oct 22 19:16 packages/epresent-20160411.201.el
+4.0K -rw-r--r-- 1 root root  274 Oct 22 19:16 packages/epresent-20160411.201.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:16 packages/epresent-badge.svg
+4.0K -rw-r--r-- 1 root root  461 Oct 22 19:16 packages/epresent-readme.txt

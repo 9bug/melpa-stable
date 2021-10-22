@@ -1,0 +1,13 @@
+Package: malyon
+Fetcher: github
+Source:  https://github.com/speedenator/malyon.git
+
+Updating /mnt/store/melpa/working/malyon/
+Checking out origin/HEAD
+Checking out 0d9882650720b4a791556f5e2d917388965d6fc0
+Built malyon in 5.349s, finished at 2021-10-22T15:54:31+0000
+ ✓ Success:
+124K -rw-r--r-- 1 root root 123K Oct 22 15:54 packages/malyon-20161208.2125.el
+4.0K -rw-r--r-- 1 root root  478 Oct 22 15:54 packages/malyon-20161208.2125.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:54 packages/malyon-badge.svg
+4.0K -rw-r--r-- 1 root root 1.5K Oct 22 15:54 packages/malyon-readme.txt

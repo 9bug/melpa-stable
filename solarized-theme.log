@@ -1,0 +1,53 @@
+Package: solarized-theme
+Fetcher: github
+Source:  https://github.com/bbatsov/solarized-emacs.git
+
+Updating /mnt/store/melpa/working/solarized-theme/
+Checking out origin/HEAD
+Checking out 874694ed8569ae98959262cfb0c66a6528a60367
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/solarized-theme/
+  to /tmp/solarized-themezqoCyz/solarized-theme-20210827.859
+    solarized-dark-high-contrast-theme.el -> solarized-dark-high-contrast-theme.el
+    solarized-dark-theme.el -> solarized-dark-theme.el
+    solarized-faces.el -> solarized-faces.el
+    solarized-gruvbox-dark-theme.el -> solarized-gruvbox-dark-theme.el
+    solarized-gruvbox-light-theme.el -> solarized-gruvbox-light-theme.el
+    solarized-light-high-contrast-theme.el -> solarized-light-high-contrast-theme.el
+    solarized-light-theme.el -> solarized-light-theme.el
+    solarized-palettes.el -> solarized-palettes.el
+    solarized-selenized-black-theme.el -> solarized-selenized-black-theme.el
+    solarized-selenized-dark-theme.el -> solarized-selenized-dark-theme.el
+    solarized-selenized-light-theme.el -> solarized-selenized-light-theme.el
+    solarized-selenized-white-theme.el -> solarized-selenized-white-theme.el
+    solarized-theme-utils.el -> solarized-theme-utils.el
+    solarized-theme.el -> solarized-theme.el
+    solarized-wombat-dark-theme.el -> solarized-wombat-dark-theme.el
+    solarized-zenburn-theme.el -> solarized-zenburn-theme.el
+    solarized.el -> solarized.el
+Created solarized-theme-20210827.859.tar containing:
+  solarized-theme-20210827.859/
+  solarized-theme-20210827.859/solarized-dark-high-contrast-theme.el
+  solarized-theme-20210827.859/solarized-dark-theme.el
+  solarized-theme-20210827.859/solarized-faces.el
+  solarized-theme-20210827.859/solarized-gruvbox-dark-theme.el
+  solarized-theme-20210827.859/solarized-gruvbox-light-theme.el
+  solarized-theme-20210827.859/solarized-light-high-contrast-theme.el
+  solarized-theme-20210827.859/solarized-light-theme.el
+  solarized-theme-20210827.859/solarized-palettes.el
+  solarized-theme-20210827.859/solarized-selenized-black-theme.el
+  solarized-theme-20210827.859/solarized-selenized-dark-theme.el
+  solarized-theme-20210827.859/solarized-selenized-light-theme.el
+  solarized-theme-20210827.859/solarized-selenized-white-theme.el
+  solarized-theme-20210827.859/solarized-theme-pkg.el
+  solarized-theme-20210827.859/solarized-theme-utils.el
+  solarized-theme-20210827.859/solarized-theme.el
+  solarized-theme-20210827.859/solarized-wombat-dark-theme.el
+  solarized-theme-20210827.859/solarized-zenburn-theme.el
+  solarized-theme-20210827.859/solarized.el
+Built solarized-theme in 5.643s, finished at 2021-10-22T16:23:18+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  401 Oct 22 16:23 packages/solarized-theme-20210827.859.entry
+212K -rw-r--r-- 1 root root 210K Oct 22 16:23 packages/solarized-theme-20210827.859.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:23 packages/solarized-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  329 Oct 22 16:23 packages/solarized-theme-readme.txt

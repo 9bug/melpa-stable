@@ -1,0 +1,13 @@
+Package: vcomp
+Fetcher: github
+Source:  https://github.com/tarsius/vcomp.git
+
+Updating /mnt/store/melpa/working/vcomp/
+Checking out origin/HEAD
+Checking out f839b3b3257a564b19d7f9557dc8bcbbe0b95842
+Built vcomp in 5.856s, finished at 2021-10-22T16:31:14+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  10K Oct 22 16:31 packages/vcomp-20190128.20.el
+4.0K -rw-r--r-- 1 root root  312 Oct 22 16:31 packages/vcomp-20190128.20.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:31 packages/vcomp-badge.svg
+4.0K -rw-r--r-- 1 root root 2.5K Oct 22 16:31 packages/vcomp-readme.txt

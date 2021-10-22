@@ -1,0 +1,14 @@
+(untappd .
+	 [(20210815 1544)
+	  ((emacs
+	    (26 1))
+	   (request
+	    (0 3 2))
+	   (emojify
+	    (1 2 1)))
+	  "Display your latest Untappd feed" single
+	  ((:commit . "493d1776d6456b00bf017e71fac9b0721d8cc912")
+	   (:authors
+	    ("Matthieu Petiteau" . "matt@smallwat3r.com"))
+	   (:maintainer "Matthieu Petiteau" . "matt@smallwat3r.com")
+	   (:url . "https://github.com/smallwat3r/untappd.el"))])

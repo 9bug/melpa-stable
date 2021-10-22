@@ -1,0 +1,13 @@
+Package: quickref
+Fetcher: github
+Source:  https://github.com/pd/quickref.el.git
+
+Updating /mnt/store/melpa/working/quickref/
+Checking out origin/HEAD
+Checking out f368c8b8219bb90498c5ab84e26f00eedaa234cf
+Built quickref in 11.295s, finished at 2021-10-22T16:15:35+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  12K Oct 22 16:15 packages/quickref-20170817.1232.el
+4.0K -rw-r--r-- 1 root root  333 Oct 22 16:15 packages/quickref-20170817.1232.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:15 packages/quickref-badge.svg
+4.0K -rw-r--r-- 1 root root  113 Oct 22 16:15 packages/quickref-readme.txt

@@ -1,0 +1,48 @@
+Package: evil-mc
+Fetcher: github
+Source:  https://github.com/gabesoft/evil-mc.git
+
+Updating /mnt/store/melpa/working/evil-mc/
+Checking out origin/HEAD
+Checking out 246aecc17481dd23c172a9b845f02a9d9e322c7f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-mc/
+  to /tmp/evil-mcpqykCM/evil-mc-20210730.1752
+    evil-mc-command-execute.el -> evil-mc-command-execute.el
+    evil-mc-command-record.el -> evil-mc-command-record.el
+    evil-mc-common.el -> evil-mc-common.el
+    evil-mc-cursor-make.el -> evil-mc-cursor-make.el
+    evil-mc-cursor-state.el -> evil-mc-cursor-state.el
+    evil-mc-known-commands.el -> evil-mc-known-commands.el
+    evil-mc-region.el -> evil-mc-region.el
+    evil-mc-scratch.el -> evil-mc-scratch.el
+    evil-mc-setup.el -> evil-mc-setup.el
+    evil-mc-undo.el -> evil-mc-undo.el
+    evil-mc-vars.el -> evil-mc-vars.el
+    evil-mc.el -> evil-mc.el
+Created evil-mc-20210730.1752.tar containing:
+  evil-mc-20210730.1752/
+  evil-mc-20210730.1752/evil-mc-command-execute.el
+  evil-mc-20210730.1752/evil-mc-command-record.el
+  evil-mc-20210730.1752/evil-mc-common.el
+  evil-mc-20210730.1752/evil-mc-cursor-make.el
+  evil-mc-20210730.1752/evil-mc-cursor-state.el
+  evil-mc-20210730.1752/evil-mc-known-commands.el
+  evil-mc-20210730.1752/evil-mc-pkg.el
+  evil-mc-20210730.1752/evil-mc-region.el
+  evil-mc-20210730.1752/evil-mc-scratch.el
+  evil-mc-20210730.1752/evil-mc-setup.el
+  evil-mc-20210730.1752/evil-mc-undo.el
+  evil-mc-20210730.1752/evil-mc-vars.el
+  evil-mc-20210730.1752/evil-mc.el
+Built evil-mc in 4.596s, finished at 2021-10-22T15:25:00+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  485 Oct 22 15:24 packages/evil-mc-20210730.1752.entry
+140K -rw-r--r-- 1 root root 140K Oct 22 15:24 packages/evil-mc-20210730.1752.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:25 packages/evil-mc-badge.svg
+4.0K -rw-r--r-- 1 root root  564 Oct 22 11:31 packages/evil-mc-extras-20170202.1649.entry
+ 12K -rw-r--r-- 1 root root  10K Oct 22 11:31 packages/evil-mc-extras-20170202.1649.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 11:31 packages/evil-mc-extras-badge.svg
+4.0K -rw-r--r-- 1 root root  282 Oct 22 11:31 packages/evil-mc-extras-readme.txt
+4.0K -rw-r--r-- 1 root root  226 Oct 22 15:24 packages/evil-mc-extras.log
+4.0K -rw-r--r-- 1 root root  244 Oct 22 15:24 packages/evil-mc-readme.txt

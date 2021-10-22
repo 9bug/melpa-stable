@@ -1,0 +1,41 @@
+Package: elfeed-score
+Fetcher: github
+Source:  https://github.com/sp1ff/elfeed-score.git
+
+Updating /mnt/store/melpa/working/elfeed-score/
+Checking out origin/HEAD
+Checking out 973b337d7104a7adb519b7b74a91fc21f8757731
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elfeed-score/
+  to /tmp/elfeed-scorey5ox5K/elfeed-score-20211008.2330
+    elfeed-score-log.el -> elfeed-score-log.el
+    elfeed-score-maint.el -> elfeed-score-maint.el
+    elfeed-score-pkg.el -> elfeed-score-pkg.el
+    elfeed-score-rule-stats.el -> elfeed-score-rule-stats.el
+    elfeed-score-rules.el -> elfeed-score-rules.el
+    elfeed-score-scoring.el -> elfeed-score-scoring.el
+    elfeed-score-serde.el -> elfeed-score-serde.el
+    elfeed-score.el -> elfeed-score.el
+  ! doc/elfeed-score.texi -> elfeed-score.texi
+  ! doc/version.texi -> version.texi
+Created /tmp/elfeed-scorey5ox5K/elfeed-score-20211008.2330/elfeed-score.info
+Created /tmp/elfeed-scorey5ox5K/elfeed-score-20211008.2330/version.info
+Created elfeed-score-20211008.2330.tar containing:
+  elfeed-score-20211008.2330/
+  elfeed-score-20211008.2330/dir
+  elfeed-score-20211008.2330/elfeed-score-log.el
+  elfeed-score-20211008.2330/elfeed-score-maint.el
+  elfeed-score-20211008.2330/elfeed-score-pkg.el
+  elfeed-score-20211008.2330/elfeed-score-rule-stats.el
+  elfeed-score-20211008.2330/elfeed-score-rules.el
+  elfeed-score-20211008.2330/elfeed-score-scoring.el
+  elfeed-score-20211008.2330/elfeed-score-serde.el
+  elfeed-score-20211008.2330/elfeed-score.el
+  elfeed-score-20211008.2330/elfeed-score.info
+  elfeed-score-20211008.2330/version.info
+Built elfeed-score in 16.910s, finished at 2021-10-22T19:13:22+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  385 Oct 22 19:13 packages/elfeed-score-20211008.2330.entry
+232K -rw-r--r-- 1 root root 230K Oct 22 19:13 packages/elfeed-score-20211008.2330.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:13 packages/elfeed-score-badge.svg
+4.0K -rw-r--r-- 1 root root  629 Oct 22 19:13 packages/elfeed-score-readme.txt

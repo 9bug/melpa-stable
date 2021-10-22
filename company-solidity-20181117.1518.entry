@@ -1,0 +1,15 @@
+(company-solidity .
+		  [(20181117 1518)
+		   ((company
+		     (0 9 0))
+		    (cl-lib
+		     (0 5 0))
+		    (solidity-mode
+		     (0 1 9)))
+		   "Company-mode back-end for solidity-mode" single
+		   ((:commit . "9c77b390eab999e5e54dc5c1068f57201e6628bf")
+		    (:authors
+		     ("Samuel Smolkin" . "sam@future-precedent.org"))
+		    (:maintainer "Samuel Smolkin" . "sam@future-precedent.org")
+		    (:keywords "solidity" "completion" "company")
+		    (:url . "https://github.com/ethereum/emacs-solidity"))])

@@ -1,0 +1,48 @@
+Package: gnu-apl-mode
+Fetcher: github
+Source:  https://github.com/lokedhs/gnu-apl-mode.git
+
+Updating /mnt/store/melpa/working/gnu-apl-mode/
+Checking out origin/HEAD
+Checking out 5d998206a963f2205dc6c4eddb41fb34187cb527
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gnu-apl-mode/
+  to /tmp/gnu-apl-modefDd2K6/gnu-apl-mode-20211012.1139
+    gnu-apl-documentation.el -> gnu-apl-documentation.el
+    gnu-apl-editor.el -> gnu-apl-editor.el
+    gnu-apl-finnapl.el -> gnu-apl-finnapl.el
+    gnu-apl-follow.el -> gnu-apl-follow.el
+    gnu-apl-input.el -> gnu-apl-input.el
+    gnu-apl-interactive.el -> gnu-apl-interactive.el
+    gnu-apl-mode-pkg.el -> gnu-apl-mode-pkg.el
+    gnu-apl-mode.el -> gnu-apl-mode.el
+    gnu-apl-network.el -> gnu-apl-network.el
+    gnu-apl-osx-workaround.el -> gnu-apl-osx-workaround.el
+    gnu-apl-plot.el -> gnu-apl-plot.el
+    gnu-apl-refdocs-bsd-license.el -> gnu-apl-refdocs-bsd-license.el
+    gnu-apl-spreadsheet.el -> gnu-apl-spreadsheet.el
+    gnu-apl-symbols.el -> gnu-apl-symbols.el
+    gnu-apl-util.el -> gnu-apl-util.el
+Created gnu-apl-mode-20211012.1139.tar containing:
+  gnu-apl-mode-20211012.1139/
+  gnu-apl-mode-20211012.1139/gnu-apl-documentation.el
+  gnu-apl-mode-20211012.1139/gnu-apl-editor.el
+  gnu-apl-mode-20211012.1139/gnu-apl-finnapl.el
+  gnu-apl-mode-20211012.1139/gnu-apl-follow.el
+  gnu-apl-mode-20211012.1139/gnu-apl-input.el
+  gnu-apl-mode-20211012.1139/gnu-apl-interactive.el
+  gnu-apl-mode-20211012.1139/gnu-apl-mode-pkg.el
+  gnu-apl-mode-20211012.1139/gnu-apl-mode.el
+  gnu-apl-mode-20211012.1139/gnu-apl-network.el
+  gnu-apl-mode-20211012.1139/gnu-apl-osx-workaround.el
+  gnu-apl-mode-20211012.1139/gnu-apl-plot.el
+  gnu-apl-mode-20211012.1139/gnu-apl-refdocs-bsd-license.el
+  gnu-apl-mode-20211012.1139/gnu-apl-spreadsheet.el
+  gnu-apl-mode-20211012.1139/gnu-apl-symbols.el
+  gnu-apl-mode-20211012.1139/gnu-apl-util.el
+Built gnu-apl-mode in 13.103s, finished at 2021-10-22T15:34:51+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  364 Oct 22 15:34 packages/gnu-apl-mode-20211012.1139.entry
+152K -rw-r--r-- 1 root root 150K Oct 22 15:34 packages/gnu-apl-mode-20211012.1139.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:34 packages/gnu-apl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  824 Oct 22 15:34 packages/gnu-apl-mode-readme.txt

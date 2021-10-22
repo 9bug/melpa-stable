@@ -1,0 +1,41 @@
+Package: window-purpose
+Fetcher: github
+Source:  https://github.com/bmag/emacs-purpose.git
+
+Updating /mnt/store/melpa/working/window-purpose/
+Checking out origin/HEAD
+Checking out bb462f12f836414425edac32ebd069b4fd5b98d4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/window-purpose/
+  to /tmp/window-purposeo5cpSh/window-purpose-20210628.715
+    window-purpose-configuration.el -> window-purpose-configuration.el
+    window-purpose-core.el -> window-purpose-core.el
+    window-purpose-fixes.el -> window-purpose-fixes.el
+    window-purpose-layout.el -> window-purpose-layout.el
+    window-purpose-prefix-overload.el -> window-purpose-prefix-overload.el
+    window-purpose-switch.el -> window-purpose-switch.el
+    window-purpose-utils.el -> window-purpose-utils.el
+    window-purpose-x.el -> window-purpose-x.el
+    window-purpose.el -> window-purpose.el
+    layouts => layouts
+Created window-purpose-20210628.715.tar containing:
+  window-purpose-20210628.715/
+  window-purpose-20210628.715/layouts/
+  window-purpose-20210628.715/layouts/edit-terminal-general.window-layout
+  window-purpose-20210628.715/layouts/edit-terminal.window-layout
+  window-purpose-20210628.715/window-purpose-configuration.el
+  window-purpose-20210628.715/window-purpose-core.el
+  window-purpose-20210628.715/window-purpose-fixes.el
+  window-purpose-20210628.715/window-purpose-layout.el
+  window-purpose-20210628.715/window-purpose-pkg.el
+  window-purpose-20210628.715/window-purpose-prefix-overload.el
+  window-purpose-20210628.715/window-purpose-switch.el
+  window-purpose-20210628.715/window-purpose-utils.el
+  window-purpose-20210628.715/window-purpose-x.el
+  window-purpose-20210628.715/window-purpose.el
+Built window-purpose in 6.380s, finished at 2021-10-22T16:34:04+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  376 Oct 22 16:34 packages/window-purpose-20210628.715.entry
+200K -rw-r--r-- 1 root root 200K Oct 22 16:34 packages/window-purpose-20210628.715.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:34 packages/window-purpose-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Oct 22 16:34 packages/window-purpose-readme.txt

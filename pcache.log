@@ -1,0 +1,13 @@
+Package: pcache
+Fetcher: github
+Source:  https://github.com/sigma/pcache.git
+
+Updating /mnt/store/melpa/working/pcache/
+Checking out origin/HEAD
+Checking out 893d2a637423bae2cc5e72c559e3a9d1518797c9
+Built pcache in 13.938s, finished at 2021-10-22T16:10:12+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.2K Oct 22 16:10 packages/pcache-20201226.634.el
+4.0K -rw-r--r-- 1 root root  301 Oct 22 16:10 packages/pcache-20201226.634.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:10 packages/pcache-badge.svg
+4.0K -rw-r--r-- 1 root root  923 Oct 22 16:10 packages/pcache-readme.txt

@@ -1,0 +1,22 @@
+(define-it .
+  [(20201005 1731)
+   ((emacs
+     (25 1))
+    (s
+     (1 12 0))
+    (request
+     (0 3 0))
+    (popup
+     (0 5 3))
+    (pos-tip
+     (0 4 6))
+    (google-translate
+     (0 11 18))
+    (wiki-summary
+     (0 1)))
+   "Define, translate, wiki the word" single
+   ((:commit . "57a9c601e732c85b0b45550434b04d996c1b92a3")
+    (:authors
+     ("Shen, Jen-Chieh" . "jcs090218@gmail.com"))
+    (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com")
+    (:url . "https://github.com/jcs-elpa/define-it"))])

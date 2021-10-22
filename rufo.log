@@ -1,0 +1,13 @@
+Package: rufo
+Fetcher: github
+Source:  https://github.com/danielma/rufo.el.git
+
+Updating /mnt/store/melpa/working/rufo/
+Checking out origin/HEAD
+Checking out 020b02ed6e9ab49e79d2ddf63e4ee2684c1728f4
+Built rufo in 5.439s, finished at 2021-10-22T16:18:39+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.9K Oct 22 16:18 packages/rufo-20170718.1416.el
+4.0K -rw-r--r-- 1 root root  336 Oct 22 16:18 packages/rufo-20170718.1416.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:18 packages/rufo-badge.svg
+4.0K -rw-r--r-- 1 root root  309 Oct 22 16:18 packages/rufo-readme.txt

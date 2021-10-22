@@ -1,0 +1,13 @@
+Package: textx-mode
+Fetcher: github
+Source:  https://github.com/textX/textx-mode.git
+
+Updating /mnt/store/melpa/working/textx-mode/
+Checking out origin/HEAD
+Checking out 72f9f0c5855b382024f0da8f56833c22a70a5cb3
+Built textx-mode in 6.111s, finished at 2021-10-22T16:27:44+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.2K Oct 22 16:27 packages/textx-mode-20170516.911.el
+4.0K -rw-r--r-- 1 root root  405 Oct 22 16:27 packages/textx-mode-20170516.911.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:27 packages/textx-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   80 Oct 22 16:27 packages/textx-mode-readme.txt

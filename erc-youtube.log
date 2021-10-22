@@ -1,0 +1,6 @@
+Package: erc-youtube
+Fetcher: github
+Source:  https://github.com/kidd/erc-youtube.el.git
+
+Updating /mnt/store/melpa/working/erc-youtube/
+Checking out origin/HEAD

@@ -1,0 +1,27 @@
+Package: assess
+Fetcher: github
+Source:  https://github.com/phillord/assess.git
+
+Updating /mnt/store/melpa/working/assess/
+Checking out origin/HEAD
+Checking out 5bac045b273623772b6a2d820997d50f7ab4e466
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/assess/
+  to /tmp/assess5G2hsq/assess-20200211.1817
+    assess-call.el -> assess-call.el
+    assess-discover.el -> assess-discover.el
+    assess-robot.el -> assess-robot.el
+    assess.el -> assess.el
+Created assess-20200211.1817.tar containing:
+  assess-20200211.1817/
+  assess-20200211.1817/assess-call.el
+  assess-20200211.1817/assess-discover.el
+  assess-20200211.1817/assess-pkg.el
+  assess-20200211.1817/assess-robot.el
+  assess-20200211.1817/assess.el
+Built assess in 5.782s, finished at 2021-10-22T18:51:41+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  297 Oct 22 18:51 packages/assess-20200211.1817.entry
+ 60K -rw-r--r-- 1 root root  60K Oct 22 18:51 packages/assess-20200211.1817.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:51 packages/assess-badge.svg
+4.0K -rw-r--r-- 1 root root  837 Oct 22 18:51 packages/assess-readme.txt

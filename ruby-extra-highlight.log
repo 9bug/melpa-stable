@@ -1,0 +1,13 @@
+Package: ruby-extra-highlight
+Fetcher: github
+Source:  https://github.com/Lindydancer/ruby-extra-highlight.git
+
+Updating /mnt/store/melpa/working/ruby-extra-highlight/
+Checking out origin/HEAD
+Checking out 83942d18eae361998d24c1c523b308eea821f048
+Built ruby-extra-highlight in 4.783s, finished at 2021-10-22T16:18:32+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.6K Oct 22 16:18 packages/ruby-extra-highlight-20171106.1933.el
+4.0K -rw-r--r-- 1 root root  340 Oct 22 16:18 packages/ruby-extra-highlight-20171106.1933.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:18 packages/ruby-extra-highlight-badge.svg
+4.0K -rw-r--r-- 1 root root  369 Oct 22 16:18 packages/ruby-extra-highlight-readme.txt

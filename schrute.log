@@ -1,0 +1,13 @@
+Package: schrute
+Fetcher: git
+Source:  https://bitbucket.org/shackra/dwight-k.-schrute
+
+Updating /mnt/store/melpa/working/schrute/
+Checking out origin/HEAD
+Checking out 59faa6c4232ae183cea93237301acad8c0763997
+Built schrute in 5.765s, finished at 2021-10-22T16:19:19+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.0K Oct 22 16:19 packages/schrute-20170521.1840.el
+4.0K -rw-r--r-- 1 root root  417 Oct 22 16:19 packages/schrute-20170521.1840.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:19 packages/schrute-badge.svg
+4.0K -rw-r--r-- 1 root root  870 Oct 22 16:19 packages/schrute-readme.txt

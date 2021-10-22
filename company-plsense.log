@@ -1,0 +1,13 @@
+Package: company-plsense
+Fetcher: github
+Source:  https://github.com/CeleritasCelery/company-plsense.git
+
+Updating /mnt/store/melpa/working/company-plsense/
+Checking out origin/HEAD
+Checking out b48e3181e08ec597269621d621aa06636f02d883
+Built company-plsense in 7.911s, finished at 2021-10-22T19:02:09+0000
+ ✓ Success:
+ 32K -rw-r--r-- 1 root root  29K Oct 22 19:02 packages/company-plsense-20180118.58.el
+4.0K -rw-r--r-- 1 root root  467 Oct 22 19:02 packages/company-plsense-20180118.58.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:02 packages/company-plsense-badge.svg
+4.0K -rw-r--r-- 1 root root  666 Oct 22 19:02 packages/company-plsense-readme.txt

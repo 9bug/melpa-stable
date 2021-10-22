@@ -1,0 +1,17 @@
+(emacsql-libsqlite3 .
+		    [(20210927 2137)
+		     ((emacs
+		       (25 1))
+		      (emacsql
+		       (3 0 0))
+		      (emacsql-sqlite
+		       (3 0 0))
+		      (sqlite
+		       (0)))
+		     "EmacSQL back-end for SQLite using a module" single
+		     ((:commit . "ce95d8a373321bdeafa13e81dac18495c055fd95")
+		      (:authors
+		       ("Jonas Bernoulli" . "jonas@bernoul.li"))
+		      (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
+		      (:keywords "mail")
+		      (:url . "https://github.com/emacscollective/emacsql-libsqlite3"))])

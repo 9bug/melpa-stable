@@ -1,0 +1,11 @@
+(lisp-butt-mode .
+		[(20210215 2206)
+		 ((emacs
+		   (25)))
+		 "Slim Lisp Butts" single
+		 ((:commit . "7330f08dd85ee715096f3596df516877894c6c2f")
+		  (:authors
+		   ("Marco Wahl" . "marcowahlsoft@gmail.com"))
+		  (:maintainer "Marco Wahl" . "marcowahlsoft@gmail.com")
+		  (:keywords "lisp")
+		  (:url . "https://gitlab.com/marcowahl/lisp-butt-mode"))])

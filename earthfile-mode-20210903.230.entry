@@ -1,0 +1,10 @@
+(earthfile-mode .
+		[(20210903 230)
+		 ((emacs
+		   (26)))
+		 "Major mode for editing Earthly file" single
+		 ((:commit . "0f24876223a358d2718383e9e4975a26cee55f9d")
+		  (:authors
+		   ("Thanabodee Charoenpiriyakij" . "wingyminus@gmail.com"))
+		  (:maintainer "Thanabodee Charoenpiriyakij" . "wingyminus@gmail.com")
+		  (:url . "https://github.com/earthly/earthly-mode"))])

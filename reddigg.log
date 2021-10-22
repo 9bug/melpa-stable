@@ -1,0 +1,13 @@
+Package: reddigg
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-reddigg.git
+
+Updating /mnt/store/melpa/working/reddigg/
+Checking out origin/HEAD
+Checking out 1a6eaf3d1a5e44205399526c0f425281b8d9ccc3
+Built reddigg in 5.540s, finished at 2021-10-22T16:16:55+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K Oct 22 16:16 packages/reddigg-20210603.2305.el
+4.0K -rw-r--r-- 1 root root  411 Oct 22 16:16 packages/reddigg-20210603.2305.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:16 packages/reddigg-badge.svg
+4.0K -rw-r--r-- 1 root root 1008 Oct 22 16:16 packages/reddigg-readme.txt

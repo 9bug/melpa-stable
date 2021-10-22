@@ -1,0 +1,13 @@
+Package: mutt-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/flexw/mutt-mode.git
+
+Updating /mnt/store/melpa/working/mutt-mode/
+Checking out origin/HEAD
+Checking out 1d495de49e6f536459b00d5396a2f5ce5ad4757b
+Built mutt-mode in 8.405s, finished at 2021-10-22T15:58:42+0000
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K Oct 22 15:58 packages/mutt-mode-20191102.2330.el
+4.0K -rw-r--r-- 1 root root  405 Oct 22 15:58 packages/mutt-mode-20191102.2330.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:58 packages/mutt-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   93 Oct 22 15:58 packages/mutt-mode-readme.txt

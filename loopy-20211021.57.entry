@@ -1,0 +1,15 @@
+(loopy .
+       [(20211021 57)
+	((emacs
+	  (27 1))
+	 (map
+	  (3 0))
+	 (seq
+	  (2 22)))
+	"A looping macro" tar
+	((:commit . "49efa7e59deaa2a0385e420b18df905a2328f9c4")
+	 (:authors
+	  ("Earl Hyatt"))
+	 (:maintainer "Earl Hyatt")
+	 (:keywords "extensions")
+	 (:url . "https://github.com/okamsn/loopy"))])

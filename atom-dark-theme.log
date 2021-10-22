@@ -1,0 +1,12 @@
+Package: atom-dark-theme
+Fetcher: github
+Source:  https://github.com/whitlockjc/atom-dark-theme-emacs.git
+
+Updating /mnt/store/melpa/working/atom-dark-theme/
+Checking out origin/HEAD
+Checking out 5c8610d0b45a536b8f7f9777297c86362685a357
+Built atom-dark-theme in 6.530s, finished at 2021-10-22T18:51:51+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  13K Oct 22 18:51 packages/atom-dark-theme-20181022.1602.el
+4.0K -rw-r--r-- 1 root root  413 Oct 22 18:51 packages/atom-dark-theme-20181022.1602.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:51 packages/atom-dark-theme-badge.svg

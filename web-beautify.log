@@ -1,0 +1,13 @@
+Package: web-beautify
+Fetcher: github
+Source:  https://github.com/yasuyk/web-beautify.git
+
+Updating /mnt/store/melpa/working/web-beautify/
+Checking out origin/HEAD
+Checking out e1b45321d8c11b404b12c8e55afe55eaa7c84ee9
+Built web-beautify in 13.122s, finished at 2021-10-22T16:33:04+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.0K Oct 22 16:33 packages/web-beautify-20161115.2247.el
+4.0K -rw-r--r-- 1 root root  323 Oct 22 16:33 packages/web-beautify-20161115.2247.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:33 packages/web-beautify-badge.svg
+4.0K -rw-r--r-- 1 root root 1.4K Oct 22 16:33 packages/web-beautify-readme.txt

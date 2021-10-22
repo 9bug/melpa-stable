@@ -1,0 +1,13 @@
+Package: shader-mode
+Fetcher: github
+Source:  https://github.com/midnightSuyama/shader-mode.git
+
+Updating /mnt/store/melpa/working/shader-mode/
+Checking out origin/HEAD
+Checking out d7dc8d0d6fe8914e8b6d5cf2081ad61e6952359c
+Built shader-mode in 5.619s, finished at 2021-10-22T16:20:25+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.7K Oct 22 16:20 packages/shader-mode-20180518.1157.el
+4.0K -rw-r--r-- 1 root root  368 Oct 22 16:20 packages/shader-mode-20180518.1157.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:20 packages/shader-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   86 Oct 22 16:20 packages/shader-mode-readme.txt

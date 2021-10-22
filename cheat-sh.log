@@ -1,0 +1,13 @@
+Package: cheat-sh
+Fetcher: github
+Source:  https://github.com/davep/cheat-sh.el.git
+
+Updating /mnt/store/melpa/working/cheat-sh/
+Checking out origin/HEAD
+Checking out 33bae22feae8d3375739c6bdef08d0dcdf47ee42
+Built cheat-sh in 6.929s, finished at 2021-10-22T18:58:12+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.2K Oct 22 18:58 packages/cheat-sh-20210607.1307.el
+4.0K -rw-r--r-- 1 root root  355 Oct 22 18:58 packages/cheat-sh-20210607.1307.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:58 packages/cheat-sh-badge.svg
+4.0K -rw-r--r-- 1 root root   82 Oct 22 18:58 packages/cheat-sh-readme.txt

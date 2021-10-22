@@ -1,0 +1,13 @@
+Package: platformio-mode
+Fetcher: github
+Source:  https://github.com/ZachMassia/PlatformIO-Mode.git
+
+Updating /mnt/store/melpa/working/platformio-mode/
+Checking out origin/HEAD
+Checking out f4fd8932995a8aed80eab14e54232010c2889012
+Built platformio-mode in 6.969s, finished at 2021-10-22T16:11:49+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  10K Oct 22 16:11 packages/platformio-mode-20210511.957.el
+4.0K -rw-r--r-- 1 root root  447 Oct 22 16:11 packages/platformio-mode-20210511.957.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:11 packages/platformio-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  111 Oct 22 16:11 packages/platformio-mode-readme.txt

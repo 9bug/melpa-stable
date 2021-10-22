@@ -1,0 +1,10 @@
+(alt-codes .
+	   [(20200723 1037)
+	    ((emacs
+	      (24 4)))
+	    "Insert alt codes using meta key" single
+	    ((:commit . "fb8550cb690b0ec954968afc7e8e953fd6859cdb")
+	     (:authors
+	      ("Shen, Jen-Chieh" . "jcs090218@gmail.com"))
+	     (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com")
+	     (:url . "https://github.com/jcs-elpa/alt-codes"))])

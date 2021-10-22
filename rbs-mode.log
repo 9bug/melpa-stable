@@ -1,0 +1,13 @@
+Package: rbs-mode
+Fetcher: github
+Source:  https://github.com/ybiquitous/rbs-mode.git
+
+Updating /mnt/store/melpa/working/rbs-mode/
+Checking out origin/HEAD
+Checking out fd766a943d5f1f0624e10ffce096b9aaba14a5f4
+Built rbs-mode in 5.615s, finished at 2021-10-22T16:16:13+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.4K Oct 22 16:16 packages/rbs-mode-20210430.135.el
+4.0K -rw-r--r-- 1 root root  314 Oct 22 16:16 packages/rbs-mode-20210430.135.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:16 packages/rbs-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  135 Oct 22 16:16 packages/rbs-mode-readme.txt

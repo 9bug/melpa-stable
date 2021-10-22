@@ -1,0 +1,24 @@
+Package: writeroom-mode
+Fetcher: github
+Source:  https://github.com/joostkremers/writeroom-mode.git
+
+Updating /mnt/store/melpa/working/writeroom-mode/
+Checking out origin/HEAD
+Checking out eac1da790f316f357ed76ed67fbb790d6a4d126a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/writeroom-mode/
+  to /tmp/writeroom-modeWMurk3/writeroom-mode-20210927.1301
+    writeroom-mode.el -> writeroom-mode.el
+    writeroom-mode.info -> writeroom-mode.info
+Created writeroom-mode-20210927.1301.tar containing:
+  writeroom-mode-20210927.1301/
+  writeroom-mode-20210927.1301/dir
+  writeroom-mode-20210927.1301/writeroom-mode-pkg.el
+  writeroom-mode-20210927.1301/writeroom-mode.el
+  writeroom-mode-20210927.1301/writeroom-mode.info
+Built writeroom-mode in 5.121s, finished at 2021-10-22T16:34:42+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  424 Oct 22 16:34 packages/writeroom-mode-20210927.1301.entry
+ 60K -rw-r--r-- 1 root root  60K Oct 22 16:34 packages/writeroom-mode-20210927.1301.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:34 packages/writeroom-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  270 Oct 22 16:34 packages/writeroom-mode-readme.txt

@@ -1,0 +1,32 @@
+Package: datetime
+Fetcher: github
+Source:  https://github.com/doublep/datetime.git
+
+Updating /mnt/store/melpa/working/datetime/
+Checking out origin/HEAD
+Checking out 77dc214d9ae853c7206ae95cc92d720445c1eeb4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/datetime/
+  to /tmp/datetimeZm2xx9/datetime-20211016.1656
+    datetime.el -> datetime.el
+    locale-data.extmap -> locale-data.extmap
+    timezone-data.extmap -> timezone-data.extmap
+    timezone-name-data.extmap -> timezone-name-data.extmap
+Created datetime-20211016.1656.tar containing:
+  datetime-20211016.1656/
+  datetime-20211016.1656/datetime-pkg.el
+  datetime-20211016.1656/datetime.el
+  datetime-20211016.1656/locale-data.extmap
+  datetime-20211016.1656/timezone-data.extmap
+  datetime-20211016.1656/timezone-name-data.extmap
+Built datetime in 6.124s, finished at 2021-10-22T19:06:13+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  416 Oct 22 19:06 packages/datetime-20211016.1656.entry
+3.9M -rw-r--r-- 1 root root 3.9M Oct 22 19:06 packages/datetime-20211016.1656.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:06 packages/datetime-badge.svg
+8.0K -rw-r--r-- 1 root root 6.6K Oct 22 19:06 packages/datetime-format-20160612.1715.el
+4.0K -rw-r--r-- 1 root root  344 Oct 22 15:14 packages/datetime-format-20160612.1715.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:14 packages/datetime-format-badge.svg
+4.0K -rw-r--r-- 1 root root  607 Oct 22 15:14 packages/datetime-format-readme.txt
+4.0K -rw-r--r-- 1 root root  229 Oct 22 19:06 packages/datetime-format.log
+4.0K -rw-r--r-- 1 root root 1.3K Oct 22 19:06 packages/datetime-readme.txt

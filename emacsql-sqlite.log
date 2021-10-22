@@ -1,0 +1,27 @@
+Package: emacsql-sqlite
+Fetcher: github
+Source:  https://github.com/skeeto/emacsql.git
+
+Updating /mnt/store/melpa/working/emacsql-sqlite/
+Checking out origin/HEAD
+Checking out 9dca5996168c4963eb67e61c7f17fdcb8228e314
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsql-sqlite/
+  to /tmp/emacsql-sqlite5i0lOR/emacsql-sqlite-20190727.1710
+    emacsql-sqlite.el -> emacsql-sqlite.el
+    sqlite => sqlite
+Created emacsql-sqlite-20190727.1710.tar containing:
+  emacsql-sqlite-20190727.1710/
+  emacsql-sqlite-20190727.1710/emacsql-sqlite-pkg.el
+  emacsql-sqlite-20190727.1710/emacsql-sqlite.el
+  emacsql-sqlite-20190727.1710/sqlite/
+  emacsql-sqlite-20190727.1710/sqlite/Makefile
+  emacsql-sqlite-20190727.1710/sqlite/emacsql.c
+  emacsql-sqlite-20190727.1710/sqlite/sqlite3.c
+  emacsql-sqlite-20190727.1710/sqlite/sqlite3.h
+Built emacsql-sqlite in 8.318s, finished at 2021-10-22T19:14:19+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  377 Oct 22 19:14 packages/emacsql-sqlite-20190727.1710.entry
+7.5M -rw-r--r-- 1 root root 7.5M Oct 22 19:14 packages/emacsql-sqlite-20190727.1710.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:14 packages/emacsql-sqlite-badge.svg
+4.0K -rw-r--r-- 1 root root  125 Oct 22 19:14 packages/emacsql-sqlite-readme.txt

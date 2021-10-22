@@ -1,0 +1,13 @@
+Package: bibclean-format
+Fetcher: github
+Source:  https://github.com/peterwvj/bibclean-format.git
+
+Updating /mnt/store/melpa/working/bibclean-format/
+Checking out origin/HEAD
+Checking out b4003950a925d1c659bc359ab5e88e4441775d77
+Built bibclean-format in 7.345s, finished at 2021-10-22T18:54:50+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.2K Oct 22 18:54 packages/bibclean-format-20190302.2017.el
+4.0K -rw-r--r-- 1 root root  475 Oct 22 18:54 packages/bibclean-format-20190302.2017.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:54 packages/bibclean-format-badge.svg
+4.0K -rw-r--r-- 1 root root  108 Oct 22 18:54 packages/bibclean-format-readme.txt

@@ -1,0 +1,13 @@
+Package: ac-slime
+Fetcher: github
+Source:  https://github.com/purcell/ac-slime.git
+
+Updating /mnt/store/melpa/working/ac-slime/
+Checking out origin/HEAD
+Checking out 6c80cb602ddad46486288f94ad7546396c6e4b1a
+Built ac-slime in 7.595s, finished at 2021-10-22T18:49:03+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.5K Oct 22 18:49 packages/ac-slime-20171027.2100.el
+4.0K -rw-r--r-- 1 root root  416 Oct 22 18:49 packages/ac-slime-20171027.2100.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:49 packages/ac-slime-badge.svg
+4.0K -rw-r--r-- 1 root root  221 Oct 22 18:49 packages/ac-slime-readme.txt

@@ -1,0 +1,13 @@
+Package: company-quickhelp-terminal
+Fetcher: github
+Source:  https://github.com/jcs-elpa/company-quickhelp-terminal.git
+
+Updating /mnt/store/melpa/working/company-quickhelp-terminal/
+Checking out origin/HEAD
+Checking out 40c2fc569bfc0613b8fac4b9d6242f6682f50827
+Built company-quickhelp-terminal in 6.872s, finished at 2021-10-22T19:02:15+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.7K Oct 22 19:02 packages/company-quickhelp-terminal-20210715.1010.el
+4.0K -rw-r--r-- 1 root root  510 Oct 22 19:02 packages/company-quickhelp-terminal-20210715.1010.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:02 packages/company-quickhelp-terminal-badge.svg
+4.0K -rw-r--r-- 1 root root   43 Oct 22 19:02 packages/company-quickhelp-terminal-readme.txt

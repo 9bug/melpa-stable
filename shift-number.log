@@ -1,0 +1,13 @@
+Package: shift-number
+Fetcher: github
+Source:  https://github.com/alezost/shift-number.el.git
+
+Updating /mnt/store/melpa/working/shift-number/
+Checking out origin/HEAD
+Checking out cd099a5582fc996b800ac7607f6c38a004ce9740
+Built shift-number in 5.639s, finished at 2021-10-22T16:20:43+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.3K Oct 22 16:20 packages/shift-number-20170301.1459.el
+4.0K -rw-r--r-- 1 root root  352 Oct 22 16:20 packages/shift-number-20170301.1459.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:20 packages/shift-number-badge.svg
+4.0K -rw-r--r-- 1 root root  428 Oct 22 16:20 packages/shift-number-readme.txt

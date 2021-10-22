@@ -1,0 +1,11 @@
+(ligo-mode .
+	   [(20211011 954)
+	    ((emacs
+	      (27 1)))
+	    "A major mode for editing LIGO source code" single
+	    ((:commit . "82acc6eeda3f2f1f9d4ad252a0aad01170a0a57e")
+	     (:authors
+	      ("LigoLang SASU"))
+	     (:maintainer "LigoLang SASU")
+	     (:keywords "languages")
+	     (:url . "https://gitlab.com/ligolang/ligo/-/tree/dev/tools/emacs"))])

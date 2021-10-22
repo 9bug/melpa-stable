@@ -1,0 +1,59 @@
+Package: forge
+Fetcher: github
+Source:  https://github.com/magit/forge.git
+
+Updating /mnt/store/melpa/working/forge/
+Checking out origin/HEAD
+Checking out 72b29bd7bc4172705b55bdd2a5070202ec154069
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/forge/
+  to /tmp/forgeW1FaxY/forge-20211020.1748
+  ! lisp/forge-bitbucket.el -> forge-bitbucket.el
+  ! lisp/forge-commands.el -> forge-commands.el
+  ! lisp/forge-core.el -> forge-core.el
+  ! lisp/forge-db.el -> forge-db.el
+  ! lisp/forge-gitea.el -> forge-gitea.el
+  ! lisp/forge-github.el -> forge-github.el
+  ! lisp/forge-gitlab.el -> forge-gitlab.el
+  ! lisp/forge-gogs.el -> forge-gogs.el
+  ! lisp/forge-issue.el -> forge-issue.el
+  ! lisp/forge-list.el -> forge-list.el
+  ! lisp/forge-notify.el -> forge-notify.el
+  ! lisp/forge-post.el -> forge-post.el
+  ! lisp/forge-pullreq.el -> forge-pullreq.el
+  ! lisp/forge-repo.el -> forge-repo.el
+  ! lisp/forge-revnote.el -> forge-revnote.el
+  ! lisp/forge-semi.el -> forge-semi.el
+  ! lisp/forge-topic.el -> forge-topic.el
+  ! lisp/forge.el -> forge.el
+  ! docs/forge.texi -> forge.texi
+Created /tmp/forgeW1FaxY/forge-20211020.1748/forge.info
+Created forge-20211020.1748.tar containing:
+  forge-20211020.1748/
+  forge-20211020.1748/dir
+  forge-20211020.1748/forge-bitbucket.el
+  forge-20211020.1748/forge-commands.el
+  forge-20211020.1748/forge-core.el
+  forge-20211020.1748/forge-db.el
+  forge-20211020.1748/forge-gitea.el
+  forge-20211020.1748/forge-github.el
+  forge-20211020.1748/forge-gitlab.el
+  forge-20211020.1748/forge-gogs.el
+  forge-20211020.1748/forge-issue.el
+  forge-20211020.1748/forge-list.el
+  forge-20211020.1748/forge-notify.el
+  forge-20211020.1748/forge-pkg.el
+  forge-20211020.1748/forge-post.el
+  forge-20211020.1748/forge-pullreq.el
+  forge-20211020.1748/forge-repo.el
+  forge-20211020.1748/forge-revnote.el
+  forge-20211020.1748/forge-semi.el
+  forge-20211020.1748/forge-topic.el
+  forge-20211020.1748/forge.el
+  forge-20211020.1748/forge.info
+Built forge in 13.132s, finished at 2021-10-22T15:31:53+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  554 Oct 22 15:31 packages/forge-20211020.1748.entry
+332K -rw-r--r-- 1 root root 330K Oct 22 15:31 packages/forge-20211020.1748.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:31 packages/forge-badge.svg
+4.0K -rw-r--r-- 1 root root  314 Oct 22 15:31 packages/forge-readme.txt

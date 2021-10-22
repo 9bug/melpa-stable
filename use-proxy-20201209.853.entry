@@ -1,0 +1,13 @@
+(use-proxy .
+	   [(20201209 853)
+	    ((exec-path-from-shell
+	      (1 12))
+	     (emacs
+	      (26 2)))
+	    "Enable/Disable proxies respecting your HTTP/HTTPS env" single
+	    ((:commit . "31d8bbec16eff342bd4c02b0cb12ea31dd31bf19")
+	     (:authors
+	      ("Ray Wang" . "ray.hackmylife@gmail.com"))
+	     (:maintainer "Ray Wang" . "ray.hackmylife@gmail.com")
+	     (:keywords "proxy" "comm")
+	     (:url . "https://github.com/rayw000/use-proxy"))])

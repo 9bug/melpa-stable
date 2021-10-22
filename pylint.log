@@ -1,0 +1,13 @@
+Package: pylint
+Fetcher: github
+Source:  https://github.com/PyCQA/pylint.git
+
+Updating /mnt/store/melpa/working/pylint/
+Checking out origin/HEAD
+Checking out 259f7a381d19bdbfaa84343825e0638323aed55f
+Built pylint in 7.346s, finished at 2021-10-22T16:14:51+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.0K Oct 22 16:14 packages/pylint-20210411.1931.el
+4.0K -rw-r--r-- 1 root root  282 Oct 22 16:14 packages/pylint-20210411.1931.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:14 packages/pylint-badge.svg
+4.0K -rw-r--r-- 1 root root  377 Oct 22 16:14 packages/pylint-readme.txt

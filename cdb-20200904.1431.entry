@@ -1,0 +1,9 @@
+(cdb .
+     [(20200904 1431)
+      nil "constant database (cdb) reader for Emacs Lisp" single
+      ((:commit . "ce0517127586e26f95f94f45d22a832f40a28321")
+       (:authors
+	("Yusuke Shinyama <yusuke at cs . nyu . edu>"))
+       (:maintainer "SKK Development Team")
+       (:keywords "cdb")
+       (:url . "https://github.com/skk-dev/ddskk"))])

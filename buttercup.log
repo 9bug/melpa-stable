@@ -1,0 +1,33 @@
+Package: buttercup
+Fetcher: github
+Source:  https://github.com/jorgenschaefer/emacs-buttercup.git
+
+Updating /mnt/store/melpa/working/buttercup/
+Checking out origin/HEAD
+Checking out 1de6be465cfe2c3f00183de9351bd838690c9f81
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/buttercup/
+  to /tmp/buttercupzfL25d/buttercup-20210105.2255
+    buttercup-compat.el -> buttercup-compat.el
+    buttercup-pkg.el -> buttercup-pkg.el
+    buttercup.el -> buttercup.el
+    bin => bin
+Created buttercup-20210105.2255.tar containing:
+  buttercup-20210105.2255/
+  buttercup-20210105.2255/bin/
+  buttercup-20210105.2255/bin/buttercup
+  buttercup-20210105.2255/bin/buttercup.bat
+  buttercup-20210105.2255/buttercup-compat.el
+  buttercup-20210105.2255/buttercup-pkg.el
+  buttercup-20210105.2255/buttercup.el
+Built buttercup in 5.858s, finished at 2021-10-22T18:56:44+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  357 Oct 22 18:56 packages/buttercup-20210105.2255.entry
+112K -rw-r--r-- 1 root root 110K Oct 22 18:56 packages/buttercup-20210105.2255.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:56 packages/buttercup-badge.svg
+ 16K -rw-r--r-- 1 root root  14K Oct 22 15:06 packages/buttercup-junit-20190802.2258.el
+4.0K -rw-r--r-- 1 root root  450 Oct 22 15:06 packages/buttercup-junit-20190802.2258.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:06 packages/buttercup-junit-badge.svg
+4.0K -rw-r--r-- 1 root root  905 Oct 22 15:06 packages/buttercup-junit-readme.txt
+4.0K -rw-r--r-- 1 root root  227 Oct 22 18:56 packages/buttercup-junit.log
+4.0K -rw-r--r-- 1 root root  565 Oct 22 18:56 packages/buttercup-readme.txt

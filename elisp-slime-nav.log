@@ -1,0 +1,13 @@
+Package: elisp-slime-nav
+Fetcher: github
+Source:  https://github.com/purcell/elisp-slime-nav.git
+
+Updating /mnt/store/melpa/working/elisp-slime-nav/
+Checking out origin/HEAD
+Checking out 8588d80d414aee1fafce5b9da0e913612ee0bcdd
+Built elisp-slime-nav in 6.457s, finished at 2021-10-22T19:13:29+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.0K Oct 22 19:13 packages/elisp-slime-nav-20210510.528.el
+4.0K -rw-r--r-- 1 root root  473 Oct 22 19:13 packages/elisp-slime-nav-20210510.528.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:13 packages/elisp-slime-nav-badge.svg
+4.0K -rw-r--r-- 1 root root  678 Oct 22 19:13 packages/elisp-slime-nav-readme.txt

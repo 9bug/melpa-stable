@@ -1,0 +1,13 @@
+Package: igv
+Fetcher: git
+Source:  https://bitbucket.org/sbarbit/eigv
+
+Updating /mnt/store/melpa/working/igv/
+Checking out origin/HEAD
+Checking out 47ac6ceede252f451348a2c696398c0cb5279555
+Built igv in 6.756s, finished at 2021-10-22T15:44:05+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.4K Oct 22 15:44 packages/igv-20141210.1227.el
+4.0K -rw-r--r-- 1 root root  289 Oct 22 15:44 packages/igv-20141210.1227.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:44 packages/igv-badge.svg
+4.0K -rw-r--r-- 1 root root  198 Oct 22 15:44 packages/igv-readme.txt

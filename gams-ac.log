@@ -1,0 +1,13 @@
+Package: gams-ac
+Fetcher: github
+Source:  https://github.com/ShiroTakeda/gams-ac.git
+
+Updating /mnt/store/melpa/working/gams-ac/
+Checking out origin/HEAD
+Checking out 66d04ff36033f54205c19bc1d893e926d4dbf02e
+Built gams-ac in 7.274s, finished at 2021-10-22T15:32:45+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.5K Oct 22 15:32 packages/gams-ac-20180423.926.el
+4.0K -rw-r--r-- 1 root root  412 Oct 22 15:32 packages/gams-ac-20180423.926.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:32 packages/gams-ac-badge.svg
+4.0K -rw-r--r-- 1 root root  556 Oct 22 15:32 packages/gams-ac-readme.txt

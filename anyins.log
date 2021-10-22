@@ -1,0 +1,13 @@
+Package: anyins
+Fetcher: github
+Source:  https://github.com/antham/anyins.git
+
+Updating /mnt/store/melpa/working/anyins/
+Checking out origin/HEAD
+Checking out 83844c17ac9b5b6c7655ee556b75689e4c8ea663
+Built anyins in 7.652s, finished at 2021-10-22T18:51:08+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.9K Oct 22 18:51 packages/anyins-20131229.1041.el
+4.0K -rw-r--r-- 1 root root  373 Oct 22 18:51 packages/anyins-20131229.1041.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:51 packages/anyins-badge.svg
+4.0K -rw-r--r-- 1 root root  202 Oct 22 18:51 packages/anyins-readme.txt

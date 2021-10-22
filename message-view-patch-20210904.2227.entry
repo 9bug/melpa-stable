@@ -1,0 +1,13 @@
+(message-view-patch .
+		    [(20210904 2227)
+		     ((emacs
+		       (24 4))
+		      (magit
+		       (3 0 0)))
+		     "Colorize patch-like emails in mu4e" single
+		     ((:commit . "40bc2e554fc1d0b6f0c403192c0a3ceaa019a78d")
+		      (:authors
+		       ("Sean Farley"))
+		      (:maintainer "Sean Farley")
+		      (:keywords "extensions" "mu4e" "gnus")
+		      (:url . "https://github.com/seanfarley/message-view-patch"))])

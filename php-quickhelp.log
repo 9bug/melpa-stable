@@ -1,0 +1,13 @@
+Package: php-quickhelp
+Fetcher: github
+Source:  https://github.com/vpxyz/php-quickhelp.git
+
+Updating /mnt/store/melpa/working/php-quickhelp/
+Checking out origin/HEAD
+Checking out d5e11b7a6bad64550521e8822139a33218b8c9bb
+Built php-quickhelp in 5.430s, finished at 2021-10-22T16:11:09+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Oct 22 16:11 packages/php-quickhelp-20210819.2025.el
+4.0K -rw-r--r-- 1 root root  292 Oct 22 16:11 packages/php-quickhelp-20210819.2025.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:11 packages/php-quickhelp-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:11 packages/php-quickhelp-readme.txt

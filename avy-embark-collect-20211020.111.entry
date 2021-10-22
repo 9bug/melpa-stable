@@ -1,0 +1,15 @@
+(avy-embark-collect .
+		    [(20211020 111)
+		     ((emacs
+		       (25 1))
+		      (embark
+		       (0 9))
+		      (avy
+		       (0 5)))
+		     "Use avy to jump to Embark Collect entries" single
+		     ((:commit . "560af655922582f3f20a46fb1969915ee34028a4")
+		      (:authors
+		       ("Omar Antolín Camarena" . "omar@matem.unam.mx"))
+		      (:maintainer "Omar Antolín Camarena" . "omar@matem.unam.mx")
+		      (:keywords "convenience")
+		      (:url . "https://github.com/oantolin/embark"))])

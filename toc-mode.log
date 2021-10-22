@@ -1,0 +1,13 @@
+Package: toc-mode
+Fetcher: github
+Source:  https://github.com/dalanicolai/toc-mode.git
+
+Updating /mnt/store/melpa/working/toc-mode/
+Checking out origin/HEAD
+Checking out 977bec00d8d448ad2a5e2e4c17b9c9ba3e194ec2
+Built toc-mode in 6.095s, finished at 2021-10-22T16:28:21+0000
+ ✓ Success:
+ 44K -rw-r--r-- 1 root root  42K Oct 22 16:28 packages/toc-mode-20210714.725.el
+4.0K -rw-r--r-- 1 root root  445 Oct 22 16:28 packages/toc-mode-20210714.725.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:28 packages/toc-mode-badge.svg
+ 12K -rw-r--r-- 1 root root 8.7K Oct 22 16:28 packages/toc-mode-readme.txt

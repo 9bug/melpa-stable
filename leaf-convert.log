@@ -1,0 +1,13 @@
+Package: leaf-convert
+Fetcher: github
+Source:  https://github.com/conao3/leaf-convert.el.git
+
+Updating /mnt/store/melpa/working/leaf-convert/
+Checking out origin/HEAD
+Checking out da86654f1021445cc42c1a5a9195f15097352209
+Built leaf-convert in 5.799s, finished at 2021-10-22T15:50:24+0000
+ ✓ Success:
+ 40K -rw-r--r-- 1 root root  40K Oct 22 15:50 packages/leaf-convert-20210816.1103.el
+4.0K -rw-r--r-- 1 root root  442 Oct 22 15:50 packages/leaf-convert-20210816.1103.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:50 packages/leaf-convert-badge.svg
+4.0K -rw-r--r-- 1 root root  792 Oct 22 15:50 packages/leaf-convert-readme.txt

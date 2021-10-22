@@ -1,0 +1,23 @@
+Package: org-doing
+Fetcher: github
+Source:  https://github.com/emacsattic/org-doing.git
+
+Updating /mnt/store/melpa/working/org-doing/
+Checking out origin/HEAD
+Checking out 07ddbfc238cba31e4990c9b52e9a2757b39111da
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-doing/
+  to /tmp/org-doingBn2Zi6/org-doing-20161017.1620
+    org-doing.el -> org-doing.el
+    bin => bin
+Created org-doing-20161017.1620.tar containing:
+  org-doing-20161017.1620/
+  org-doing-20161017.1620/bin/
+  org-doing-20161017.1620/bin/org-doing
+  org-doing-20161017.1620/org-doing-pkg.el
+  org-doing-20161017.1620/org-doing.el
+Built org-doing in 11.006s, finished at 2021-10-22T16:03:39+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  304 Oct 22 16:03 packages/org-doing-20161017.1620.entry
+ 12K -rw-r--r-- 1 root root  10K Oct 22 16:03 packages/org-doing-20161017.1620.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:03 packages/org-doing-badge.svg

@@ -1,0 +1,31 @@
+Package: rust-mode
+Fetcher: github
+Source:  https://github.com/rust-lang/rust-mode.git
+
+Updating /mnt/store/melpa/working/rust-mode/
+Checking out origin/HEAD
+Checking out 06ea73f121a7f82f01e93b0b422f98d657ec6661
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rust-mode/
+  to /tmp/rust-modeBImb2e/rust-mode-20211016.1821
+    rust-cargo.el -> rust-cargo.el
+    rust-compile.el -> rust-compile.el
+    rust-mode.el -> rust-mode.el
+    rust-playpen.el -> rust-playpen.el
+    rust-rustfmt.el -> rust-rustfmt.el
+    rust-utils.el -> rust-utils.el
+Created rust-mode-20211016.1821.tar containing:
+  rust-mode-20211016.1821/
+  rust-mode-20211016.1821/rust-cargo.el
+  rust-mode-20211016.1821/rust-compile.el
+  rust-mode-20211016.1821/rust-mode-pkg.el
+  rust-mode-20211016.1821/rust-mode.el
+  rust-mode-20211016.1821/rust-playpen.el
+  rust-mode-20211016.1821/rust-rustfmt.el
+  rust-mode-20211016.1821/rust-utils.el
+Built rust-mode in 5.358s, finished at 2021-10-22T16:18:47+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  332 Oct 22 16:18 packages/rust-mode-20211016.1821.entry
+100K -rw-r--r-- 1 root root 100K Oct 22 16:18 packages/rust-mode-20211016.1821.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:18 packages/rust-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   67 Oct 22 16:18 packages/rust-mode-readme.txt

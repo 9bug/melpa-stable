@@ -1,0 +1,13 @@
+Package: vega-view
+Fetcher: github
+Source:  https://github.com/applied-science/emacs-vega-view.git
+
+Updating /mnt/store/melpa/working/vega-view/
+Checking out origin/HEAD
+Checking out 3793025a523a86acc6255b4183b12ebfc95e1116
+Built vega-view in 6.824s, finished at 2021-10-22T16:31:26+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.2K Oct 22 16:31 packages/vega-view-20210401.1115.el
+4.0K -rw-r--r-- 1 root root  464 Oct 22 16:31 packages/vega-view-20210401.1115.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:31 packages/vega-view-badge.svg
+4.0K -rw-r--r-- 1 root root   72 Oct 22 16:31 packages/vega-view-readme.txt

@@ -1,0 +1,25 @@
+Package: simple-modeline
+Fetcher: github
+Source:  https://github.com/gexplorer/simple-modeline.git
+
+Updating /mnt/store/melpa/working/simple-modeline/
+Checking out origin/HEAD
+Checking out 119d8224a8ae0ee17b09ac1fed6cdb9cb1d048fd
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/simple-modeline/
+  to /tmp/simple-modelinexOWuet/simple-modeline-20210312.1048
+    simple-modeline-core.el -> simple-modeline-core.el
+    simple-modeline-segments.el -> simple-modeline-segments.el
+    simple-modeline.el -> simple-modeline.el
+Created simple-modeline-20210312.1048.tar containing:
+  simple-modeline-20210312.1048/
+  simple-modeline-20210312.1048/simple-modeline-core.el
+  simple-modeline-20210312.1048/simple-modeline-pkg.el
+  simple-modeline-20210312.1048/simple-modeline-segments.el
+  simple-modeline-20210312.1048/simple-modeline.el
+Built simple-modeline in 9.977s, finished at 2021-10-22T16:21:35+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  407 Oct 22 16:21 packages/simple-modeline-20210312.1048.entry
+ 20K -rw-r--r-- 1 root root  20K Oct 22 16:21 packages/simple-modeline-20210312.1048.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:21 packages/simple-modeline-badge.svg
+4.0K -rw-r--r-- 1 root root  229 Oct 22 16:21 packages/simple-modeline-readme.txt

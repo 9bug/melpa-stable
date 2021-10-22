@@ -1,0 +1,13 @@
+Package: bibtex-completion
+Fetcher: github
+Source:  https://github.com/tmalsburg/helm-bibtex.git
+
+Updating /mnt/store/melpa/working/bibtex-completion/
+Checking out origin/HEAD
+Checking out aa775340ba691d2322948bfdc6a88158568a1399
+Built bibtex-completion in 6.760s, finished at 2021-10-22T18:54:59+0000
+ ✓ Success:
+ 76K -rw-r--r-- 1 root root  76K Oct 22 18:54 packages/bibtex-completion-20211019.1306.el
+4.0K -rw-r--r-- 1 root root  627 Oct 22 18:54 packages/bibtex-completion-20211019.1306.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:54 packages/bibtex-completion-badge.svg
+4.0K -rw-r--r-- 1 root root  185 Oct 22 18:54 packages/bibtex-completion-readme.txt

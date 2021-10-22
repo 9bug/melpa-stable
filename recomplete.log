@@ -1,0 +1,13 @@
+Package: recomplete
+Fetcher: gitlab
+Source:  https://gitlab.com/ideasman42/emacs-recomplete.git
+
+Updating /mnt/store/melpa/working/recomplete/
+Checking out origin/HEAD
+Checking out 8b794d194799468443252d9a54489b5beb01eb76
+Built recomplete in 5.857s, finished at 2021-10-22T16:16:50+0000
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  22K Oct 22 16:16 packages/recomplete-20211006.1406.el
+4.0K -rw-r--r-- 1 root root  380 Oct 22 16:16 packages/recomplete-20211006.1406.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:16 packages/recomplete-badge.svg
+4.0K -rw-r--r-- 1 root root  430 Oct 22 16:16 packages/recomplete-readme.txt

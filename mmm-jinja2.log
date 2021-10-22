@@ -1,0 +1,13 @@
+Package: mmm-jinja2
+Fetcher: github
+Source:  https://github.com/glynnforrest/mmm-jinja2.git
+
+Updating /mnt/store/melpa/working/mmm-jinja2/
+Checking out origin/HEAD
+Checking out c8cb763174fa2fb61b9a0e5e0ff8cb0210f8492f
+Built mmm-jinja2 in 5.546s, finished at 2021-10-22T15:56:25+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.7K Oct 22 15:56 packages/mmm-jinja2-20170313.1420.el
+4.0K -rw-r--r-- 1 root root  374 Oct 22 15:56 packages/mmm-jinja2-20170313.1420.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:56 packages/mmm-jinja2-badge.svg
+4.0K -rw-r--r-- 1 root root   75 Oct 22 15:56 packages/mmm-jinja2-readme.txt

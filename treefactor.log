@@ -1,0 +1,13 @@
+Package: treefactor
+Fetcher: github
+Source:  https://github.com/cyberthal/treefactor.git
+
+Updating /mnt/store/melpa/working/treefactor/
+Checking out origin/HEAD
+Checking out 75357757022a4399ab772ff0d92065bd114dabe9
+Built treefactor in 5.356s, finished at 2021-10-22T16:29:09+0000
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  25K Oct 22 16:29 packages/treefactor-20200516.1631.el
+4.0K -rw-r--r-- 1 root root  552 Oct 22 16:29 packages/treefactor-20200516.1631.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:29 packages/treefactor-badge.svg
+4.0K -rw-r--r-- 1 root root  271 Oct 22 16:29 packages/treefactor-readme.txt

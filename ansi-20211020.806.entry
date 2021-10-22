@@ -1,0 +1,13 @@
+(ansi .
+      [(20211020 806)
+       ((emacs
+	 (24 1))
+	(cl-lib
+	 (0 6)))
+       "Turn string into ansi strings" single
+       ((:commit . "e48e22494aece64fb0a743f45fa63beadf507703")
+	(:authors
+	 ("Johan Andersson" . "johan.rejeep@gmail.com"))
+	(:maintainer "Johan Andersson" . "johan.rejeep@gmail.com")
+	(:keywords "terminals" "color" "ansi")
+	(:url . "http://github.com/rejeep/ansi"))])

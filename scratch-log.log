@@ -1,0 +1,14 @@
+Package: scratch-log
+Fetcher: github
+Source:  https://github.com/mori-dev/scratch-log.git
+
+Updating /mnt/store/melpa/working/scratch-log/
+Checking out origin/HEAD
+Checking out 1168f7f16d36ca0f4ddf2bb98881f8db62cc5dc0
+Note: scratch-log :files spec is equivalent to the default.
+Built scratch-log in 5.366s, finished at 2021-10-22T16:19:27+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.9K Oct 22 16:19 packages/scratch-log-20141115.743.el
+4.0K -rw-r--r-- 1 root root  272 Oct 22 16:19 packages/scratch-log-20141115.743.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:19 packages/scratch-log-badge.svg
+4.0K -rw-r--r-- 1 root root  170 Oct 22 16:19 packages/scratch-log-readme.txt

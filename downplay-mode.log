@@ -1,0 +1,13 @@
+Package: downplay-mode
+Fetcher: github
+Source:  https://github.com/tobias/downplay-mode.git
+
+Updating /mnt/store/melpa/working/downplay-mode/
+Checking out origin/HEAD
+Checking out 4a2c3addc73c8ca3816345c3c11c08af265baedb
+Built downplay-mode in 6.633s, finished at 2021-10-22T19:09:45+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 4.5K Oct 22 19:09 packages/downplay-mode-20151125.2009.el
+4.0K -rw-r--r-- 1 root root  326 Oct 22 19:09 packages/downplay-mode-20151125.2009.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:09 packages/downplay-mode-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:09 packages/downplay-mode-readme.txt

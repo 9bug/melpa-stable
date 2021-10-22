@@ -1,0 +1,13 @@
+(company-ledger .
+		[(20210910 250)
+		 ((emacs
+		   (24 3))
+		  (company
+		   (0 8 0)))
+		 "Fuzzy auto-completion for Ledger & friends" single
+		 ((:commit . "c6911b7e39b29c0d5f2541392ff485b0f53fd366")
+		  (:authors
+		   ("Debanjum Singh Solanky <debanjum AT gmail DOT com>"))
+		  (:maintainer "Debanjum Singh Solanky <debanjum AT gmail DOT com>")
+		  (:keywords "abbrev" "matching" "auto-complete" "beancount" "ledger" "company")
+		  (:url . "https://github.com/debanjum/company-ledger"))])

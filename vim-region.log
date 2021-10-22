@@ -1,0 +1,13 @@
+Package: vim-region
+Fetcher: github
+Source:  https://github.com/ongaeshi/emacs-vim-region.git
+
+Updating /mnt/store/melpa/working/vim-region/
+Checking out origin/HEAD
+Checking out 7c4a99ce3678fee40c83ab88e8ad075d2a935fdf
+Built vim-region in 5.660s, finished at 2021-10-22T16:31:42+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.2K Oct 22 16:31 packages/vim-region-20140329.1624.el
+4.0K -rw-r--r-- 1 root root  368 Oct 22 16:31 packages/vim-region-20140329.1624.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:31 packages/vim-region-badge.svg
+4.0K -rw-r--r-- 1 root root  134 Oct 22 16:31 packages/vim-region-readme.txt

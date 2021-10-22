@@ -1,0 +1,13 @@
+Package: transwin
+Fetcher: github
+Source:  https://github.com/jcs-elpa/transwin.git
+
+Updating /mnt/store/melpa/working/transwin/
+Checking out origin/HEAD
+Checking out a31c7aae9d48edfcd10ccefc7b513214d6ddfb29
+Built transwin in 5.970s, finished at 2021-10-22T16:28:59+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.0K Oct 22 16:28 packages/transwin-20200910.1636.el
+4.0K -rw-r--r-- 1 root root  345 Oct 22 16:28 packages/transwin-20200910.1636.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:28 packages/transwin-badge.svg
+4.0K -rw-r--r-- 1 root root   32 Oct 22 16:28 packages/transwin-readme.txt

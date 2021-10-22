@@ -1,0 +1,10 @@
+(indent-control .
+		[(20210508 309)
+		 ((emacs
+		   (26 1)))
+		 "Management for indentation level" single
+		 ((:commit . "ed99e867f81ef69854182b519db1b9141fcdb2a2")
+		  (:authors
+		   ("Shen, Jen-Chieh" . "jcs090218@gmail.com"))
+		  (:maintainer "Shen, Jen-Chieh" . "jcs090218@gmail.com")
+		  (:url . "https://github.com/jcs-elpa/indent-control"))])

@@ -1,0 +1,35 @@
+Package: sniem
+Fetcher: github
+Source:  https://github.com/SpringHan/sniem.git
+
+Updating /mnt/store/melpa/working/sniem/
+Checking out origin/HEAD
+Checking out 4d921b6e9c98fa208578b2b409e627580d1ab8c2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sniem/
+  to /tmp/sniemhCB3iG/sniem-20210826.832
+    sniem-cheatsheet.el -> sniem-cheatsheet.el
+    sniem-common.el -> sniem-common.el
+    sniem-macro.el -> sniem-macro.el
+    sniem-mark-jump.el -> sniem-mark-jump.el
+    sniem-object-catch.el -> sniem-object-catch.el
+    sniem-operation.el -> sniem-operation.el
+    sniem-var.el -> sniem-var.el
+    sniem.el -> sniem.el
+Created sniem-20210826.832.tar containing:
+  sniem-20210826.832/
+  sniem-20210826.832/sniem-cheatsheet.el
+  sniem-20210826.832/sniem-common.el
+  sniem-20210826.832/sniem-macro.el
+  sniem-20210826.832/sniem-mark-jump.el
+  sniem-20210826.832/sniem-object-catch.el
+  sniem-20210826.832/sniem-operation.el
+  sniem-20210826.832/sniem-pkg.el
+  sniem-20210826.832/sniem-var.el
+  sniem-20210826.832/sniem.el
+Built sniem in 6.184s, finished at 2021-10-22T16:23:07+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  350 Oct 22 16:23 packages/sniem-20210826.832.entry
+160K -rw-r--r-- 1 root root 160K Oct 22 16:23 packages/sniem-20210826.832.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:23 packages/sniem-badge.svg
+4.0K -rw-r--r-- 1 root root   30 Oct 22 16:23 packages/sniem-readme.txt

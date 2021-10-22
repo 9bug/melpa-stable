@@ -1,0 +1,33 @@
+Package: timonier
+Fetcher: github
+Source:  https://github.com/nlamirault/timonier.git
+
+Updating /mnt/store/melpa/working/timonier/
+Checking out origin/HEAD
+Checking out 0a150ea87bf695b43cf1740dfd7e553e0ae7601c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/timonier/
+  to /tmp/timonierI117mh/timonier-20170411.800
+    timonier-custom.el -> timonier-custom.el
+    timonier-io.el -> timonier-io.el
+    timonier-k8s.el -> timonier-k8s.el
+    timonier-mode.el -> timonier-mode.el
+    timonier-utils.el -> timonier-utils.el
+    timonier-version.el -> timonier-version.el
+    timonier.el -> timonier.el
+Created timonier-20170411.800.tar containing:
+  timonier-20170411.800/
+  timonier-20170411.800/timonier-custom.el
+  timonier-20170411.800/timonier-io.el
+  timonier-20170411.800/timonier-k8s.el
+  timonier-20170411.800/timonier-mode.el
+  timonier-20170411.800/timonier-pkg.el
+  timonier-20170411.800/timonier-utils.el
+  timonier-20170411.800/timonier-version.el
+  timonier-20170411.800/timonier.el
+Built timonier in 4.741s, finished at 2021-10-22T16:28:10+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  600 Oct 22 16:28 packages/timonier-20170411.800.entry
+ 40K -rw-r--r-- 1 root root  40K Oct 22 16:28 packages/timonier-20170411.800.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:28 packages/timonier-badge.svg
+4.0K -rw-r--r-- 1 root root  177 Oct 22 16:28 packages/timonier-readme.txt

@@ -1,0 +1,13 @@
+Package: evil-tex
+Fetcher: github
+Source:  https://github.com/iyefrat/evil-tex.git
+
+Updating /mnt/store/melpa/working/evil-tex/
+Checking out origin/HEAD
+Checking out aa0ddf8e768a24cda6d50d07f04c8e7813a2dccd
+Built evil-tex in 5.350s, finished at 2021-10-22T15:25:32+0000
+ ✓ Success:
+ 48K -rw-r--r-- 1 root root  48K Oct 22 15:25 packages/evil-tex-20210731.927.el
+4.0K -rw-r--r-- 1 root root  337 Oct 22 15:25 packages/evil-tex-20210731.927.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:25 packages/evil-tex-badge.svg
+4.0K -rw-r--r-- 1 root root   49 Oct 22 15:25 packages/evil-tex-readme.txt

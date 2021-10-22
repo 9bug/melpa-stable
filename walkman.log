@@ -1,0 +1,13 @@
+Package: walkman
+Fetcher: github
+Source:  https://github.com/abrochard/walkman.git
+
+Updating /mnt/store/melpa/working/walkman/
+Checking out origin/HEAD
+Checking out 00b4fd5cae7fe27085995dbb178828fb765c7edc
+Built walkman in 6.055s, finished at 2021-10-22T16:32:26+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  15K Oct 22 16:32 packages/walkman-20201229.1811.el
+4.0K -rw-r--r-- 1 root root  423 Oct 22 16:32 packages/walkman-20201229.1811.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:32 packages/walkman-badge.svg
+4.0K -rw-r--r-- 1 root root   67 Oct 22 16:32 packages/walkman-readme.txt

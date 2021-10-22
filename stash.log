@@ -1,0 +1,13 @@
+Package: stash
+Fetcher: github
+Source:  https://github.com/vermiculus/stash.el.git
+
+Updating /mnt/store/melpa/working/stash/
+Checking out origin/HEAD
+Checking out c2e494d20c752b80ebbdffbf66687b3cdfc425ad
+Built stash in 6.426s, finished at 2021-10-22T16:24:42+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.5K Oct 22 16:24 packages/stash-20151117.1427.el
+4.0K -rw-r--r-- 1 root root  357 Oct 22 16:24 packages/stash-20151117.1427.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:24 packages/stash-badge.svg
+4.0K -rw-r--r-- 1 root root  933 Oct 22 16:24 packages/stash-readme.txt

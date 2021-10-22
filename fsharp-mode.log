@@ -1,0 +1,28 @@
+Package: fsharp-mode
+Fetcher: github
+Source:  https://github.com/fsharp/emacs-fsharp-mode.git
+
+Updating /mnt/store/melpa/working/fsharp-mode/
+Checking out origin/HEAD
+Checking out 3d3b977b0fc36dbde0e2a66adf6f93b829e4fce4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fsharp-mode/
+  to /tmp/fsharp-modejJkOSa/fsharp-mode-20211020.1758
+    fsharp-mode-font.el -> fsharp-mode-font.el
+    fsharp-mode-structure.el -> fsharp-mode-structure.el
+    fsharp-mode-util.el -> fsharp-mode-util.el
+    fsharp-mode.el -> fsharp-mode.el
+    inf-fsharp-mode.el -> inf-fsharp-mode.el
+Created fsharp-mode-20211020.1758.tar containing:
+  fsharp-mode-20211020.1758/
+  fsharp-mode-20211020.1758/fsharp-mode-font.el
+  fsharp-mode-20211020.1758/fsharp-mode-pkg.el
+  fsharp-mode-20211020.1758/fsharp-mode-structure.el
+  fsharp-mode-20211020.1758/fsharp-mode-util.el
+  fsharp-mode-20211020.1758/fsharp-mode.el
+  fsharp-mode-20211020.1758/inf-fsharp-mode.el
+Built fsharp-mode in 6.906s, finished at 2021-10-22T15:32:22+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  512 Oct 22 15:32 packages/fsharp-mode-20211020.1758.entry
+120K -rw-r--r-- 1 root root 120K Oct 22 15:32 packages/fsharp-mode-20211020.1758.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:32 packages/fsharp-mode-badge.svg

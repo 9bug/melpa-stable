@@ -1,0 +1,25 @@
+Package: nclip
+Fetcher: github
+Source:  https://github.com/maio/nclip.el.git
+
+Updating /mnt/store/melpa/working/nclip/
+Checking out origin/HEAD
+Checking out af88e38b1f04be02bf2e57affc662dbd0f828e67
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nclip/
+  to /tmp/nclipKhnGOZ/nclip-20130617.2015
+    nclip.el -> nclip.el
+    nclip.rb -> nclip.rb
+    nclip.py -> nclip.py
+Created nclip-20130617.2015.tar containing:
+  nclip-20130617.2015/
+  nclip-20130617.2015/nclip-pkg.el
+  nclip-20130617.2015/nclip.el
+  nclip-20130617.2015/nclip.py
+  nclip-20130617.2015/nclip.rb
+Built nclip in 5.514s, finished at 2021-10-22T15:59:23+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  352 Oct 22 15:59 packages/nclip-20130617.2015.entry
+ 12K -rw-r--r-- 1 root root  10K Oct 22 15:59 packages/nclip-20130617.2015.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:59 packages/nclip-badge.svg
+4.0K -rw-r--r-- 1 root root  470 Oct 22 15:59 packages/nclip-readme.txt

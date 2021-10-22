@@ -1,0 +1,13 @@
+Package: helm-unicode
+Fetcher: github
+Source:  https://github.com/bomgar/helm-unicode.git
+
+Updating /mnt/store/melpa/working/helm-unicode/
+Checking out origin/HEAD
+Checking out fbeb0c5e741a6f462520884b744d43a9acbe1d34
+Built helm-unicode in 7.370s, finished at 2021-10-22T15:41:18+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 2.7K Oct 22 15:41 packages/helm-unicode-20180608.1407.el
+4.0K -rw-r--r-- 1 root root  209 Oct 22 15:41 packages/helm-unicode-20180608.1407.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:41 packages/helm-unicode-badge.svg
+4.0K -rw-r--r-- 1 root root   63 Oct 22 15:41 packages/helm-unicode-readme.txt

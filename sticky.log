@@ -1,0 +1,13 @@
+Package: sticky
+Fetcher: github
+Source:  https://github.com/rubikitch/sticky.git
+
+Updating /mnt/store/melpa/working/sticky/
+Checking out origin/HEAD
+Checking out fec4e1af38f17f5cd80eca361d8e8ef8772db366
+Built sticky in 6.865s, finished at 2021-10-22T16:24:53+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 6.3K Oct 22 16:24 packages/sticky-20170926.36.el
+4.0K -rw-r--r-- 1 root root  350 Oct 22 16:24 packages/sticky-20170926.36.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:24 packages/sticky-badge.svg
+4.0K -rw-r--r-- 1 root root  153 Oct 22 16:24 packages/sticky-readme.txt

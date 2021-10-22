@@ -1,0 +1,12 @@
+(hass .
+      [(20210913 2051)
+       ((emacs
+	 (25 1))
+	(request
+	 (0 3 3)))
+       "Interact with Home Assistant" single
+       ((:commit . "f7a24c34631aa09fb7bc5bd13e8e4037e256730a")
+	(:authors
+	 ("Ben Whitley"))
+	(:maintainer "Ben Whitley")
+	(:url . "https://github.com/purplg/hass"))])

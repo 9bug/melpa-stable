@@ -1,0 +1,13 @@
+Package: windwow
+Fetcher: github
+Source:  https://github.com/vijumathew/windwow.git
+
+Updating /mnt/store/melpa/working/windwow/
+Checking out origin/HEAD
+Checking out 77bad26f651744b68d31b389389147014d250f23
+Built windwow in 5.967s, finished at 2021-10-22T16:34:10+0000
+ ✓ Success:
+ 24K -rw-r--r-- 1 root root  23K Oct 22 16:34 packages/windwow-20170816.148.el
+4.0K -rw-r--r-- 1 root root  387 Oct 22 16:34 packages/windwow-20170816.148.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:34 packages/windwow-badge.svg
+4.0K -rw-r--r-- 1 root root  942 Oct 22 16:34 packages/windwow-readme.txt

@@ -1,0 +1,13 @@
+Package: see-mode
+Fetcher: github
+Source:  https://github.com/marcelino-m/see-mode.git
+
+Updating /mnt/store/melpa/working/see-mode/
+Checking out origin/HEAD
+Checking out b6e72ea90105b03816c334be9e43bb41dcc79abf
+Built see-mode in 5.706s, finished at 2021-10-22T16:19:45+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  18K Oct 22 16:19 packages/see-mode-20180511.41.el
+4.0K -rw-r--r-- 1 root root  429 Oct 22 16:19 packages/see-mode-20180511.41.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:19 packages/see-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  121 Oct 22 16:19 packages/see-mode-readme.txt

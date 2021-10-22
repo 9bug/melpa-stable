@@ -1,0 +1,13 @@
+Package: scratch-ext
+Fetcher: github
+Source:  https://github.com/kyanagi/scratch-ext-el.git
+
+Updating /mnt/store/melpa/working/scratch-ext/
+Checking out origin/HEAD
+Checking out 388c53cddd0466b451264894667ed64a6947ad67
+Built scratch-ext in 5.320s, finished at 2021-10-22T16:19:27+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.8K Oct 22 16:19 packages/scratch-ext-20140104.516.el
+4.0K -rw-r--r-- 1 root root  338 Oct 22 16:19 packages/scratch-ext-20140104.516.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:19 packages/scratch-ext-badge.svg
+4.0K -rw-r--r-- 1 root root  317 Oct 22 16:19 packages/scratch-ext-readme.txt

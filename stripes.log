@@ -1,0 +1,13 @@
+Package: stripes
+Fetcher: gitlab
+Source:  https://gitlab.com/stepnem/stripes-el.git
+
+Updating /mnt/store/melpa/working/stripes/
+Checking out origin/HEAD
+Checking out 7b1d501f44b697a0514ef6759fd126d65867f18d
+Built stripes in 5.938s, finished at 2021-10-22T16:25:09+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root 3.7K Oct 22 16:25 packages/stripes-20200330.2022.el
+4.0K -rw-r--r-- 1 root root  432 Oct 22 16:25 packages/stripes-20200330.2022.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:25 packages/stripes-badge.svg
+4.0K -rw-r--r-- 1 root root 1.1K Oct 22 16:25 packages/stripes-readme.txt

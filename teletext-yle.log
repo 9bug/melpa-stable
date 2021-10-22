@@ -1,0 +1,13 @@
+Package: teletext-yle
+Fetcher: github
+Source:  https://github.com/lassik/emacs-teletext-yle.git
+
+Updating /mnt/store/melpa/working/teletext-yle/
+Checking out origin/HEAD
+Checking out 9c8f4b503923c4ec688e2dcc9dff62d71bc55933
+Built teletext-yle in 11.697s, finished at 2021-10-22T16:26:53+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K Oct 22 16:26 packages/teletext-yle-20210927.825.el
+4.0K -rw-r--r-- 1 root root  427 Oct 22 16:26 packages/teletext-yle-20210927.825.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:26 packages/teletext-yle-badge.svg
+4.0K -rw-r--r-- 1 root root  538 Oct 22 16:26 packages/teletext-yle-readme.txt

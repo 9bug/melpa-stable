@@ -1,0 +1,13 @@
+Package: py-smart-operator
+Fetcher: github
+Source:  https://github.com/rmuslimov/py-smart-operator.git
+
+Updating /mnt/store/melpa/working/py-smart-operator/
+Checking out origin/HEAD
+Checking out 0c8a66faca4b35158d0b5885472cb75286039167
+Built py-smart-operator in 5.784s, finished at 2021-10-22T16:14:34+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.1K Oct 22 16:14 packages/py-smart-operator-20170531.1209.el
+4.0K -rw-r--r-- 1 root root  376 Oct 22 16:14 packages/py-smart-operator-20170531.1209.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:14 packages/py-smart-operator-badge.svg
+4.0K -rw-r--r-- 1 root root  313 Oct 22 16:14 packages/py-smart-operator-readme.txt

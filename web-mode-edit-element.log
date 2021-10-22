@@ -1,0 +1,27 @@
+Package: web-mode-edit-element
+Fetcher: github
+Source:  https://github.com/jtkDvlp/web-mode-edit-element.git
+
+Updating /mnt/store/melpa/working/web-mode-edit-element/
+Checking out origin/HEAD
+Checking out ad5d7e4dc2420bdd00ce65d9adffbd38a5904afa
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/web-mode-edit-element/
+  to /tmp/web-mode-edit-element1MaFXX/web-mode-edit-element-20190531.852
+    web-mode-edit-element-attributes.el -> web-mode-edit-element-attributes.el
+    web-mode-edit-element-elements.el -> web-mode-edit-element-elements.el
+    web-mode-edit-element-utils.el -> web-mode-edit-element-utils.el
+    web-mode-edit-element.el -> web-mode-edit-element.el
+Created web-mode-edit-element-20190531.852.tar containing:
+  web-mode-edit-element-20190531.852/
+  web-mode-edit-element-20190531.852/web-mode-edit-element-attributes.el
+  web-mode-edit-element-20190531.852/web-mode-edit-element-elements.el
+  web-mode-edit-element-20190531.852/web-mode-edit-element-pkg.el
+  web-mode-edit-element-20190531.852/web-mode-edit-element-utils.el
+  web-mode-edit-element-20190531.852/web-mode-edit-element.el
+Built web-mode-edit-element in 8.093s, finished at 2021-10-22T16:33:13+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  478 Oct 22 16:33 packages/web-mode-edit-element-20190531.852.entry
+ 20K -rw-r--r-- 1 root root  20K Oct 22 16:33 packages/web-mode-edit-element-20190531.852.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:33 packages/web-mode-edit-element-badge.svg
+4.0K -rw-r--r-- 1 root root  752 Oct 22 16:33 packages/web-mode-edit-element-readme.txt

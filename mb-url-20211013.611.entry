@@ -1,0 +1,11 @@
+(mb-url .
+	[(20211013 611)
+	 ((emacs
+	   (24 4)))
+	 "Multiple Backends for Emacs URL package" tar
+	 ((:commit . "f6b608db585231eee231d5473edcf4183bb678fe")
+	  (:authors
+	   ("ZHANG Weiyi" . "dochang@gmail.com"))
+	  (:maintainer "ZHANG Weiyi" . "dochang@gmail.com")
+	  (:keywords "comm" "data" "processes" "hypermedia")
+	  (:url . "https://github.com/dochang/mb-url"))])

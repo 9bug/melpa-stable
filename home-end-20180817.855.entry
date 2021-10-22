@@ -1,0 +1,13 @@
+(home-end .
+	  [(20180817 855)
+	   ((emacs
+	     (24 3))
+	    (keypress-multi-event
+	     (1 0)))
+	   "Smart multi-purpose home / end keys" single
+	   ((:commit . "fbddad2c1268720ce17662a232b48f666e489526")
+	    (:authors
+	     ("Boruch Baum" . "boruch_baum@gmx.com"))
+	    (:maintainer "Boruch Baum" . "boruch_baum@gmx.com")
+	    (:keywords "abbrev" "convenience" "wp" "keyboard")
+	    (:url . "https://www.github.com/Boruch_Baum/emacs-home-end"))])

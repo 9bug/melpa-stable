@@ -1,0 +1,23 @@
+Package: suggest
+Fetcher: github
+Source:  https://github.com/Wilfred/suggest.el.git
+
+Updating /mnt/store/melpa/working/suggest/
+Checking out origin/HEAD
+Checking out 83a2679baf661ee834e9e75921fd546243a6d919
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/suggest/
+  to /tmp/suggestW3kJrn/suggest-20180916.1859
+    suggest-bench.el -> suggest-bench.el
+    suggest.el -> suggest.el
+Created suggest-20180916.1859.tar containing:
+  suggest-20180916.1859/
+  suggest-20180916.1859/suggest-bench.el
+  suggest-20180916.1859/suggest-pkg.el
+  suggest-20180916.1859/suggest.el
+Built suggest in 5.155s, finished at 2021-10-22T16:25:24+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  498 Oct 22 16:25 packages/suggest-20180916.1859.entry
+ 40K -rw-r--r-- 1 root root  40K Oct 22 16:25 packages/suggest-20180916.1859.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:25 packages/suggest-badge.svg
+4.0K -rw-r--r-- 1 root root  132 Oct 22 16:25 packages/suggest-readme.txt

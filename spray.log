@@ -1,0 +1,13 @@
+Package: spray
+Fetcher: git
+Source:  https://git.sr.ht/~iank/spray
+
+Updating /mnt/store/melpa/working/spray/
+Checking out origin/HEAD
+Checking out 74d9dcfa2e8b38f96a43de9ab0eb13364300cb46
+Built spray in 6.175s, finished at 2021-10-22T16:24:09+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root  11K Oct 22 16:24 packages/spray-20160304.2220.el
+4.0K -rw-r--r-- 1 root root  314 Oct 22 16:24 packages/spray-20160304.2220.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:24 packages/spray-badge.svg
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:24 packages/spray-readme.txt

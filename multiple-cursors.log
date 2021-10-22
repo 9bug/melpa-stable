@@ -1,0 +1,38 @@
+Package: multiple-cursors
+Fetcher: github
+Source:  https://github.com/magnars/multiple-cursors.el.git
+
+Updating /mnt/store/melpa/working/multiple-cursors/
+Checking out origin/HEAD
+Checking out 588daf8c520f4545323e36b8900f02693ddcf5d3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/multiple-cursors/
+  to /tmp/multiple-cursorsP8JEIH/multiple-cursors-20210323.1128
+    mc-cycle-cursors.el -> mc-cycle-cursors.el
+    mc-edit-lines.el -> mc-edit-lines.el
+    mc-hide-unmatched-lines-mode.el -> mc-hide-unmatched-lines-mode.el
+    mc-mark-more.el -> mc-mark-more.el
+    mc-mark-pop.el -> mc-mark-pop.el
+    mc-separate-operations.el -> mc-separate-operations.el
+    multiple-cursors-core.el -> multiple-cursors-core.el
+    multiple-cursors-pkg.el -> multiple-cursors-pkg.el
+    multiple-cursors.el -> multiple-cursors.el
+    rectangular-region-mode.el -> rectangular-region-mode.el
+Created multiple-cursors-20210323.1128.tar containing:
+  multiple-cursors-20210323.1128/
+  multiple-cursors-20210323.1128/mc-cycle-cursors.el
+  multiple-cursors-20210323.1128/mc-edit-lines.el
+  multiple-cursors-20210323.1128/mc-hide-unmatched-lines-mode.el
+  multiple-cursors-20210323.1128/mc-mark-more.el
+  multiple-cursors-20210323.1128/mc-mark-pop.el
+  multiple-cursors-20210323.1128/mc-separate-operations.el
+  multiple-cursors-20210323.1128/multiple-cursors-core.el
+  multiple-cursors-20210323.1128/multiple-cursors-pkg.el
+  multiple-cursors-20210323.1128/multiple-cursors.el
+  multiple-cursors-20210323.1128/rectangular-region-mode.el
+Built multiple-cursors in 11.881s, finished at 2021-10-22T15:58:21+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  395 Oct 22 15:58 packages/multiple-cursors-20210323.1128.entry
+112K -rw-r--r-- 1 root root 110K Oct 22 15:58 packages/multiple-cursors-20210323.1128.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 15:58 packages/multiple-cursors-badge.svg
+8.0K -rw-r--r-- 1 root root 7.3K Oct 22 15:58 packages/multiple-cursors-readme.txt

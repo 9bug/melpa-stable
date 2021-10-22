@@ -1,0 +1,13 @@
+Package: rfc-mode
+Fetcher: github
+Source:  https://github.com/galdor/rfc-mode.git
+
+Updating /mnt/store/melpa/working/rfc-mode/
+Checking out origin/HEAD
+Checking out 3ef663203b157e7c5b2cd3c425ec8fbe7977a24c
+Built rfc-mode in 5.716s, finished at 2021-10-22T16:17:48+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  20K Oct 22 16:17 packages/rfc-mode-20210615.1721.el
+4.0K -rw-r--r-- 1 root root  347 Oct 22 16:17 packages/rfc-mode-20210615.1721.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:17 packages/rfc-mode-badge.svg
+4.0K -rw-r--r-- 1 root root   61 Oct 22 16:17 packages/rfc-mode-readme.txt

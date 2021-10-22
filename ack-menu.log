@@ -1,0 +1,13 @@
+Package: ack-menu
+Fetcher: github
+Source:  https://github.com/chumpage/ack-menu.git
+
+Updating /mnt/store/melpa/working/ack-menu/
+Checking out origin/HEAD
+Checking out f77be93a4697926ecf3195a355eb69580f695f4d
+Built ack-menu in 7.834s, finished at 2021-10-22T18:49:24+0000
+ ✓ Success:
+ 36K -rw-r--r-- 1 root root  33K Oct 22 18:49 packages/ack-menu-20150504.2022.el
+4.0K -rw-r--r-- 1 root root  377 Oct 22 18:49 packages/ack-menu-20150504.2022.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:49 packages/ack-menu-badge.svg
+4.0K -rw-r--r-- 1 root root  262 Oct 22 18:49 packages/ack-menu-readme.txt

@@ -1,0 +1,13 @@
+Package: stock-ticker
+Fetcher: github
+Source:  https://github.com/hagleitn/stock-ticker.git
+
+Updating /mnt/store/melpa/working/stock-ticker/
+Checking out origin/HEAD
+Checking out f2e564142c9de84232839a5b01979cf95b04d6a9
+Built stock-ticker in 6.557s, finished at 2021-10-22T16:24:57+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 5.5K Oct 22 16:24 packages/stock-ticker-20150204.1052.el
+4.0K -rw-r--r-- 1 root root  355 Oct 22 16:24 packages/stock-ticker-20150204.1052.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:24 packages/stock-ticker-badge.svg
+4.0K -rw-r--r-- 1 root root  274 Oct 22 16:24 packages/stock-ticker-readme.txt

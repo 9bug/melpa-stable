@@ -1,0 +1,37 @@
+Package: vlf
+Fetcher: github
+Source:  https://github.com/m00natic/vlfi.git
+
+Updating /mnt/store/melpa/working/vlf/
+Checking out origin/HEAD
+Checking out cc02f2533782d6b9b628cec7e2dcf25b2d05a27c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vlf/
+  to /tmp/vlfqzUBMm/vlf-20191126.2250
+    vlf-base.el -> vlf-base.el
+    vlf-ediff.el -> vlf-ediff.el
+    vlf-follow.el -> vlf-follow.el
+    vlf-occur.el -> vlf-occur.el
+    vlf-search.el -> vlf-search.el
+    vlf-setup.el -> vlf-setup.el
+    vlf-tune.el -> vlf-tune.el
+    vlf-write.el -> vlf-write.el
+    vlf.el -> vlf.el
+Created vlf-20191126.2250.tar containing:
+  vlf-20191126.2250/
+  vlf-20191126.2250/vlf-base.el
+  vlf-20191126.2250/vlf-ediff.el
+  vlf-20191126.2250/vlf-follow.el
+  vlf-20191126.2250/vlf-occur.el
+  vlf-20191126.2250/vlf-pkg.el
+  vlf-20191126.2250/vlf-search.el
+  vlf-20191126.2250/vlf-setup.el
+  vlf-20191126.2250/vlf-tune.el
+  vlf-20191126.2250/vlf-write.el
+  vlf-20191126.2250/vlf.el
+Built vlf in 5.100s, finished at 2021-10-22T16:31:55+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  288 Oct 22 16:31 packages/vlf-20191126.2250.entry
+140K -rw-r--r-- 1 root root 140K Oct 22 16:31 packages/vlf-20191126.2250.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:31 packages/vlf-badge.svg
+4.0K -rw-r--r-- 1 root root  438 Oct 22 16:31 packages/vlf-readme.txt

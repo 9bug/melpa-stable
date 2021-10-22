@@ -1,0 +1,13 @@
+(magma-mode .
+	    [(20211018 917)
+	     ((emacs
+	       (24 3))
+	      (cl-lib
+	       (0 3))
+	      (dash
+	       (2 6 0))
+	      (f
+	       (0 17 1)))
+	     "Mode for editing Magma source code" tar
+	     ((:commit . "dd784445bc8cddf4a3ebe0f60009bed1f722f597")
+	      (:url . "https://github.com/ThibautVerron/magma-mode"))])

@@ -1,0 +1,5 @@
+Package: ercn
+Fetcher: github
+Source:  https://github.com/leathekd/ercn.git
+
+Updating /mnt/store/melpa/working/ercn/

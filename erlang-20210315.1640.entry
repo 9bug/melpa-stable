@@ -1,0 +1,10 @@
+(erlang .
+	[(20210315 1640)
+	 ((emacs
+	   (24 1)))
+	 "Erlang major mode" tar
+	 ((:commit . "f7d00dd023b15ab787a5f420a263dd320914213a")
+	  (:authors
+	   ("Anders Lindgren"))
+	  (:maintainer "Anders Lindgren")
+	  (:keywords "erlang" "languages" "processes"))])

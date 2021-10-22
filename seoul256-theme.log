@@ -1,0 +1,13 @@
+Package: seoul256-theme
+Fetcher: github
+Source:  https://github.com/anandpiyer/seoul256-emacs.git
+
+Updating /mnt/store/melpa/working/seoul256-theme/
+Checking out origin/HEAD
+Checking out d28a9de73a5ffb1a1c9492db75a5c1efe5e9815f
+Built seoul256-theme in 6.331s, finished at 2021-10-22T16:20:03+0000
+ ✓ Success:
+ 20K -rw-r--r-- 1 root root  19K Oct 22 16:20 packages/seoul256-theme-20180505.757.el
+4.0K -rw-r--r-- 1 root root  381 Oct 22 16:20 packages/seoul256-theme-20180505.757.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:20 packages/seoul256-theme-badge.svg
+4.0K -rw-r--r-- 1 root root  244 Oct 22 16:20 packages/seoul256-theme-readme.txt

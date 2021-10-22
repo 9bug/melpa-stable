@@ -1,0 +1,13 @@
+Package: ammonite-term-repl
+Fetcher: github
+Source:  https://github.com/zwild/ammonite-term-repl.git
+
+Updating /mnt/store/melpa/working/ammonite-term-repl/
+Checking out origin/HEAD
+Checking out b552fe21977e005c1c460bf6607557e67241a6b6
+Built ammonite-term-repl in 6.718s, finished at 2021-10-22T18:50:28+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 9.7K Oct 22 18:50 packages/ammonite-term-repl-20200416.559.el
+4.0K -rw-r--r-- 1 root root  498 Oct 22 18:50 packages/ammonite-term-repl-20200416.559.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:50 packages/ammonite-term-repl-badge.svg
+4.0K -rw-r--r-- 1 root root  205 Oct 22 18:50 packages/ammonite-term-repl-readme.txt

@@ -1,0 +1,13 @@
+Package: pulseaudio-control
+Fetcher: github
+Source:  https://github.com/flexibeast/pulseaudio-control.git
+
+Updating /mnt/store/melpa/working/pulseaudio-control/
+Checking out origin/HEAD
+Checking out a931533140547510decdc368f39b2d2b97ca725f
+Built pulseaudio-control in 6.880s, finished at 2021-10-22T16:14:11+0000
+ ✓ Success:
+ 28K -rw-r--r-- 1 root root  26K Oct 22 16:14 packages/pulseaudio-control-20200406.752.el
+4.0K -rw-r--r-- 1 root root  535 Oct 22 16:14 packages/pulseaudio-control-20200406.752.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:14 packages/pulseaudio-control-badge.svg
+4.0K -rw-r--r-- 1 root root 2.7K Oct 22 16:14 packages/pulseaudio-control-readme.txt

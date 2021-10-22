@@ -1,0 +1,63 @@
+Package: symex
+Fetcher: github
+Source:  https://github.com/countvajhula/symex.el.git
+
+Updating /mnt/store/melpa/working/symex/
+Checking out origin/HEAD
+Checking out 6dab41cf72fb5f25e0de30fde64fee960944a604
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/symex/
+  to /tmp/symexrOw4fi/symex-20211016.51
+    symex-computations.el -> symex-computations.el
+    symex-custom.el -> symex-custom.el
+    symex-data.el -> symex-data.el
+    symex-dsl.el -> symex-dsl.el
+    symex-evaluator.el -> symex-evaluator.el
+    symex-evil-support.el -> symex-evil-support.el
+    symex-evil.el -> symex-evil.el
+    symex-hydra.el -> symex-hydra.el
+    symex-interface-arc.el -> symex-interface-arc.el
+    symex-interface-clojure.el -> symex-interface-clojure.el
+    symex-interface-common-lisp.el -> symex-interface-common-lisp.el
+    symex-interface-elisp.el -> symex-interface-elisp.el
+    symex-interface-racket.el -> symex-interface-racket.el
+    symex-interface-scheme.el -> symex-interface-scheme.el
+    symex-interop.el -> symex-interop.el
+    symex-misc.el -> symex-misc.el
+    symex-primitives.el -> symex-primitives.el
+    symex-transformations.el -> symex-transformations.el
+    symex-traversals.el -> symex-traversals.el
+    symex-ui.el -> symex-ui.el
+    symex-utils.el -> symex-utils.el
+    symex.el -> symex.el
+Created symex-20211016.51.tar containing:
+  symex-20211016.51/
+  symex-20211016.51/symex-computations.el
+  symex-20211016.51/symex-custom.el
+  symex-20211016.51/symex-data.el
+  symex-20211016.51/symex-dsl.el
+  symex-20211016.51/symex-evaluator.el
+  symex-20211016.51/symex-evil-support.el
+  symex-20211016.51/symex-evil.el
+  symex-20211016.51/symex-hydra.el
+  symex-20211016.51/symex-interface-arc.el
+  symex-20211016.51/symex-interface-clojure.el
+  symex-20211016.51/symex-interface-common-lisp.el
+  symex-20211016.51/symex-interface-elisp.el
+  symex-20211016.51/symex-interface-racket.el
+  symex-20211016.51/symex-interface-scheme.el
+  symex-20211016.51/symex-interop.el
+  symex-20211016.51/symex-misc.el
+  symex-20211016.51/symex-pkg.el
+  symex-20211016.51/symex-primitives.el
+  symex-20211016.51/symex-transformations.el
+  symex-20211016.51/symex-traversals.el
+  symex-20211016.51/symex-ui.el
+  symex-20211016.51/symex-utils.el
+  symex-20211016.51/symex.el
+Built symex in 5.549s, finished at 2021-10-22T16:26:02+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  606 Oct 22 16:26 packages/symex-20211016.51.entry
+192K -rw-r--r-- 1 root root 190K Oct 22 16:26 packages/symex-20211016.51.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:26 packages/symex-badge.svg
+4.0K -rw-r--r-- 1 root root  767 Oct 22 16:26 packages/symex-readme.txt

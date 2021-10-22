@@ -1,0 +1,42 @@
+Package: emojify-logos
+Fetcher: github
+Source:  https://github.com/mxgoldstein/emojify-logos.git
+
+Updating /mnt/store/melpa/working/emojify-logos/
+Checking out origin/HEAD
+Checking out a3e78bcbdf863092d4c9b026ac08bf7d1c7c0e8b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emojify-logos/
+  to /tmp/emojify-logosEIyTXp/emojify-logos-20180814.917
+    emojify-logos.el -> emojify-logos.el
+    logos => logos
+Created emojify-logos-20180814.917.tar containing:
+  emojify-logos-20180814.917/
+  emojify-logos-20180814.917/emojify-logos-pkg.el
+  emojify-logos-20180814.917/emojify-logos.el
+  emojify-logos-20180814.917/logos/
+  emojify-logos-20180814.917/logos/COPYRIGHT.MD
+  emojify-logos-20180814.917/logos/angularjs.png
+  emojify-logos-20180814.917/logos/c++.png
+  emojify-logos-20180814.917/logos/c.png
+  emojify-logos-20180814.917/logos/css3.png
+  emojify-logos-20180814.917/logos/emacs.png
+  emojify-logos-20180814.917/logos/erlang.png
+  emojify-logos-20180814.917/logos/haskell.png
+  emojify-logos-20180814.917/logos/html5.png
+  emojify-logos-20180814.917/logos/javascript.png
+  emojify-logos-20180814.917/logos/latex.png
+  emojify-logos-20180814.917/logos/markdown.png
+  emojify-logos-20180814.917/logos/org.png
+  emojify-logos-20180814.917/logos/pdf.png
+  emojify-logos-20180814.917/logos/perl.png
+  emojify-logos-20180814.917/logos/php.png
+  emojify-logos-20180814.917/logos/python.png
+  emojify-logos-20180814.917/logos/ruby.png
+  emojify-logos-20180814.917/logos/typescript.png
+Built emojify-logos in 13.313s, finished at 2021-10-22T19:15:42+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  327 Oct 22 19:15 packages/emojify-logos-20180814.917.entry
+ 52K -rw-r--r-- 1 root root  50K Oct 22 19:15 packages/emojify-logos-20180814.917.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:15 packages/emojify-logos-badge.svg
+4.0K -rw-r--r-- 1 root root  362 Oct 22 19:15 packages/emojify-logos-readme.txt

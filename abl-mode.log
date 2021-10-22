@@ -1,0 +1,13 @@
+Package: abl-mode
+Fetcher: github
+Source:  https://github.com/afroisalreadyinu/abl-mode.git
+
+Updating /mnt/store/melpa/working/abl-mode/
+Checking out origin/HEAD
+Checking out fc0eeb780d22aa1aac337f06cc9b479c51600243
+Built abl-mode in 6.455s, finished at 2021-10-22T18:48:11+0000
+ ✓ Success:
+ 16K -rw-r--r-- 1 root root  14K Oct 22 18:48 packages/abl-mode-20210923.950.el
+4.0K -rw-r--r-- 1 root root  334 Oct 22 18:48 packages/abl-mode-20210923.950.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:48 packages/abl-mode-badge.svg
+4.0K -rw-r--r-- 1 root root  234 Oct 22 18:48 packages/abl-mode-readme.txt

@@ -1,0 +1,12 @@
+(rtags-xref .
+	    [(20210721 2314)
+	     ((emacs
+	       (25 1))
+	      (rtags
+	       (2 37)))
+	     "RTags backend for xref.el" single
+	     ((:commit . "cdff9b47fc17710aad7815652490c3c620b5e792")
+	      (:authors
+	       ("Jörg Walter"))
+	      (:maintainer "RTags Team")
+	      (:url . "https://github.com/Andersbakken/rtags"))])

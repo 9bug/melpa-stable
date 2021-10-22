@@ -1,0 +1,30 @@
+Package: bufler
+Fetcher: github
+Source:  https://github.com/alphapapa/bufler.el.git
+
+Updating /mnt/store/melpa/working/bufler/
+Checking out origin/HEAD
+Checking out a68e0eb2719c67ab8a3ad56c4036364061d06004
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bufler/
+  to /tmp/buflerCIleI2/bufler-20210907.1145
+    bufler-group-tree.el -> bufler-group-tree.el
+    bufler-workspace-tabs.el -> bufler-workspace-tabs.el
+    bufler-workspace.el -> bufler-workspace.el
+    bufler.el -> bufler.el
+    bufler.info -> bufler.info
+Created bufler-20210907.1145.tar containing:
+  bufler-20210907.1145/
+  bufler-20210907.1145/bufler-group-tree.el
+  bufler-20210907.1145/bufler-pkg.el
+  bufler-20210907.1145/bufler-workspace-tabs.el
+  bufler-20210907.1145/bufler-workspace.el
+  bufler-20210907.1145/bufler.el
+  bufler-20210907.1145/bufler.info
+  bufler-20210907.1145/dir
+Built bufler in 6.459s, finished at 2021-10-22T18:56:29+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  484 Oct 22 18:56 packages/bufler-20210907.1145.entry
+120K -rw-r--r-- 1 root root 120K Oct 22 18:56 packages/bufler-20210907.1145.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:56 packages/bufler-badge.svg
+4.0K -rw-r--r-- 1 root root  575 Oct 22 18:56 packages/bufler-readme.txt

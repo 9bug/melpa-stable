@@ -1,0 +1,13 @@
+Package: podcaster
+Fetcher: github
+Source:  https://github.com/lujun9972/podcaster.git
+
+Updating /mnt/store/melpa/working/podcaster/
+Checking out origin/HEAD
+Checking out 7a21173da0c57e6aa41dbdc33383047386b35eb5
+Built podcaster in 5.545s, finished at 2021-10-22T16:12:09+0000
+ ✓ Success:
+8.0K -rw-r--r-- 1 root root 7.2K Oct 22 16:12 packages/podcaster-20200607.1054.el
+4.0K -rw-r--r-- 1 root root  326 Oct 22 16:12 packages/podcaster-20200607.1054.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 16:12 packages/podcaster-badge.svg
+4.0K -rw-r--r-- 1 root root  208 Oct 22 16:12 packages/podcaster-readme.txt

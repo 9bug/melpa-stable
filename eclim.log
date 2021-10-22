@@ -1,0 +1,46 @@
+Package: eclim
+Fetcher: github
+Source:  https://github.com/emacs-eclim/emacs-eclim.git
+
+Updating /mnt/store/melpa/working/eclim/
+Checking out origin/HEAD
+Checking out 222ddd48fcf0ee01592dec77c58e0cf3f2ea1100
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eclim/
+  to /tmp/eclim6O7ODx/eclim-20181108.1134
+    eclim-ant.el -> eclim-ant.el
+    eclim-common.el -> eclim-common.el
+    eclim-completion.el -> eclim-completion.el
+    eclim-debug.el -> eclim-debug.el
+    eclim-java-run.el -> eclim-java-run.el
+    eclim-java.el -> eclim-java.el
+    eclim-macros.el -> eclim-macros.el
+    eclim-maven.el -> eclim-maven.el
+    eclim-pkg.el -> eclim-pkg.el
+    eclim-problems.el -> eclim-problems.el
+    eclim-project.el -> eclim-project.el
+    eclim-scala.el -> eclim-scala.el
+    eclim.el -> eclim.el
+    eclimd.el -> eclimd.el
+Created eclim-20181108.1134.tar containing:
+  eclim-20181108.1134/
+  eclim-20181108.1134/eclim-ant.el
+  eclim-20181108.1134/eclim-common.el
+  eclim-20181108.1134/eclim-completion.el
+  eclim-20181108.1134/eclim-debug.el
+  eclim-20181108.1134/eclim-java-run.el
+  eclim-20181108.1134/eclim-java.el
+  eclim-20181108.1134/eclim-macros.el
+  eclim-20181108.1134/eclim-maven.el
+  eclim-20181108.1134/eclim-pkg.el
+  eclim-20181108.1134/eclim-problems.el
+  eclim-20181108.1134/eclim-project.el
+  eclim-20181108.1134/eclim-scala.el
+  eclim-20181108.1134/eclim.el
+  eclim-20181108.1134/eclimd.el
+Built eclim in 6.310s, finished at 2021-10-22T19:11:27+0000
+ ✓ Success:
+4.0K -rw-r--r-- 1 root root  257 Oct 22 19:11 packages/eclim-20181108.1134.entry
+200K -rw-r--r-- 1 root root 200K Oct 22 19:11 packages/eclim-20181108.1134.tar
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 19:11 packages/eclim-badge.svg
+4.0K -rw-r--r-- 1 root root  231 Oct 22 19:11 packages/eclim-readme.txt

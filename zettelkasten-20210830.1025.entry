@@ -1,0 +1,13 @@
+(zettelkasten .
+	      [(20210830 1025)
+	       ((emacs
+		 (25 1))
+		(s
+		 (1 10 0)))
+	       "Helper functions to organise notes in a Zettelkasten style" single
+	       ((:commit . "4048bf9e1be7ab759696a9541eec8f435359bcf3")
+		(:authors
+		 ("Yann Herklotz" . "yann@ymhg.org"))
+		(:maintainer "Yann Herklotz" . "yann@ymhg.org")
+		(:keywords "files" "hypermedia" "notes")
+		(:url . "https://github.com/ymherklotz/emacs-zettelkasten"))])

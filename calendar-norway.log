@@ -1,0 +1,13 @@
+Package: calendar-norway
+Fetcher: github
+Source:  https://github.com/unhammer/calendar-norway.el.git
+
+Updating /mnt/store/melpa/working/calendar-norway/
+Checking out origin/HEAD
+Checking out 4dd8c38ef30ad45931c8ae7bcdfd720c3fcffffc
+Built calendar-norway in 7.842s, finished at 2021-10-22T18:57:06+0000
+ ✓ Success:
+ 12K -rw-r--r-- 1 root root 8.1K Oct 22 18:57 packages/calendar-norway-20210608.1136.el
+4.0K -rw-r--r-- 1 root root  330 Oct 22 18:57 packages/calendar-norway-20210608.1136.entry
+4.0K -rw-r--r-- 1 root root 1.2K Oct 22 18:57 packages/calendar-norway-badge.svg
+4.0K -rw-r--r-- 1 root root  694 Oct 22 18:57 packages/calendar-norway-readme.txt
